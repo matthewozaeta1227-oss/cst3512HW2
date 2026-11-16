@@ -1,0 +1,2311 @@
+boro_ct,borough,nta_name,trees_alive,trees_dead,stumps,health_good,health_fair,health_poor,species_count,most_common_species
+3052900,Brooklyn,Williamsburg,220,5,1,179,37,4,25,London planetree
+5020806,Staten Island,Rossville-Woodrow,1507,13,56,1326,140,41,46,Callery pear
+4079701,Queens,Flushing,66,4,5,57,5,4,16,Japanese zelkova
+3068800,Brooklyn,Flatlands,134,1,5,131,3,0,22,London planetree
+3116800,Brooklyn,East New York,169,3,2,152,8,9,35,cherry
+3091000,Brooklyn,Brownsville,80,7,1,73,5,2,22,Japanese tree lilac
+3079202,Brooklyn,Erasmus,91,1,3,83,4,4,22,honeylocust
+3054900,Brooklyn,North Side-South Side,210,19,2,188,17,5,25,honeylocust
+2043101,Bronx,Norwood,128,2,4,77,41,10,24,Japanese zelkova
+1008400,Manhattan,Midtown-Midtown South,39,2,0,35,4,0,7,ginkgo
+5013301,Staten Island,West New Brighton-New Brighton-St. George,24,0,0,22,2,0,5,crab apple
+4028803,Queens,Baisley Park,140,3,5,112,20,8,22,green ash
+1019200,Manhattan,East Harlem North,78,6,1,68,6,4,14,honeylocust
+5013302,Staten Island,West New Brighton-New Brighton-St. George,302,22,4,241,40,21,40,Callery pear
+1010900,Manhattan,Midtown-Midtown South,21,0,0,13,4,4,3,ginkgo
+4013200,Queens,Richmond Hill,278,5,14,226,40,12,47,Norway maple
+2036400,Bronx,Eastchester-Edenwald-Baychester,206,5,11,174,27,5,32,ginkgo
+3110400,Brooklyn,East New York,895,40,29,702,143,50,61,London planetree
+1031900,Manhattan,Battery Park City-Lower Manhattan,6,0,0,6,0,0,1,London planetree
+2039902,Bronx,Bedford Park-Fordham North,147,9,2,104,27,16,29,pin oak
+4027702,Queens,Jackson Heights,185,5,7,132,38,15,28,Callery pear
+4079900,Queens,Queensboro Hill,328,7,20,250,62,16,51,Callery pear
+4015801,Queens,South Ozone Park,243,13,3,184,49,10,38,London planetree
+5011402,Staten Island,New Dorp-Midland Beach,517,14,10,394,113,10,57,London planetree
+3018501,Brooklyn,Fort Greene,115,4,1,76,34,5,16,Japanese zelkova
+2040303,Bronx,Van Cortlandt Village,168,3,10,148,11,9,28,honeylocust
+3034700,Brooklyn,Crown Heights North,162,2,6,137,21,4,24,honeylocust
+4043200,Queens,St. Albans,367,11,13,330,30,7,50,pin oak
+2023900,Bronx,Fordham South,338,7,8,275,52,11,35,pin oak
+3044500,Brooklyn,Bushwick North,291,16,10,152,102,37,36,honeylocust
+2023501,Bronx,Mount Hope,113,3,0,103,10,0,22,honeylocust
+4066403,Queens,Rosedale,723,8,6,675,34,14,39,honeylocust
+1019900,Manhattan,Morningside Heights,410,10,9,277,96,37,38,honeylocust
+5009602,Staten Island,Old Town-Dongan Hills-South Beach,763,5,7,729,20,14,54,Callery pear
+3029600,Brooklyn,Bensonhurst West,171,7,6,154,12,5,40,London planetree
+4079702,Queens,Flushing,185,4,6,137,43,5,21,London planetree
+3004900,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,180,5,2,156,16,8,29,London planetree
+5016901,Staten Island,Westerleigh,510,3,7,448,44,18,58,Callery pear
+2009302,Bronx,Hunts Point,791,32,6,593,146,52,56,honeylocust
+1023000,Manhattan,Central Harlem North-Polo Grounds,324,8,3,250,60,14,32,Callery pear
+1011500,Manhattan,Clinton,125,15,4,82,26,17,21,Callery pear
+2030201,Bronx,Co-op City,174,6,0,138,31,5,14,London planetree
+3073200,Brooklyn,Flatlands,180,7,6,132,38,10,33,London planetree
+1022500,Manhattan,Hamilton Heights,366,15,6,241,88,37,32,honeylocust
+4029900,Queens,Woodside,30,0,1,19,10,1,3,pin oak
+2014500,Bronx,Claremont-Bathgate,153,6,7,126,21,6,27,Japanese zelkova
+1018700,Manhattan,Upper West Side,403,7,6,337,53,13,28,littleleaf linden
+5001700,Staten Island,Stapleton-Rosebank,237,21,9,167,53,17,40,cherry
+4008700,Queens,Old Astoria,55,2,3,47,5,3,12,pin oak
+3045300,Brooklyn,Bushwick North,107,6,3,70,31,6,28,honeylocust
+4098700,Queens,Whitestone,833,14,19,735,83,15,75,Callery pear
+4010600,Queens,South Ozone Park,147,2,3,119,21,7,26,London planetree
+1020800,Manhattan,Central Harlem North-Polo Grounds,301,13,7,248,35,18,32,Callery pear
+3040800,Brooklyn,Bensonhurst East,126,1,5,111,12,3,27,London planetree
+5015100,Staten Island,Westerleigh,1107,6,10,1053,44,10,71,London planetree
+3005303,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,9,0,0,7,2,0,6,white ash
+2024600,Bronx,Pelham Parkway,237,7,6,220,12,5,40,Norway maple
+2023000,Bronx,Van Nest-Morris Park-Westchester Square,151,2,3,132,13,6,30,red maple
+1003400,Manhattan,East Village,305,2,6,245,46,14,35,honeylocust
+2026500,Bronx,Kingsbridge Heights,285,8,3,241,39,5,41,honeylocust
+3048800,Brooklyn,Kensington-Ocean Parkway,233,8,7,188,34,11,38,London planetree
+3039800,Brooklyn,Gravesend,121,2,4,111,8,2,23,London planetree
+3044000,Brooklyn,Ocean Parkway South,420,4,5,354,54,12,41,London planetree
+3079001,Brooklyn,Erasmus,48,2,2,41,6,1,17,pin oak
+3064200,Brooklyn,Madison,370,14,16,300,58,12,46,London planetree
+2011000,Bronx,Schuylerville-Throgs Neck-Edgewater Park,174,2,2,151,19,4,20,honeylocust
+4066100,Queens,Middle Village,245,0,9,181,48,16,34,London planetree
+4027800,Queens,Baisley Park,185,10,4,179,6,0,28,pin oak
+2007600,Bronx,West Farms-Bronx River,273,3,8,202,56,15,30,Norway maple
+2023100,Bronx,Mount Hope,116,3,5,67,32,17,27,honeylocust
+4067700,Queens,Middle Village,383,2,11,359,14,10,46,London planetree
+1009000,Manhattan,Turtle Bay-East Midtown,314,7,1,238,62,14,25,honeylocust
+1004300,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,210,13,7,165,34,11,28,honeylocust
+1001200,Manhattan,Lower East Side,104,7,0,79,17,8,16,London planetree
+3044902,Brooklyn,East Williamsburg,63,5,2,33,17,13,17,honeylocust
+3115200,Brooklyn,East New York,282,5,2,233,43,6,43,Japanese zelkova
+4097206,Queens,Hammels-Arverne-Edgemere,98,5,3,48,34,16,16,Callery pear
+2009301,Bronx,Hunts Point,850,50,10,679,122,49,58,honeylocust
+3035900,Brooklyn,Crown Heights North,248,8,9,200,44,4,31,American elm
+4011100,Queens,Steinway,217,2,4,189,21,7,35,pin oak
+1013800,Manhattan,Yorkville,324,9,9,221,77,26,35,Callery pear
+3052600,Brooklyn,Flatbush,352,1,3,306,34,12,42,London planetree
+1016001,Manhattan,Upper East Side-Carnegie Hill,358,3,5,283,66,9,31,Callery pear
+2042300,Bronx,Norwood,147,2,2,137,7,3,27,pin oak
+2040702,Bronx,Bedford Park-Fordham North,217,10,6,160,47,10,42,honeylocust
+2026702,Bronx,Van Cortlandt Village,265,13,13,198,58,9,41,pin oak
+3013700,Brooklyn,Park Slope-Gowanus,259,0,7,215,37,7,35,littleleaf linden
+3049900,Brooklyn,Greenpoint,232,5,2,197,30,5,28,pin oak
+3088400,Brooklyn,Rugby-Remsen Village,198,4,2,166,31,1,21,London planetree
+4073700,Queens,Forest Hills,223,2,3,195,26,2,31,pin oak
+3018000,Brooklyn,Bath Beach,173,2,3,161,11,1,23,London planetree
+3006600,Brooklyn,Bay Ridge,224,5,4,205,15,4,29,London planetree
+3045600,Brooklyn,Midwood,228,3,4,152,48,28,27,London planetree
+4162100,Queens,Bellerose,1374,13,53,971,342,61,57,honeylocust
+4024900,Queens,Woodside,315,8,9,236,56,23,39,London planetree
+3093800,Brooklyn,Rugby-Remsen Village,124,2,4,97,18,9,28,pin oak
+2004001,Bronx,Soundview-Bruckner,172,2,0,160,9,3,31,London planetree
+3029900,Brooklyn,Crown Heights North,203,3,3,165,26,12,20,honeylocust
+2001901,Bronx,Mott Haven-Port Morris,90,1,5,64,24,2,11,Callery pear
+4069300,Queens,Rego Park,148,2,6,98,34,16,21,maple
+3009001,Brooklyn,Sunset Park East,68,2,0,61,4,3,24,Chinese elm
+1010300,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,65,4,4,54,8,3,8,Callery pear
+4109700,Queens,Bayside-Bayside Hills,511,5,20,455,45,11,65,London planetree
+5014607,Staten Island,Great Kills,1126,23,39,786,257,83,43,Callery pear
+4015802,Queens,South Ozone Park,226,5,3,157,54,15,38,pin oak
+3021100,Brooklyn,Fort Greene,199,5,5,159,34,6,25,honeylocust
+2004800,Bronx,Soundview-Bruckner,157,1,1,124,26,7,24,pin oak
+3064800,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,204,1,7,180,21,3,37,London planetree
+4003900,Queens,Queensbridge-Ravenswood-Long Island City,48,5,8,40,4,4,13,honeylocust
+2037000,Bronx,Williamsbridge-Olinville,209,5,9,183,25,1,39,London planetree
+3038500,Brooklyn,Stuyvesant Heights,225,4,2,192,30,3,35,London planetree
+4044302,Queens,Corona,318,3,8,247,47,24,36,honeylocust
+1012200,Manhattan,Upper East Side-Carnegie Hill,363,6,1,287,56,20,34,Callery pear
+5020702,Staten Island,Port Richmond,334,4,4,301,23,10,39,honeylocust
+1028100,Manhattan,Washington Heights North,89,0,6,69,16,4,19,honeylocust
+3066000,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,214,1,1,199,14,1,36,London planetree
+3055600,Brooklyn,Homecrest,251,5,6,202,25,24,47,Callery pear
+3087401,Brooklyn,Prospect Lefferts Gardens-Wingate,90,2,2,73,17,0,26,London planetree
+3009402,Brooklyn,Sunset Park East,136,4,8,130,4,2,23,London planetree
+4047802,Queens,Jamaica Estates-Holliswood,136,6,3,109,20,7,20,ginkgo
+3013800,Brooklyn,Bay Ridge,217,0,1,197,16,4,29,pin oak
+4032800,Queens,Laurelton,422,5,15,366,49,7,46,pin oak
+3023600,Brooklyn,Borough Park,234,9,7,198,23,13,40,London planetree
+3096600,Brooklyn,Canarsie,119,3,8,109,9,1,27,London planetree
+2031600,Bronx,Allerton-Pelham Gardens,219,8,13,172,37,10,36,London planetree
+3001501,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,113,5,4,68,38,7,21,Japanese zelkova
+4103900,Queens,Whitestone,887,14,59,805,74,8,75,London planetree
+4004001,Queens,Woodhaven,220,7,4,200,16,4,25,cherry
+3066600,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,254,4,3,192,52,10,29,pin oak
+4018900,Queens,Hunters Point-Sunnyside-West Maspeth,222,3,4,177,23,22,25,Sophora
+2024000,Bronx,Van Nest-Morris Park-Westchester Square,233,2,3,206,26,1,37,littleleaf linden
+5029102,Staten Island,New Springville-Bloomfield-Travis,788,22,30,540,182,66,55,Callery pear
+4040902,Queens,North Corona,119,4,3,107,11,1,23,littleleaf linden
+4036700,Queens,East Elmhurst,193,4,1,166,24,3,48,pin oak
+3005601,Brooklyn,Bay Ridge,155,4,11,137,18,0,32,London planetree
+2013200,Bronx,Schuylerville-Throgs Neck-Edgewater Park,1029,7,13,957,51,21,68,hedge maple
+3054600,Brooklyn,Midwood,277,8,13,216,50,11,37,London planetree
+4007500,Queens,Astoria,136,2,4,124,8,4,20,Callery pear
+4011400,Queens,Richmond Hill,42,1,3,33,8,1,13,pin oak
+3068000,Brooklyn,Flatlands,173,2,4,152,16,5,25,London planetree
+1006500,Manhattan,West Village,339,8,3,177,132,30,28,honeylocust
+4051600,Queens,Queens Village,133,2,3,114,11,8,23,London planetree
+4000200,Queens,Woodhaven,208,8,5,192,16,0,39,London planetree
+2016000,Bronx,Schuylerville-Throgs Neck-Edgewater Park,441,9,13,389,40,12,42,London planetree
+3050900,Brooklyn,Williamsburg,238,13,0,206,29,3,22,Callery pear
+5013203,Staten Island,Great Kills,1251,13,21,1056,134,61,72,Callery pear
+4014000,Queens,Kew Gardens,322,2,4,258,44,20,46,London planetree
+3121000,Brooklyn,East New York,38,0,2,25,12,1,4,London planetree
+3037402,Brooklyn,Gravesend,203,5,6,149,44,10,14,London planetree
+3117800,Brooklyn,Cypress Hills-City Line,132,19,5,119,11,2,29,pin oak
+4046800,Queens,Jamaica,362,9,2,338,15,9,37,purple-leaf plum
+2039100,Bronx,Belmont,342,14,1,264,66,12,43,honeylocust
+4133900,Queens,Fresh Meadows-Utopia,121,10,8,93,25,3,25,pin oak
+3002100,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,323,11,5,260,53,10,43,Callery pear
+2038600,Bronx,Eastchester-Edenwald-Baychester,293,4,37,267,20,6,40,London planetree
+3043100,Brooklyn,Bushwick North,291,17,7,185,79,27,31,honeylocust
+4047600,Queens,Jamaica Estates-Holliswood,141,3,2,115,24,2,35,pin oak
+5007500,Staten Island,New Brighton-Silver Lake,291,10,2,240,46,5,48,Callery pear
+1006600,Manhattan,Murray Hill-Kips Bay,297,8,2,233,50,14,23,honeylocust
+4045000,Queens,Briarwood-Jamaica Hills,274,4,0,256,15,3,44,cherry
+2012101,Bronx,Morrisania-Melrose,168,0,1,157,11,0,24,Japanese zelkova
+1023900,Manhattan,Washington Heights South,67,1,0,37,16,14,13,honeylocust
+4063301,Queens,Glendale,242,0,28,208,30,4,29,London planetree
+3087600,Brooklyn,Prospect Lefferts Gardens-Wingate,146,17,5,135,8,3,22,London planetree
+1022200,Manhattan,Central Harlem South,285,14,5,208,48,29,26,honeylocust
+4054900,Queens,Ridgewood,296,9,20,166,92,38,34,Norway maple
+2044901,Bronx,Woodlawn-Wakefield,238,8,2,197,32,9,47,Norway maple
+4050400,Queens,Hollis,279,6,23,244,30,5,48,Norway maple
+4070900,Queens,Forest Hills,439,4,25,349,73,17,58,London planetree
+4053100,Queens,Maspeth,382,7,18,290,78,14,45,honeylocust
+1016400,Manhattan,East Harlem South,208,5,1,137,65,6,17,Japanese zelkova
+4138501,Queens,Oakland Gardens,1082,17,42,712,296,74,63,London planetree
+3031900,Brooklyn,Crown Heights South,196,1,2,160,30,6,24,American elm
+2006301,Bronx,West Concourse,678,40,30,491,121,66,39,honeylocust
+3013500,Brooklyn,Park Slope-Gowanus,321,5,10,264,44,13,35,pin oak
+2020502,Bronx,University Heights-Morris Heights,104,9,2,74,27,3,27,cherry
+4130100,Queens,Bellerose,935,12,39,567,323,45,49,pin oak
+3040700,Brooklyn,Bushwick South,16,0,0,6,10,0,2,London planetree
+5027702,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,688,29,7,411,213,64,29,Callery pear
+3117000,Brooklyn,East New York,200,6,8,174,23,3,32,honeylocust
+4015400,Queens,Richmond Hill,117,4,11,68,42,7,24,pin oak
+4016800,Queens,South Ozone Park,256,1,11,232,18,6,32,London planetree
+3024400,Brooklyn,Borough Park,152,2,3,139,9,4,27,London planetree
+5013204,Staten Island,Oakwood-Oakwood Beach,1419,20,37,1128,246,45,77,Callery pear
+3115800,Brooklyn,East New York (Pennsylvania Ave),286,16,2,227,41,18,42,honeylocust
+3024100,Brooklyn,Bedford,140,4,5,128,9,3,25,honeylocust
+4012500,Queens,Steinway,112,1,5,95,14,3,24,Japanese zelkova
+2007700,Bronx,Melrose South-Mott Haven North,192,4,4,151,30,11,35,honeylocust
+3069601,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,516,9,4,423,76,17,41,London planetree
+3072200,Brooklyn,Flatlands,278,3,9,235,38,5,30,London planetree
+4069701,Queens,Rego Park,125,4,8,91,29,5,19,London planetree
+3019000,Brooklyn,Bensonhurst West,173,3,4,151,17,5,31,London planetree
+4002500,Queens,Queensbridge-Ravenswood-Long Island City,139,2,4,107,32,0,10,London planetree
+3054700,Brooklyn,North Side-South Side,200,2,2,179,17,4,20,honeylocust
+3016400,Brooklyn,Bay Ridge,28,1,1,25,1,2,8,Callery pear
+4013400,Queens,Kew Gardens,198,2,3,154,33,11,35,littleleaf linden
+4026902,Queens,Elmhurst,68,5,1,49,14,5,21,ginkgo
+3118800,Brooklyn,Cypress Hills-City Line,305,6,1,256,37,12,43,cherry
+4002400,Queens,Richmond Hill,162,6,8,139,17,6,43,London planetree
+3041402,Brooklyn,Homecrest,404,3,5,326,70,8,42,London planetree
+5017007,Staten Island,Arden Heights,604,11,17,535,46,23,37,Callery pear
+3029200,Brooklyn,Bath Beach,149,6,4,127,18,4,26,London planetree
+2022300,Bronx,West Concourse,147,4,7,107,34,6,18,honeylocust
+1017000,Manhattan,East Harlem South,169,10,12,110,43,16,26,honeylocust
+4012602,Queens,Richmond Hill,164,0,7,148,12,4,30,London planetree
+3050202,Brooklyn,Windsor Terrace,177,1,7,155,19,3,34,London planetree
+4029700,Queens,Woodside,258,6,21,201,36,21,33,pin oak
+2001903,Bronx,Mott Haven-Port Morris,127,3,1,107,15,5,20,Sophora
+3081800,Brooklyn,Erasmus,136,6,4,109,20,7,35,London planetree
+3036900,Brooklyn,Ocean Hill,331,5,4,290,32,9,39,London planetree
+4028500,Queens,Jackson Heights,322,1,6,267,38,17,28,Norway maple
+4014300,Queens,Astoria,157,5,3,135,20,2,30,pin oak
+2016400,Bronx,Schuylerville-Throgs Neck-Edgewater Park,243,2,4,198,30,15,36,London planetree
+1012400,Manhattan,Lenox Hill-Roosevelt Island,275,4,7,134,90,51,14,honeylocust
+4008600,Queens,Ozone Park,419,10,19,326,80,13,40,green ash
+3067200,Brooklyn,Flatlands,116,10,5,85,24,7,22,London planetree
+3044800,Brooklyn,Ocean Parkway South,196,1,2,169,17,10,29,Japanese zelkova
+3037100,Brooklyn,Ocean Hill,288,2,0,265,19,4,33,Sophora
+3075400,Brooklyn,Midwood,290,1,10,254,28,8,47,London planetree
+3059402,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,422,4,23,371,35,16,32,London planetree
+1014500,Manhattan,Lincoln Square,241,3,2,198,41,2,13,honeylocust
+2021602,Bronx,Parkchester,182,0,2,157,24,1,24,honeylocust
+3080200,Brooklyn,Prospect Lefferts Gardens-Wingate,188,3,3,175,13,0,31,pin oak
+3007700,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,448,7,9,301,113,34,50,London planetree
+3082200,Brooklyn,Prospect Lefferts Gardens-Wingate,155,8,3,143,10,2,29,honeylocust
+4019903,Queens,Hunters Point-Sunnyside-West Maspeth,10,0,0,9,1,0,4,London planetree
+4055200,Queens,Queens Village,383,5,28,290,83,10,44,London planetree
+2023703,Bronx,Fordham South,178,7,4,138,35,5,26,honeylocust
+4019902,Queens,Hunters Point-Sunnyside-West Maspeth,41,3,0,22,11,8,12,honeylocust
+2039400,Bronx,Williamsbridge-Olinville,147,5,5,115,25,7,23,silver linden
+3029000,Brooklyn,Bensonhurst West,96,0,4,88,5,3,25,pin oak
+4042700,Queens,Corona,180,1,12,150,18,12,29,Callery pear
+4145101,Queens,Auburndale,385,1,10,343,34,8,45,pin oak
+3059300,Brooklyn,Greenpoint,253,4,3,215,34,4,43,honeylocust
+1028700,Manhattan,Washington Heights North,257,4,3,191,50,16,31,black locust
+2016700,Bronx,Claremont-Bathgate,240,4,1,203,25,12,30,honeylocust
+4042400,Queens,St. Albans,508,9,36,438,53,17,56,Norway maple
+2016600,Bronx,Schuylerville-Throgs Neck-Edgewater Park,243,2,7,188,46,9,35,Norway maple
+3014902,Brooklyn,Park Slope-Gowanus,300,5,3,258,28,14,37,London planetree
+3072800,Brooklyn,Flatlands,253,1,5,203,36,14,29,London planetree
+2029700,Bronx,Spuyten Duyvil-Kingsbridge,266,9,14,229,34,3,32,pin oak
+1006700,Manhattan,West Village,386,9,2,281,87,18,43,ginkgo
+4129103,Queens,Oakland Gardens,389,13,9,340,40,9,49,London planetree
+4105900,Queens,Murray Hill,1205,14,29,1054,122,29,75,London planetree
+4065000,Queens,Laurelton,740,21,13,531,163,46,62,Norway maple
+2033400,Bronx,Belmont,400,12,14,351,21,28,28,pin oak
+4027600,Queens,Baisley Park,118,13,3,94,18,6,22,cherry
+3092800,Brooklyn,Rugby-Remsen Village,91,1,12,77,10,4,22,London planetree
+5012806,Staten Island,Oakwood-Oakwood Beach,978,24,14,832,111,35,68,London planetree
+4038301,Queens,Flushing,24,0,3,15,8,1,6,pin oak
+5004003,Staten Island,Grymes Hill-Clifton-Fox Hills,233,7,1,210,18,5,23,pin oak
+4119100,Queens,East Flushing,212,2,6,174,29,9,46,sycamore maple
+3040400,Brooklyn,Bensonhurst East,190,3,3,159,24,7,46,London planetree
+4058700,Queens,Ridgewood,327,3,15,221,71,35,36,Japanese zelkova
+4156700,Queens,Bellerose,344,24,20,217,96,31,29,green ash
+1011900,Manhattan,Midtown-Midtown South,29,2,0,20,8,1,6,ginkgo
+3102200,Brooklyn,Canarsie,176,1,8,130,38,8,27,London planetree
+5024402,Staten Island,Charleston-Richmond Valley-Tottenville,1860,6,35,1457,322,81,68,Callery pear
+4064500,Queens,Forest Hills,372,4,21,288,65,19,51,Norway maple
+2006100,Bronx,East Concourse-Concourse Village,53,3,0,40,12,1,9,honeylocust
+2023800,Bronx,Van Nest-Morris Park-Westchester Square,249,12,0,229,15,5,41,pin oak
+4012000,Queens,Richmond Hill,193,12,6,165,21,7,22,London planetree
+1013202,Manhattan,Lenox Hill-Roosevelt Island,88,1,3,71,13,4,8,honeylocust
+3088200,Brooklyn,Rugby-Remsen Village,192,0,4,178,12,2,21,London planetree
+3039100,Brooklyn,Bushwick South,215,11,4,184,27,4,23,Japanese zelkova
+4000800,Queens,Woodhaven,230,3,6,215,15,0,30,London planetree
+3098800,Brooklyn,Canarsie,152,0,4,127,22,3,23,London planetree
+3028900,Brooklyn,Stuyvesant Heights,221,4,2,193,27,1,30,honeylocust
+1016800,Manhattan,East Harlem South,217,8,4,136,65,16,16,London planetree
+5001100,Staten Island,West New Brighton-New Brighton-St. George,535,22,6,450,69,16,50,Japanese zelkova
+3035702,Brooklyn,Crown Heights North,124,0,9,95,27,2,14,London planetree
+3011901,Brooklyn,Park Slope-Gowanus,248,14,5,184,41,23,39,pin oak
+2002001,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,91,2,4,70,11,10,13,London planetree
+3026600,Brooklyn,Bensonhurst West,226,1,7,201,16,9,22,London planetree
+5012805,Staten Island,Oakwood-Oakwood Beach,546,26,9,400,124,22,74,Callery pear
+5018901,Staten Island,Westerleigh,1388,22,13,1262,98,28,87,London planetree
+4009500,Queens,Steinway,256,1,8,166,72,18,36,pin oak
+4019200,Queens,Baisley Park,264,4,13,237,17,10,38,London planetree
+4054800,Queens,Queens Village,291,3,14,216,56,19,43,cherry
+3090000,Brooklyn,Brownsville,335,13,10,305,27,3,34,London planetree
+4047000,Queens,Jamaica,327,8,2,314,11,2,33,cherry
+4007900,Queens,Old Astoria,145,3,6,110,27,8,29,honeylocust
+2041500,Bronx,Bedford Park-Fordham North,209,1,6,158,37,14,33,Norway maple
+4103300,Queens,Whitestone,804,15,36,694,89,21,63,Norway maple
+1002500,Manhattan,Chinatown,37,1,0,31,4,2,10,London planetree
+5014606,Staten Island,Great Kills,1166,51,32,878,226,62,47,sweetgum
+4081800,Queens,South Ozone Park,491,4,19,414,60,17,46,pin oak
+4000102,Queens,Hunters Point-Sunnyside-West Maspeth,147,5,0,126,10,11,12,ginkgo
+4086300,Queens,Murray Hill,161,4,1,136,18,7,34,pin oak
+3094401,Brooklyn,Flatlands,319,6,8,262,47,10,36,London planetree
+4046902,Queens,Elmhurst,114,3,9,92,19,3,13,honeylocust
+3080000,Brooklyn,Prospect Lefferts Gardens-Wingate,294,2,5,278,14,2,41,London planetree
+4064102,Queens,Woodhaven,273,1,15,210,54,9,24,pin oak
+2011900,Bronx,Hunts Point,247,8,2,214,20,13,29,honeylocust
+1015002,Manhattan,Upper East Side-Carnegie Hill,301,4,4,229,57,15,26,ginkgo
+3012700,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,195,4,1,154,35,6,29,honeylocust
+4038100,Queens,North Corona,369,10,17,291,66,12,39,Callery pear
+4022001,Queens,Briarwood-Jamaica Hills,481,4,7,398,70,13,46,pin oak
+3029100,Brooklyn,Stuyvesant Heights,182,2,2,164,16,2,28,pin oak
+3079802,Brooklyn,Prospect Lefferts Gardens-Wingate,98,5,3,79,17,2,21,pin oak
+3024700,Brooklyn,Crown Heights North,182,0,1,139,28,15,25,honeylocust
+4041400,Queens,South Jamaica,342,6,4,319,17,6,42,pin oak
+4012800,Queens,Richmond Hill,239,4,10,197,33,9,34,Norway maple
+4155101,Queens,Glen Oaks-Floral Park-New Hyde Park,26,0,13,24,1,1,3,green ash
+1012700,Manhattan,Clinton,311,9,10,247,54,10,25,honeylocust
+5024401,Staten Island,Charleston-Richmond Valley-Tottenville,2324,29,39,2044,197,83,74,Callery pear
+3003500,Brooklyn,Fort Greene,178,3,1,129,40,9,27,littleleaf linden
+3019500,Brooklyn,Clinton Hill,295,4,9,251,39,5,35,ginkgo
+3074400,Brooklyn,Flatlands,278,2,10,243,24,11,41,London planetree
+3019100,Brooklyn,Clinton Hill,254,4,13,211,36,7,33,littleleaf linden
+3081400,Brooklyn,East Flatbush-Farragut,157,1,6,136,19,2,26,London planetree
+4077905,Queens,Kew Gardens Hills,172,4,5,129,39,4,20,pin oak
+3118000,Brooklyn,Cypress Hills-City Line,100,0,10,94,4,2,10,London planetree
+1011100,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,186,11,6,172,6,8,16,Callery pear
+5027706,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,510,18,2,323,150,37,49,pin oak
+4012100,Queens,Steinway,246,2,5,220,21,5,45,green ash
+1009200,Manhattan,Turtle Bay-East Midtown,110,5,0,74,24,12,9,honeylocust
+1007500,Manhattan,West Village,368,10,5,310,45,13,35,Callery pear
+2039700,Bronx,Belmont,201,7,3,161,32,8,30,honeylocust
+4014100,Queens,Astoria,120,1,9,93,20,7,28,pin oak
+3010802,Brooklyn,Sunset Park East,82,6,2,70,11,1,23,London planetree
+3017100,Brooklyn,Windsor Terrace,430,0,11,365,56,9,49,London planetree
+1028500,Manhattan,Washington Heights North,211,16,8,139,55,17,28,Japanese zelkova
+2040800,Bronx,Williamsbridge-Olinville,143,8,5,106,31,6,28,honeylocust
+4120100,Queens,East Flushing,141,1,7,106,24,11,35,pin oak
+1016900,Manhattan,Upper West Side,344,7,2,283,48,13,21,honeylocust
+3056400,Brooklyn,Madison,285,3,7,238,28,19,41,London planetree
+2025000,Bronx,Pelham Parkway,189,4,7,171,14,4,44,London planetree
+2036000,Bronx,Allerton-Pelham Gardens,342,4,11,270,63,9,34,green ash
+4015900,Queens,Astoria,247,5,1,202,35,10,39,pin oak
+4027200,Queens,Baisley Park,260,8,4,233,20,7,25,honeylocust
+3017700,Brooklyn,Park Slope-Gowanus,795,1,21,617,152,26,48,pin oak
+5023900,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville,481,18,5,287,131,63,49,cherry
+4144700,Queens,Bayside-Bayside Hills,670,8,12,561,102,7,47,pin oak
+4061302,Queens,Middle Village,39,0,0,31,8,0,4,pin oak
+3040500,Brooklyn,Bushwick South,121,3,2,95,23,3,22,Sophora
+3039400,Brooklyn,Homecrest,347,4,2,274,62,11,37,honeylocust
+4062700,Queens,Glendale,390,2,5,265,110,15,35,London planetree
+3050804,Brooklyn,Flatbush,138,0,5,102,34,2,18,honeylocust
+3065000,Brooklyn,Flatlands,175,6,8,147,18,10,27,London planetree
+4020200,Queens,South Jamaica,173,1,4,128,42,3,15,London planetree
+2002400,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,117,1,3,102,13,2,13,Japanese zelkova
+3036300,Brooklyn,Ocean Hill,310,7,5,268,29,13,35,Callery pear
+4013600,Queens,Kew Gardens,188,4,3,136,42,10,36,London planetree
+1019600,Manhattan,East Harlem North,214,37,9,168,27,19,24,honeylocust
+5003900,Staten Island,Grymes Hill-Clifton-Fox Hills,328,3,3,266,56,6,36,London planetree
+3115000,Brooklyn,East New York,199,5,6,160,29,10,42,honeylocust
+3002000,Brooklyn,Sunset Park West,91,4,0,83,8,0,22,honeylocust
+2013100,Bronx,Longwood,416,15,4,350,57,9,38,honeylocust
+2001600,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,503,7,13,441,50,12,47,London planetree
+3005602,Brooklyn,Bay Ridge,120,9,3,101,16,3,23,London planetree
+3018600,Brooklyn,Bensonhurst West,118,0,1,103,12,3,23,London planetree
+4028300,Queens,Jackson Heights,337,0,6,282,47,8,23,Callery pear
+3013600,Brooklyn,Bay Ridge,324,5,9,286,29,9,37,London planetree
+2002800,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,226,2,5,209,15,2,22,London planetree
+4005300,Queens,Astoria,224,2,7,187,31,6,40,London planetree
+4146300,Queens,Bayside-Bayside Hills,498,4,18,407,54,37,56,London planetree
+4091800,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,12,0,0,0,3,9,2,white ash
+3002901,Brooklyn,Fort Greene,40,7,0,27,8,5,9,London planetree
+3083000,Brooklyn,East Flatbush-Farragut,221,3,7,185,27,9,32,London planetree
+1018800,Manhattan,East Harlem North,224,7,21,147,59,18,26,honeylocust
+1010400,Manhattan,Midtown-Midtown South,181,5,2,126,51,4,9,honeylocust
+2051601,Bronx,Pelham Bay-Country Club-City Island,1027,8,16,862,129,36,72,cherry
+4009800,Queens,South Ozone Park,98,3,6,68,23,7,20,honeylocust
+4033401,Queens,St. Albans,532,4,14,474,51,7,31,honeylocust
+2018302,Bronx,East Concourse-Concourse Village,148,8,11,116,22,10,25,honeylocust
+4099705,Queens,Ft. Totten-Bay Terrace-Clearview,175,3,10,137,25,13,28,honeylocust
+4015500,Queens,Astoria,193,11,8,171,15,7,26,pin oak
+4021603,Queens,Kew Gardens,30,4,1,19,11,0,3,Norway maple
+3014101,Brooklyn,Park Slope-Gowanus,96,1,6,84,10,2,29,honeylocust
+4045700,Queens,Elmhurst,167,0,9,153,11,3,32,pin oak
+3047400,Brooklyn,Borough Park,286,2,11,274,9,3,32,London planetree
+4104700,Queens,Murray Hill,1138,13,46,1016,98,24,65,London planetree
+4026300,Queens,Woodside,215,0,4,184,28,3,27,London planetree
+3065800,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,191,1,7,164,25,2,24,London planetree
+3007400,Brooklyn,Sunset Park West,210,6,7,159,31,20,27,honeylocust
+3050001,Brooklyn,Windsor Terrace,180,1,0,170,9,1,27,London planetree
+4028801,Queens,Baisley Park,509,8,14,345,120,44,25,ginkgo
+1024100,Manhattan,Washington Heights South,264,10,8,201,38,25,22,honeylocust
+4114700,Queens,Murray Hill,483,2,5,418,50,15,57,silver maple
+2006800,Bronx,Soundview-Bruckner,248,3,5,203,33,12,25,littleleaf linden
+4143500,Queens,Bayside-Bayside Hills,419,2,8,373,32,14,48,Norway maple
+4089201,Queens,Lindenwood-Howard Beach,2239,72,66,1713,408,118,89,Callery pear
+3053102,Brooklyn,Bedford,165,0,1,152,12,1,19,Callery pear
+3010601,Brooklyn,Sunset Park East,99,1,2,84,9,6,15,pin oak
+4099704,Queens,Ft. Totten-Bay Terrace-Clearview,366,5,12,278,78,10,26,pin oak
+4011800,Queens,Richmond Hill,181,1,7,115,43,23,28,Norway maple
+3036002,Brooklyn,Brighton Beach,67,2,4,49,14,4,18,London planetree
+1007300,Manhattan,West Village,433,8,3,296,114,23,40,ginkgo
+2021301,Bronx,University Heights-Morris Heights,59,11,2,45,7,7,11,honeylocust
+1009800,Manhattan,Turtle Bay-East Midtown,317,6,5,240,54,23,26,ginkgo
+2030900,Bronx,North Riverdale-Fieldston-Riverdale,187,15,9,151,31,5,20,London planetree
+3087200,Brooklyn,East Flatbush-Farragut,154,2,6,152,2,0,23,London planetree
+3035102,Brooklyn,Crown Heights North,123,3,14,99,20,4,21,London planetree
+2007800,Bronx,Westchester-Unionport,462,28,3,381,58,23,46,London planetree
+3021500,Brooklyn,Prospect Heights,273,10,4,200,65,8,33,honeylocust
+3031401,Brooklyn,Gravesend,254,4,13,191,54,9,29,honeylocust
+3021700,Brooklyn,Crown Heights North,175,1,2,114,55,6,25,American elm
+4047300,Queens,Elmhurst,262,1,6,212,37,13,22,green ash
+4157102,Queens,Bellerose,390,4,23,321,64,5,37,green ash
+4006201,Queens,Lindenwood-Howard Beach,349,0,1,340,8,1,27,London planetree
+3075600,Brooklyn,Midwood,344,5,8,306,27,11,36,London planetree
+3048000,Brooklyn,Flatbush,215,1,6,193,16,6,30,honeylocust
+5007700,Staten Island,West New Brighton-New Brighton-St. George,200,11,0,181,13,6,39,sweetgum
+1020701,Manhattan,Morningside Heights,103,8,2,73,25,5,19,ginkgo
+1026100,Manhattan,Washington Heights South,296,12,7,213,59,24,36,honeylocust
+1020000,Manhattan,Central Harlem South,237,2,1,180,42,15,27,honeylocust
+3074200,Brooklyn,Flatlands,194,2,14,168,17,9,31,London planetree
+4012301,Queens,Steinway,725,14,24,601,95,29,47,honeylocust
+3058000,Brooklyn,Madison,212,4,5,165,37,10,35,London planetree
+3042500,Brooklyn,Bushwick South,239,8,4,194,31,14,34,Callery pear
+4003301,Queens,Queensbridge-Ravenswood-Long Island City,161,2,3,120,31,10,24,honeylocust
+2003700,Bronx,Mott Haven-Port Morris,26,0,1,15,9,2,10,green ash
+3013300,Brooklyn,Park Slope-Gowanus,339,1,3,288,45,6,38,honeylocust
+4077904,Queens,Kew Gardens Hills,683,10,16,580,83,20,49,London planetree
+3020100,Brooklyn,Clinton Hill,324,3,6,284,36,4,38,London planetree
+1025900,Manhattan,Central Harlem North-Polo Grounds,171,5,0,152,18,1,21,Callery pear
+1011401,Manhattan,Upper East Side-Carnegie Hill,135,2,5,109,23,3,18,Callery pear
+3076200,Brooklyn,Midwood,215,2,2,159,45,11,31,London planetree
+1029300,Manhattan,Marble Hill-Inwood,204,9,6,148,36,20,20,Japanese zelkova
+2041900,Bronx,Norwood,462,4,13,387,64,11,39,honeylocust
+4128300,Queens,Fresh Meadows-Utopia,362,9,21,257,67,38,27,pin oak
+5017011,Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville,1332,17,54,703,495,134,58,Callery pear
+4066900,Queens,Middle Village,199,3,11,151,47,1,33,maple
+2014701,Bronx,Claremont-Bathgate,68,5,4,58,7,3,16,honeylocust
+3026900,Brooklyn,Bedford,181,1,1,155,21,5,31,London planetree
+4044800,Queens,Briarwood-Jamaica Hills,263,6,12,243,16,4,39,honeylocust
+3007600,Brooklyn,Sunset Park West,214,6,6,192,17,5,30,London planetree
+2008700,Bronx,Longwood,343,18,13,320,20,3,29,honeylocust
+4122702,Queens,Pomonok-Flushing Heights-Hillcrest,376,7,10,311,58,7,33,pin oak
+3044901,Brooklyn,East Williamsburg,152,7,3,131,11,10,22,London planetree
+3020800,Brooklyn,Dyker Heights,144,3,2,108,32,4,26,London planetree
+4150701,Queens,Douglas Manor-Douglaston-Little Neck,1334,16,33,1170,140,24,82,Callery pear
+3046202,Brooklyn,Ocean Parkway South,213,6,5,153,54,6,37,pin oak
+1015403,Manhattan,Yorkville,91,1,3,81,8,2,7,honeylocust
+3014700,Brooklyn,Sunset Park West,142,2,3,123,9,10,24,London planetree
+4017400,Queens,South Ozone Park,167,2,8,132,31,4,28,London planetree
+2021501,Bronx,University Heights-Morris Heights,183,3,1,121,62,0,23,littleleaf linden
+4060701,Queens,Middle Village,27,1,1,15,9,3,9,pin oak
+1012102,Manhattan,Clinton,170,1,3,140,24,6,13,honeylocust
+4074300,Queens,Forest Hills,298,12,7,261,35,2,33,London planetree
+3034100,Brooklyn,Crown Heights North,139,4,6,89,35,15,24,pin oak
+5018100,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,450,12,9,353,80,17,55,pin oak
+3030500,Brooklyn,Crown Heights North,322,5,6,243,56,23,36,honeylocust
+3094600,Brooklyn,Rugby-Remsen Village,352,2,10,296,42,14,43,London planetree
+2030000,Bronx,Pelham Bay-Country Club-City Island,361,9,14,338,17,6,43,pin oak
+2038100,Bronx,Mount Hope,184,13,5,138,41,5,29,honeylocust
+3014200,Brooklyn,Bay Ridge,196,4,2,159,28,9,20,pin oak
+3006901,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,137,1,7,109,24,4,29,London planetree
+3021800,Brooklyn,Borough Park,236,2,2,201,30,5,41,London planetree
+4053502,Queens,Maspeth,18,0,0,13,5,0,6,honeylocust
+4040502,Queens,North Corona,46,3,0,44,2,0,10,Japanese zelkova
+4069400,Queens,Springfield Gardens South-Brookville,368,8,9,311,45,12,38,Norway maple
+4100803,Queens,Far Rockaway-Bayswater,259,7,2,186,60,13,29,London planetree
+4037502,Queens,North Corona,172,5,2,131,25,16,26,honeylocust
+2044800,Bronx,Woodlawn-Wakefield,180,0,6,152,25,3,30,London planetree
+3120802,Brooklyn,East New York,85,1,0,60,21,4,15,London planetree
+4118100,Queens,Auburndale,259,2,4,230,23,6,38,London planetree
+3053500,Brooklyn,Williamsburg,275,1,4,252,21,2,24,green ash
+2024400,Bronx,Van Nest-Morris Park-Westchester Square,217,5,5,202,12,3,42,honeylocust
+3010402,Brooklyn,Sunset Park East,52,3,4,42,10,0,18,London planetree
+4053200,Queens,Queens Village,136,1,5,124,10,2,26,London planetree
+3028600,Brooklyn,Bath Beach,100,1,4,99,1,0,17,London planetree
+4017901,Queens,Hunters Point-Sunnyside-West Maspeth,88,1,1,76,11,1,20,Callery pear
+2046000,Bronx,Eastchester-Edenwald-Baychester,242,6,17,203,30,9,33,Sophora
+4059800,Queens,Cambria Heights,189,6,10,151,31,7,25,honeylocust
+3101800,Brooklyn,Canarsie,175,6,19,95,73,7,26,London planetree
+1002400,Manhattan,Lower East Side,48,2,1,32,13,3,15,London planetree
+3086400,Brooklyn,Rugby-Remsen Village,169,3,5,151,15,3,38,London planetree
+1017900,Manhattan,Upper West Side,380,3,2,320,53,7,31,pin oak
+4026502,Queens,Elmhurst-Maspeth,49,0,1,45,1,3,15,littleleaf linden
+3048600,Brooklyn,Kensington-Ocean Parkway,130,1,6,115,14,1,28,London planetree
+4000103,Queens,Queensbridge-Ravenswood-Long Island City,41,3,0,28,12,1,9,Callery pear
+3060600,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,115,3,9,49,63,3,26,London planetree
+2013500,Bronx,Morrisania-Melrose,188,0,4,171,16,1,23,honeylocust
+2003100,Bronx,Mott Haven-Port Morris,85,0,6,67,13,5,23,Callery pear
+3032500,Brooklyn,Crown Heights South,233,3,5,195,32,6,23,London planetree
+3061600,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,358,6,8,262,84,12,32,ginkgo
+2038500,Bronx,Claremont-Bathgate,276,17,11,143,111,22,45,northern red oak
+3018200,Brooklyn,Bensonhurst West,124,4,4,81,36,7,30,London planetree
+4093402,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,240,10,28,168,57,15,35,Callery pear
+1003800,Manhattan,East Village,322,10,6,250,47,25,30,honeylocust
+1017500,Manhattan,Upper West Side,424,3,5,373,40,11,28,pin oak
+3070000,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,248,5,4,192,38,18,30,London planetree
+4027500,Queens,Jackson Heights,321,7,11,247,58,16,36,pin oak
+4003200,Queens,Woodhaven,129,2,5,105,18,6,28,pin oak
+4072100,Queens,Forest Hills,286,4,13,193,76,17,33,London planetree
+3013100,Brooklyn,Park Slope-Gowanus,315,2,4,236,58,21,39,Norway maple
+3052300,Brooklyn,North Side-South Side,240,12,9,208,24,8,29,honeylocust
+3039600,Brooklyn,Homecrest,266,5,3,238,26,2,36,London planetree
+3036200,Brooklyn,Brighton Beach,105,3,7,69,27,9,20,London planetree
+2042902,Bronx,Norwood,129,1,3,108,14,7,31,honeylocust
+4050600,Queens,Hollis,297,5,6,274,20,3,43,pin oak
+3040200,Brooklyn,Bensonhurst East,180,2,3,147,32,1,23,London planetree
+3036700,Brooklyn,Ocean Hill,173,8,1,129,38,6,32,honeylocust
+5031902,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville,479,13,19,315,115,49,40,Callery pear
+2046205,Bronx,Co-op City,322,6,5,286,32,4,28,honeylocust
+5012100,Staten Island,New Brighton-Silver Lake,918,10,14,832,75,11,61,London planetree
+3065200,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,244,8,4,229,11,4,32,London planetree
+1002700,Manhattan,Chinatown,68,6,3,39,28,1,12,American elm
+5019700,Staten Island,Westerleigh,352,5,4,328,19,5,48,honeylocust
+2003900,Bronx,Mott Haven-Port Morris,221,15,1,205,12,4,33,honeylocust
+2046204,Bronx,Co-op City,179,2,3,171,4,4,18,London planetree
+3054300,Brooklyn,Fort Greene,91,1,0,46,26,19,11,honeylocust
+4076901,Queens,Forest Hills,170,6,7,140,23,7,29,Callery pear
+4046300,Queens,Elmhurst,157,3,6,122,27,8,18,green ash
+3093400,Brooklyn,Rugby-Remsen Village,241,1,6,212,26,3,29,London planetree
+2043400,Bronx,Woodlawn-Wakefield,195,6,8,161,28,6,32,honeylocust
+2021900,Bronx,Highbridge,136,16,5,89,35,12,20,honeylocust
+3005400,Brooklyn,Bay Ridge,186,1,4,161,20,5,38,London planetree
+4129102,Queens,Oakland Gardens,1300,24,45,1106,146,48,67,London planetree
+3056301,Brooklyn,Greenpoint,298,6,3,255,38,5,29,pin oak
+3025700,Brooklyn,Bedford,169,7,8,122,43,4,28,pin oak
+1012901,Manhattan,Clinton,124,10,6,80,35,9,13,Callery pear
+2037600,Bronx,Williamsbridge-Olinville,95,4,3,89,4,2,26,pin oak
+4120701,Queens,East Flushing,471,11,19,412,45,14,65,Norway maple
+4025900,Queens,Woodside,221,3,5,184,28,9,32,pin oak
+1023300,Manhattan,Hamilton Heights,379,4,17,290,60,29,40,pin oak
+3116000,Brooklyn,East New York,340,2,0,230,89,21,54,honeylocust
+4035100,Queens,Jackson Heights,180,1,7,139,30,11,25,London planetree
+3036501,Brooklyn,Ocean Hill,149,2,2,130,15,4,18,honeylocust
+1007900,Manhattan,West Village,403,11,1,328,50,25,34,Callery pear
+4023800,Queens,Jamaica,183,7,2,156,21,6,32,London planetree
+4045500,Queens,Corona,32,2,0,16,13,3,10,London planetree
+1015301,Manhattan,Lincoln Square,215,0,1,186,20,9,22,honeylocust
+1005700,Manhattan,West Village,32,0,0,22,10,0,8,honeylocust
+4018300,Queens,Hunters Point-Sunnyside-West Maspeth,360,6,2,274,67,19,28,London planetree
+2013300,Bronx,Morrisania-Melrose,160,8,5,146,11,3,24,honeylocust
+1013900,Manhattan,Clinton,276,6,2,169,87,20,22,honeylocust
+4014400,Queens,Richmond Hill,217,3,6,189,19,9,46,cherry
+5014604,Staten Island,Great Kills,1693,44,59,1274,325,94,63,Callery pear
+3055800,Brooklyn,Madison,188,4,8,150,24,14,40,London planetree
+3093200,Brooklyn,East Flatbush-Farragut,92,1,10,65,15,12,26,London planetree
+4061200,Queens,Cambria Heights,266,5,11,233,21,12,33,Callery pear
+4056600,Queens,Queens Village,237,5,19,169,61,7,40,pin oak
+4061900,Queens,Middle Village,188,5,14,153,28,7,41,London planetree
+4060100,Queens,Maspeth,171,2,2,147,21,3,33,pin oak
+5005000,Staten Island,Grasmere-Arrochar-Ft. Wadsworth,525,5,7,454,52,19,52,Callery pear
+1000800,Manhattan,Chinatown,286,7,0,220,54,12,22,London planetree
+1004900,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,229,2,6,197,23,9,26,honeylocust
+3081000,Brooklyn,Prospect Lefferts Gardens-Wingate,138,3,2,133,5,0,17,London planetree
+3039700,Brooklyn,Bushwick South,221,0,6,187,32,2,30,honeylocust
+3037401,Brooklyn,Gravesend,290,4,4,197,80,13,34,London planetree
+4099802,Queens,Far Rockaway-Bayswater,150,13,0,56,80,14,17,honeylocust
+5007400,Staten Island,Grasmere-Arrochar-Ft. Wadsworth,381,3,4,305,63,13,44,cherry
+3030800,Brooklyn,Gravesend,110,2,2,84,24,2,24,Sophora
+3011800,Brooklyn,Sunset Park East,169,2,2,135,28,6,22,littleleaf linden
+3034902,Brooklyn,Crown Heights North,129,3,1,98,26,5,23,London planetree
+1013000,Manhattan,Upper East Side-Carnegie Hill,393,5,1,307,55,31,32,ginkgo
+3051300,Brooklyn,North Side-South Side,276,15,12,186,82,8,30,London planetree
+1011800,Manhattan,Lenox Hill-Roosevelt Island,356,9,7,210,108,38,25,honeylocust
+1017401,Manhattan,East Harlem South,163,2,1,143,17,3,14,honeylocust
+3014500,Brooklyn,Sunset Park West,286,4,12,239,41,6,37,London planetree
+4140902,Queens,Auburndale,887,13,35,763,84,40,62,London planetree
+4001902,Queens,Hunters Point-Sunnyside-West Maspeth,65,6,1,39,13,13,16,American hornbeam
+4046901,Queens,Elmhurst,99,1,0,77,17,5,13,honeylocust
+4041100,Queens,Corona,214,3,2,167,28,19,28,Callery pear
+4073100,Queens,Forest Hills,382,3,25,332,43,7,64,Norway maple
+1015302,Manhattan,Lincoln Square,252,5,2,218,33,1,18,honeylocust
+2042100,Bronx,Norwood,262,12,16,208,31,23,32,honeylocust
+4024600,Queens,Jamaica,175,12,2,99,52,24,25,Callery pear
+1012800,Manhattan,Upper East Side-Carnegie Hill,434,6,7,347,67,20,31,honeylocust
+4093900,Queens,College Point,775,15,18,558,182,35,77,pin oak
+3080800,Brooklyn,Prospect Lefferts Gardens-Wingate,107,3,4,96,8,3,16,Japanese zelkova
+3012100,Brooklyn,Park Slope-Gowanus,178,2,2,126,47,5,27,honeylocust
+2043501,Bronx,Williamsbridge-Olinville,20,0,2,20,0,0,4,pin oak
+4001200,Queens,Woodhaven,302,3,8,244,50,8,59,London planetree
+4101002,Queens,Far Rockaway-Bayswater,833,34,17,566,200,67,53,honeylocust
+3044100,Brooklyn,Bushwick North,255,13,13,141,94,20,31,honeylocust
+4063700,Queens,Glendale,595,12,52,457,97,41,48,Callery pear
+3080400,Brooklyn,Prospect Lefferts Gardens-Wingate,165,3,8,130,24,11,27,London planetree
+3043400,Brooklyn,Bensonhurst East,176,3,3,143,27,6,33,honeylocust
+4002000,Queens,Woodhaven,218,1,7,198,18,2,33,London planetree
+4071303,Queens,Forest Hills,221,3,2,178,26,17,22,honeylocust
+4099801,Queens,Far Rockaway-Bayswater,302,9,6,206,80,16,30,London planetree
+5009701,Staten Island,West New Brighton-New Brighton-St. George,490,8,5,467,17,6,58,London planetree
+4088903,Queens,Flushing,398,2,19,357,36,5,36,London planetree
+3000301,Brooklyn,Brooklyn Heights-Cobble Hill,301,2,4,240,53,8,34,London planetree
+4007100,Queens,Old Astoria,206,6,4,174,29,3,32,honeylocust
+4050700,Queens,Middle Village,451,7,9,322,113,16,49,Callery pear
+3020700,Brooklyn,Prospect Heights,269,4,7,211,45,13,39,green ash
+4061000,Queens,Cambria Heights,202,1,12,165,28,9,28,pin oak
+3075800,Brooklyn,Midwood,408,3,20,355,41,12,54,Norway maple
+4118900,Queens,East Flushing,262,4,13,246,14,2,49,London planetree
+4025700,Queens,Woodside,126,1,4,113,11,2,19,Callery pear
+3036502,Brooklyn,Ocean Hill,79,1,0,70,8,1,19,honeylocust
+4155104,Queens,Glen Oaks-Floral Park-New Hyde Park,757,7,14,591,118,48,50,Norway maple
+1001600,Manhattan,Chinatown,264,13,5,208,44,12,25,London planetree
+5018704,Staten Island,New Springville-Bloomfield-Travis,762,16,7,651,77,34,64,London planetree
+4066402,Queens,Rosedale,888,10,15,761,107,20,45,honeylocust
+4015200,Queens,Richmond Hill,100,4,9,57,39,4,17,London planetree
+5004700,Staten Island,Grymes Hill-Clifton-Fox Hills,474,4,9,414,53,7,54,pin oak
+4050800,Queens,Hollis,285,5,8,257,27,1,33,London planetree
+2020000,Bronx,Van Nest-Morris Park-Westchester Square,516,17,6,440,48,28,51,Norway maple
+4049700,Queens,Maspeth,168,6,15,102,56,10,41,London planetree
+4046100,Queens,Elmhurst,126,1,3,117,9,0,19,pin oak
+3059000,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,166,0,10,136,25,5,29,London planetree
+4150702,Queens,Douglas Manor-Douglaston-Little Neck,988,10,29,838,125,25,70,London planetree
+1011700,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,121,17,1,105,11,5,11,pin oak
+4133300,Queens,Fresh Meadows-Utopia,1042,9,28,866,156,20,53,London planetree
+3089800,Brooklyn,Brownsville,147,1,4,138,9,0,17,London planetree
+2035000,Bronx,Allerton-Pelham Gardens,123,4,3,108,11,4,34,London planetree
+4093401,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,585,12,39,391,137,57,54,Callery pear
+3016000,Brooklyn,Bay Ridge,186,6,7,171,12,3,22,London planetree
+1021303,Manhattan,Manhattanville,190,10,2,165,17,8,25,honeylocust
+3007000,Brooklyn,Bay Ridge,105,7,2,85,14,6,20,Japanese zelkova
+5020804,Staten Island,Rossville-Woodrow,2611,20,92,2297,266,48,77,Callery pear
+1028300,Manhattan,Washington Heights North,182,10,15,117,47,18,25,Sophora
+1021000,Manhattan,East Harlem North,147,5,4,103,32,12,19,ginkgo
+3117602,Brooklyn,Cypress Hills-City Line,175,2,3,143,27,5,26,cherry
+3009401,Brooklyn,Sunset Park East,117,7,1,103,9,5,31,London planetree
+3030000,Brooklyn,Bensonhurst East,185,1,8,166,16,3,34,London planetree
+4070300,Queens,Rego Park,277,2,7,237,30,10,26,honeylocust
+3045400,Brooklyn,Ocean Parkway South,178,2,6,128,35,15,32,London planetree
+4094201,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,125,3,1,96,22,7,26,London planetree
+3009600,Brooklyn,Sunset Park East,267,2,2,238,20,9,43,London planetree
+3092200,Brooklyn,Brownsville,148,0,2,136,8,4,20,London planetree
+4064101,Queens,Woodhaven,73,5,3,57,10,6,17,pin oak
+1005900,Manhattan,West Village,173,2,1,118,46,9,19,Callery pear
+3034000,Brooklyn,Seagate-Coney Island,101,6,5,58,33,10,14,honeylocust
+4011200,Queens,Richmond Hill,117,4,3,78,27,12,26,London planetree
+1013501,Manhattan,Clinton,194,10,4,153,32,9,22,honeylocust
+5017009,Staten Island,Arden Heights,1941,22,39,1721,174,46,79,Callery pear
+3030400,Brooklyn,Bensonhurst East,211,0,6,144,59,8,29,London planetree
+4019800,Queens,South Jamaica,362,12,8,306,39,17,31,honeylocust
+2012901,Bronx,Longwood,208,13,10,170,27,11,34,honeylocust
+2048402,Bronx,Eastchester-Edenwald-Baychester,72,12,1,27,36,9,16,London planetree
+3044400,Brooklyn,Ocean Parkway South,324,3,5,249,57,18,43,littleleaf linden
+2031000,Bronx,Allerton-Pelham Gardens,1003,17,28,863,107,33,64,London planetree
+1010200,Manhattan,Midtown-Midtown South,95,7,0,58,30,7,11,Callery pear
+4026100,Queens,Woodside,340,5,5,262,63,15,39,Japanese zelkova
+3063200,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,132,2,3,104,24,4,20,London planetree
+4074900,Queens,Forest Hills,86,0,3,83,3,0,27,pin oak
+3068600,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,219,1,2,195,19,5,27,London planetree
+3049200,Brooklyn,Kensington-Ocean Parkway,164,2,8,138,16,10,28,London planetree
+4140300,Queens,Bayside-Bayside Hills,510,5,16,439,61,10,49,London planetree
+4046600,Queens,Jamaica Estates-Holliswood,231,4,5,197,26,8,37,ginkgo
+2030202,Bronx,Co-op City,108,2,5,90,17,1,10,honeylocust
+4049302,Queens,Maspeth,288,4,22,242,40,6,47,honeylocust
+4022900,Queens,Hunters Point-Sunnyside-West Maspeth,89,2,3,82,6,1,13,Norway maple
+3092400,Brooklyn,Brownsville,290,7,3,261,23,6,33,London planetree
+4147100,Queens,Bayside-Bayside Hills,607,6,14,513,76,18,55,honeylocust
+4100804,Queens,Far Rockaway-Bayswater,693,15,36,507,147,39,53,cherry
+4015700,Queens,Astoria,153,4,1,130,20,3,12,pin oak
+1001001,Manhattan,Lower East Side,21,1,2,14,4,3,7,Callery pear
+4020600,Queens,Jamaica,195,4,8,162,28,5,33,Callery pear
+2022702,Bronx,Mount Hope,48,2,5,40,7,1,9,honeylocust
+2011701,Bronx,Hunts Point,246,19,2,207,33,6,42,honeylocust
+3006300,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,195,4,2,141,41,13,32,London planetree
+4051300,Queens,Maspeth,209,3,10,195,14,0,44,London planetree
+1004500,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,25,0,1,22,3,0,7,ginkgo
+2027402,Bronx,Pelham Bay-Country Club-City Island,366,1,8,333,25,8,48,Callery pear
+3012000,Brooklyn,Sunset Park East,143,11,3,120,14,9,25,London planetree
+3041300,Brooklyn,Bushwick South,240,5,6,200,34,6,30,honeylocust
+4099100,Queens,Whitestone,1429,19,28,1327,82,20,81,Callery pear
+4046000,Queens,Jamaica,296,12,18,253,30,13,31,Callery pear
+3006400,Brooklyn,Bay Ridge,266,2,23,220,36,10,39,London planetree
+3083200,Brooklyn,East Flatbush-Farragut,123,0,9,106,15,2,28,Norway maple
+3001801,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,13,0,0,9,2,2,4,Japanese zelkova
+1009500,Manhattan,Midtown-Midtown South,108,6,0,73,30,5,16,honeylocust
+4139900,Queens,Bayside-Bayside Hills,403,11,18,311,75,17,49,Norway maple
+4021601,Queens,Kew Gardens,187,8,13,77,65,45,27,pin oak
+2028900,Bronx,Spuyten Duyvil-Kingsbridge,273,7,1,185,67,21,37,Japanese zelkova
+4062000,Queens,Laurelton,217,2,8,161,41,15,40,Norway maple
+3035200,Brooklyn,Seagate-Coney Island,187,6,1,123,52,12,21,eastern redcedar
+1018100,Manhattan,Upper West Side,282,5,4,214,46,22,23,honeylocust
+1001800,Manhattan,Chinatown,301,7,2,253,41,7,32,honeylocust
+3015300,Brooklyn,Park Slope-Gowanus,271,4,12,218,42,11,37,ginkgo
+3098400,Brooklyn,Canarsie,113,3,5,88,19,6,21,London planetree
+3040900,Brooklyn,Bushwick North,198,6,7,136,50,12,32,littleleaf linden
+3006700,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,349,2,8,289,57,3,31,London planetree
+4017101,Queens,Hunters Point-Sunnyside-West Maspeth,80,4,2,68,9,3,14,pin oak
+3057800,Brooklyn,Madison,197,6,6,174,17,6,36,London planetree
+2028600,Bronx,Van Nest-Morris Park-Westchester Square,353,9,13,335,13,5,37,London planetree
+4022002,Queens,Briarwood-Jamaica Hills,416,15,12,339,60,17,56,London planetree
+3069800,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,241,2,4,189,46,6,31,London planetree
+3057100,Brooklyn,Greenpoint,316,6,7,223,69,24,46,pin oak
+3075200,Brooklyn,Midwood,221,2,5,188,27,6,43,Callery pear
+1018200,Manhattan,East Harlem North,190,11,11,142,40,8,23,pin oak
+3035602,Brooklyn,West Brighton,175,3,12,94,77,4,17,American elm
+3007100,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,186,2,1,160,21,5,29,London planetree
+1024500,Manhattan,Washington Heights South,368,29,9,258,84,26,35,honeylocust
+1006000,Manhattan,Stuyvesant Town-Cooper Village,147,2,3,132,9,6,12,honeylocust
+3054500,Brooklyn,Williamsburg,224,3,5,210,13,1,17,honeylocust
+2007500,Bronx,Melrose South-Mott Haven North,337,22,13,287,39,11,42,Callery pear
+4084000,Queens,South Ozone Park,707,18,22,616,65,26,38,honeylocust
+3019300,Brooklyn,Clinton Hill,265,4,8,210,49,6,23,London planetree
+4030600,Queens,Springfield Gardens South-Brookville,938,34,17,823,97,18,50,cherry
+4033000,Queens,Springfield Gardens North,1269,14,45,1192,67,10,39,littleleaf linden
+1027700,Manhattan,Washington Heights North,268,11,6,182,64,22,28,Japanese zelkova
+3054400,Brooklyn,Midwood,280,3,9,183,67,30,42,Norway maple
+4119900,Queens,East Flushing,230,6,9,194,26,10,49,pin oak
+3113400,Brooklyn,East New York (Pennsylvania Ave),240,2,2,226,13,1,33,honeylocust
+4011900,Queens,Steinway,148,3,0,128,14,6,23,green ash
+4033404,Queens,Springfield Gardens North,88,0,0,84,4,0,7,London planetree
+3047000,Brooklyn,Borough Park,252,1,12,221,26,5,37,London planetree
+1015802,Manhattan,East Harlem South,82,5,6,56,24,2,11,honeylocust
+2040304,Bronx,Van Cortlandt Village,97,1,7,66,30,1,17,honeylocust
+2012300,Bronx,Crotona Park East,188,14,6,158,28,2,33,London planetree
+3076000,Brooklyn,Midwood,192,3,13,149,32,11,35,littleleaf linden
+3110600,Brooklyn,East New York,17,0,0,17,0,0,1,London planetree
+3096400,Brooklyn,Canarsie,125,3,12,111,11,3,25,London planetree
+3055500,Brooklyn,North Side-South Side,243,24,3,221,11,11,32,honeylocust
+3077000,Brooklyn,Flatbush,223,5,7,185,28,10,40,London planetree
+4034700,Queens,Jackson Heights,334,5,14,276,40,18,45,Norway maple
+1003900,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,447,16,8,311,111,25,28,honeylocust
+1015402,Manhattan,Yorkville,87,3,2,65,16,6,13,honeylocust
+3116400,Brooklyn,East New York,277,9,2,247,23,7,38,honeylocust
+3062200,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,186,11,10,122,42,22,28,honeylocust
+2002702,Bronx,Mott Haven-Port Morris,156,8,3,133,17,6,35,honeylocust
+4049900,Queens,Elmhurst,328,3,11,268,50,10,47,honeylocust
+4037100,Queens,East Elmhurst,111,2,0,99,10,2,30,green ash
+2009000,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,577,14,2,484,83,10,45,honeylocust
+3091800,Brooklyn,Brownsville,262,11,7,237,18,7,23,honeylocust
+4025402,Queens,South Jamaica,251,6,5,223,19,9,31,London planetree
+3025500,Brooklyn,Bedford,48,1,1,20,25,3,4,pin oak
+2042200,Bronx,Williamsbridge-Olinville,163,3,3,142,19,2,37,pin oak
+2035600,Bronx,Eastchester-Edenwald-Baychester,267,9,10,218,35,14,37,Norway maple
+2044902,Bronx,Woodlawn-Wakefield,207,8,6,159,31,17,39,pin oak
+4028900,Queens,Jackson Heights,330,7,7,274,45,11,36,honeylocust
+3050300,Brooklyn,East Williamsburg,200,4,7,169,29,2,28,London planetree
+4094202,Queens,Hammels-Arverne-Edgemere,427,21,6,283,76,68,30,Callery pear
+2033201,Bronx,Bronxdale,133,12,0,91,32,10,16,pin oak
+1021100,Manhattan,Morningside Heights,235,7,2,199,28,8,22,ginkgo
+4065900,Queens,Middle Village,301,6,6,235,56,10,39,London planetree
+3007500,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,418,3,6,319,92,7,41,London planetree
+1007600,Manhattan,Midtown-Midtown South,46,2,0,28,15,3,9,Sophora
+3033702,Brooklyn,Crown Heights North,277,3,8,205,62,10,28,American elm
+4108500,Queens,Bayside-Bayside Hills,538,10,21,484,48,6,50,London planetree
+4018800,Queens,Baisley Park,234,3,11,219,13,2,20,London planetree
+4084500,Queens,Flushing,209,4,16,172,35,2,36,London planetree
+1018400,Manhattan,East Harlem North,251,2,5,190,38,23,25,Callery pear
+2027600,Bronx,Pelham Bay-Country Club-City Island,38,0,1,30,4,4,8,green ash
+3030100,Brooklyn,Ocean Hill,178,1,7,134,33,11,30,littleleaf linden
+1011202,Manhattan,Midtown-Midtown South,55,8,0,31,19,5,5,ginkgo
+4050201,Queens,Hollis,136,6,6,127,3,6,30,London planetree
+4024000,Queens,Jamaica,379,12,11,272,76,31,31,Norway maple
+2021700,Bronx,University Heights-Morris Heights,200,4,3,170,29,1,27,honeylocust
+3034200,Brooklyn,Seagate-Coney Island,187,22,5,130,45,12,23,Sophora
+3042200,Brooklyn,Homecrest,423,5,8,353,62,8,38,London planetree
+5000900,Staten Island,West New Brighton-New Brighton-St. George,250,13,6,208,33,9,43,Callery pear
+4155103,Queens,Glen Oaks-Floral Park-New Hyde Park,767,14,15,495,192,80,56,Norway maple
+2046207,Bronx,Co-op City,175,4,8,155,17,3,18,London planetree
+4043702,Queens,Corona,174,7,3,105,46,23,22,London planetree
+4017800,Queens,South Ozone Park,160,4,17,130,25,5,30,honeylocust
+2025500,Bronx,Kingsbridge Heights,219,10,2,169,42,8,30,pin oak
+5009702,Staten Island,West New Brighton-New Brighton-St. George,63,2,0,55,5,3,15,London planetree
+3056000,Brooklyn,Madison,219,2,13,176,33,10,35,London planetree
+4000701,Queens,Hunters Point-Sunnyside-West Maspeth,253,6,8,197,35,21,29,ginkgo
+2035900,Bronx,East Tremont,128,3,0,105,19,4,28,honeylocust
+4006202,Queens,Lindenwood-Howard Beach,592,10,30,522,64,6,53,pin oak
+4059200,Queens,Cambria Heights,123,4,5,100,15,8,24,London planetree
+1007800,Manhattan,Murray Hill-Kips Bay,277,9,7,169,76,32,16,honeylocust
+4056400,Queens,Queens Village,127,7,9,97,23,7,26,pin oak
+1010601,Manhattan,Turtle Bay-East Midtown,243,5,2,173,48,22,22,Callery pear
+4116100,Queens,Flushing,182,0,10,122,47,13,30,pin oak
+1015700,Manhattan,Lincoln Square,321,7,1,245,58,18,26,honeylocust
+3083600,Brooklyn,East Flatbush-Farragut,124,2,6,108,11,5,22,Norway maple
+1005600,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,156,19,3,141,10,5,15,European hornbeam
+4033403,Queens,Springfield Gardens North,118,0,2,107,11,0,9,London planetree
+3050803,Brooklyn,Flatbush,64,3,1,56,6,2,16,pin oak
+1008900,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,293,10,9,264,22,7,21,honeylocust
+5029104,Staten Island,New Springville-Bloomfield-Travis,1224,22,18,1057,121,46,62,Callery pear
+3069602,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,773,9,17,635,100,38,51,London planetree
+2024700,Bronx,University Heights-Morris Heights,65,6,0,51,12,2,23,American elm
+1026300,Manhattan,Washington Heights South,265,20,9,209,41,15,33,honeylocust
+2039300,Bronx,Belmont,248,13,1,201,39,8,36,honeylocust
+4053901,Queens,Ridgewood,551,8,31,323,144,84,43,Norway maple
+3021600,Brooklyn,Borough Park,221,5,3,196,19,6,46,London planetree
+4048000,Queens,Jamaica,238,3,5,223,12,3,44,cherry
+3017500,Brooklyn,Kensington-Ocean Parkway,107,3,3,81,25,1,21,pin oak
+4025500,Queens,Woodside,184,2,2,152,26,6,39,Callery pear
+1013100,Manhattan,Midtown-Midtown South,111,6,0,45,55,11,9,American linden
+1020901,Manhattan,Morningside Heights,86,4,2,69,13,4,19,honeylocust
+2028300,Bronx,Spuyten Duyvil-Kingsbridge,195,11,1,148,29,18,31,pin oak
+4062500,Queens,Glendale,339,11,15,295,33,11,32,littleleaf linden
+4085900,Queens,Flushing,224,3,9,183,34,7,40,pin oak
+2034500,Bronx,North Riverdale-Fieldston-Riverdale,353,4,6,268,69,16,49,Norway maple
+4048200,Queens,Hollis,244,7,3,196,35,13,38,littleleaf linden
+3014300,Brooklyn,Park Slope-Gowanus,261,2,11,228,25,8,33,ginkgo
+4157902,Queens,Glen Oaks-Floral Park-New Hyde Park,1649,14,44,1376,243,30,59,Norway maple
+3006902,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,210,0,1,175,32,3,32,London planetree
+2024800,Bronx,Pelham Parkway,330,8,14,262,56,12,53,Norway maple
+3093000,Brooklyn,Rugby-Remsen Village,154,2,5,148,5,1,22,London planetree
+2022902,Bronx,Mount Hope,144,13,4,104,25,15,31,Callery pear
+4003000,Queens,Woodhaven,150,0,4,129,17,4,30,London planetree
+4018700,Queens,Hunters Point-Sunnyside-West Maspeth,195,0,1,152,38,5,25,London planetree
+4083800,Queens,South Ozone Park,819,5,27,701,73,45,49,honeylocust
+2021001,Bronx,Parkchester,99,0,1,90,7,2,17,pin oak
+3098200,Brooklyn,Canarsie,71,1,0,57,9,5,12,London planetree
+4058100,Queens,Ridgewood,240,3,4,192,35,13,33,London planetree
+4026501,Queens,Elmhurst-Maspeth,74,1,2,70,4,0,17,littleleaf linden
+3059600,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,165,1,13,102,51,12,24,London planetree
+2017100,Bronx,East Concourse-Concourse Village,111,8,7,71,33,7,18,red maple
+4046200,Queens,Jamaica,277,17,6,225,36,16,48,cherry
+2024900,Bronx,University Heights-Morris Heights,77,2,1,43,19,15,20,green ash
+3053700,Brooklyn,Williamsburg,202,0,6,183,15,4,20,honeylocust
+4048100,Queens,Elmhurst,135,1,6,118,12,5,29,London planetree
+4027000,Queens,South Jamaica,131,1,15,110,18,3,20,London planetree
+2023702,Bronx,Bedford Park-Fordham North,53,3,1,31,18,4,18,pin oak
+1021800,Manhattan,Central Harlem South,340,6,2,211,93,36,39,Japanese zelkova
+1021900,Manhattan,Manhattanville,107,5,2,84,17,6,20,honeylocust
+3004100,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,377,7,10,285,77,15,28,London planetree
+1000700,Manhattan,Battery Park City-Lower Manhattan,130,8,6,59,57,14,9,littleleaf linden
+2033601,Bronx,Bronxdale,117,3,3,107,9,1,27,pin oak
+1015502,Manhattan,Lincoln Square,138,6,0,89,48,1,15,London planetree
+1008200,Manhattan,Murray Hill-Kips Bay,190,2,6,140,39,11,21,honeylocust
+3058600,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,157,3,11,136,15,6,32,London planetree
+4116700,Queens,Murray Hill,224,4,4,208,12,4,48,cherry
+2021100,Bronx,Highbridge,259,7,16,201,43,15,35,honeylocust
+2005902,Bronx,East Concourse-Concourse Village,78,4,0,66,9,3,17,pin oak
+3027100,Brooklyn,Crown Heights North,281,8,1,223,52,6,26,honeylocust
+2046206,Bronx,Co-op City,25,0,0,22,3,0,4,London planetree
+3101400,Brooklyn,Canarsie,164,3,7,92,60,12,29,London planetree
+3040300,Brooklyn,Bushwick South,246,3,2,216,27,3,28,honeylocust
+2037900,Bronx,Mount Hope,208,5,4,156,36,16,38,Japanese zelkova
+3089200,Brooklyn,Brownsville,169,4,4,138,26,5,26,London planetree
+4061400,Queens,Cambria Heights,347,6,8,303,30,14,40,cherry
+4078800,Queens,Baisley Park,108,1,1,90,17,1,24,honeylocust
+2022101,Bronx,West Concourse,119,7,3,83,28,8,25,Sophora
+3035701,Brooklyn,Crown Heights North,99,1,1,78,18,3,18,American elm
+1010602,Manhattan,Lenox Hill-Roosevelt Island,177,12,7,113,50,14,25,honeylocust
+1022400,Manhattan,Central Harlem North-Polo Grounds,252,10,2,206,38,8,25,Callery pear
+3034300,Brooklyn,Crown Heights North,125,1,3,104,14,7,20,London planetree
+4033100,Queens,Steinway,132,11,7,111,14,7,24,honeylocust
+3068200,Brooklyn,Flatlands,224,3,4,206,12,6,29,London planetree
+1008000,Manhattan,Murray Hill-Kips Bay,297,4,7,222,52,23,27,honeylocust
+2045800,Bronx,Eastchester-Edenwald-Baychester,175,3,10,149,19,7,25,London planetree
+3018400,Brooklyn,Bensonhurst West,149,2,5,130,16,3,26,London planetree
+3070201,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,1532,10,20,1346,153,33,66,London planetree
+2009800,Bronx,Westchester-Unionport,684,20,5,615,45,24,55,cherry
+2026601,Bronx,Pelham Bay-Country Club-City Island,223,15,5,192,23,8,36,London planetree
+2001902,Bronx,Mott Haven-Port Morris,259,10,11,171,74,14,25,Sophora
+2032300,Bronx,North Riverdale-Fieldston-Riverdale,90,6,4,76,12,2,22,Norway maple
+3044300,Brooklyn,Bushwick North,293,18,5,243,37,13,34,honeylocust
+4011600,Queens,Richmond Hill,162,2,2,144,14,4,34,pin oak
+3057000,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,331,3,8,222,103,6,27,London planetree
+4039800,Queens,St. Albans,174,6,20,155,12,7,31,London planetree
+2006200,Bronx,West Farms-Bronx River,133,2,2,126,6,1,21,London planetree
+2022404,Bronx,Pelham Parkway,166,6,7,143,18,5,21,honeylocust
+3096200,Brooklyn,Canarsie,78,2,8,65,13,0,16,London planetree
+3044200,Brooklyn,Ocean Parkway South,291,4,8,213,66,12,40,London planetree
+3001100,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,135,4,2,100,26,9,16,Sophora
+1009700,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,94,3,9,81,7,6,11,littleleaf linden
+3079201,Brooklyn,Erasmus,84,0,5,71,8,5,17,honeylocust
+3000502,Brooklyn,Brooklyn Heights-Cobble Hill,230,2,6,173,48,9,28,honeylocust
+4088400,Queens,Lindenwood-Howard Beach,1183,50,35,904,224,55,74,Callery pear
+2014900,Bronx,Morrisania-Melrose,184,26,6,154,22,8,35,ginkgo
+3058902,Brooklyn,Greenpoint,50,5,1,29,16,5,10,green ash
+3042400,Brooklyn,Bensonhurst East,192,0,3,153,37,2,26,London planetree
+4115700,Queens,Murray Hill,436,8,13,395,40,1,60,London planetree
+1014402,Manhattan,Yorkville,237,5,29,154,47,36,26,honeylocust
+3111800,Brooklyn,East New York,274,9,3,177,63,34,36,cherry
+2018900,Bronx,Highbridge,385,28,7,322,50,13,37,honeylocust
+4059600,Queens,Cambria Heights,209,4,10,190,15,4,21,London planetree
+1025500,Manhattan,Washington Heights South,264,18,1,174,59,31,29,honeylocust
+4075701,Queens,Forest Hills,275,2,14,211,43,21,34,Norway maple
+3020200,Brooklyn,Dyker Heights,166,3,1,154,10,2,27,London planetree
+4041500,Queens,Corona,196,4,2,160,24,12,32,Callery pear
+3073800,Brooklyn,Flatlands,237,4,9,187,28,22,39,London planetree
+4064600,Queens,Laurelton,616,16,17,455,123,38,56,Norway maple
+2019900,Bronx,Highbridge,273,20,12,176,72,25,38,Callery pear
+3021400,Brooklyn,Borough Park,146,2,1,123,21,2,24,Japanese zelkova
+4085500,Queens,Flushing,148,8,2,123,18,7,21,pin oak
+2041800,Bronx,Woodlawn-Wakefield,197,7,6,151,33,13,28,Japanese zelkova
+3102400,Brooklyn,Canarsie,170,2,6,117,32,21,31,London planetree
+4014202,Queens,Richmond Hill,286,24,8,236,34,16,34,London planetree
+3025901,Brooklyn,Bedford,97,5,1,59,32,6,15,London planetree
+2031200,Bronx,Allerton-Pelham Gardens,275,6,10,247,21,7,36,ginkgo
+3032100,Brooklyn,Crown Heights South,246,7,7,160,77,9,27,American elm
+1020102,Manhattan,Central Harlem South,172,3,2,134,33,5,26,honeylocust
+1010803,Manhattan,Turtle Bay-East Midtown,85,3,1,62,18,5,15,Japanese zelkova
+3026300,Brooklyn,Bedford,145,2,0,86,57,2,31,honeylocust
+4077300,Queens,Kew Gardens,227,2,8,173,44,10,25,pin oak
+3087000,Brooklyn,East Flatbush-Farragut,239,2,4,186,47,6,28,London planetree
+3063600,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,191,1,11,172,18,1,36,London planetree
+4044601,Queens,Jamaica,263,10,9,189,54,20,27,Callery pear
+5007001,Staten Island,Old Town-Dongan Hills-South Beach,628,9,14,504,90,34,58,pin oak
+4001901,Queens,Hunters Point-Sunnyside-West Maspeth,100,3,5,71,26,3,14,Callery pear
+3026800,Brooklyn,Bensonhurst West,259,0,5,226,26,7,27,London planetree
+1021600,Manhattan,Central Harlem South,352,11,5,265,72,15,27,ginkgo
+2006900,Bronx,Melrose South-Mott Haven North,283,17,3,229,34,20,29,Callery pear
+2008600,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,126,2,2,103,18,5,25,London planetree
+1015001,Manhattan,Upper East Side-Carnegie Hill,131,1,5,101,27,3,15,Callery pear
+3101200,Brooklyn,Canarsie,174,2,5,156,16,2,29,London planetree
+3054800,Brooklyn,Madison,289,7,14,238,35,16,36,London planetree
+4047200,Queens,Jamaica Estates-Holliswood,574,9,20,537,32,5,58,Norway maple
+3041401,Brooklyn,Homecrest,230,1,2,201,20,9,28,London planetree
+4117500,Queens,Murray Hill,653,7,18,606,41,6,81,Norway maple
+4018501,Queens,Hunters Point-Sunnyside-West Maspeth,139,3,4,115,18,6,17,pin oak
+3050801,Brooklyn,Flatbush,66,1,0,55,8,3,14,honeylocust
+4017902,Queens,Hunters Point-Sunnyside-West Maspeth,318,14,4,180,109,29,21,honeylocust
+5015602,Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville,1794,20,33,1588,160,46,63,Callery pear
+4029300,Queens,Woodside,108,1,0,68,36,4,21,pin oak
+3003102,Brooklyn,Fort Greene,124,6,2,81,27,16,13,horse chestnut
+4010500,Queens,Steinway,340,4,3,300,27,13,35,London planetree
+4033900,Queens,Jackson Heights,181,2,7,151,27,3,22,Callery pear
+4023600,Queens,Briarwood-Jamaica Hills,189,5,3,157,26,6,33,pin oak
+3020400,Brooklyn,Dyker Heights,181,3,4,164,14,3,32,London planetree
+1006300,Manhattan,West Village,267,3,4,226,33,8,28,ginkgo
+2015700,Bronx,Crotona Park East,226,6,6,205,19,2,34,cherry
+3005201,Brooklyn,Bay Ridge,138,2,11,115,21,2,27,London planetree
+1010000,Manhattan,Turtle Bay-East Midtown,193,1,0,127,51,15,17,honeylocust
+3041700,Brooklyn,Bushwick South,256,2,3,195,51,10,30,honeylocust
+4085300,Queens,Flushing,174,3,7,142,23,9,23,honeylocust
+2033802,Bronx,Bronxdale,55,3,2,52,3,0,14,American hophornbeam
+4080900,Queens,Kew Gardens Hills,992,23,28,789,173,30,55,London planetree
+4012601,Queens,Richmond Hill,130,3,6,103,25,2,32,London planetree
+4010000,Queens,South Ozone Park,268,3,7,243,20,5,37,Norway maple
+1016700,Manhattan,Upper West Side,348,9,7,280,49,19,33,honeylocust
+3026400,Brooklyn,Bensonhurst West,234,5,2,217,13,4,39,London planetree
+3003600,Brooklyn,Bay Ridge,196,5,6,188,5,3,32,London planetree
+4065501,Queens,Middle Village,129,4,24,105,18,6,16,pin oak
+4029500,Queens,Woodside,174,2,2,147,22,5,24,Japanese zelkova
+4021602,Queens,Kew Gardens,93,3,7,71,18,4,25,London planetree
+4119300,Queens,East Flushing,249,4,7,225,18,6,51,ginkgo
+4079300,Queens,Queensboro Hill,38,0,0,36,2,0,5,pin oak
+3079601,Brooklyn,Prospect Lefferts Gardens-Wingate,155,3,1,139,9,7,30,pin oak
+1026500,Manhattan,Washington Heights South,198,5,0,165,17,16,23,honeylocust
+4011700,Queens,Steinway,166,2,12,129,31,6,24,ginkgo
+2022901,Bronx,Mount Hope,195,14,3,132,49,14,25,honeylocust
+3046000,Brooklyn,Flatbush,485,1,16,392,67,26,65,London planetree
+5027704,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,601,15,9,416,155,30,52,Callery pear
+1005502,Manhattan,West Village,110,1,0,80,21,9,19,Callery pear
+2038303,Bronx,Fordham South,106,3,1,79,20,7,23,Callery pear
+4023200,Queens,Briarwood-Jamaica Hills,377,12,16,330,37,10,51,Japanese zelkova
+1014801,Manhattan,Upper East Side-Carnegie Hill,88,4,1,58,21,9,12,honeylocust
+2015500,Bronx,Crotona Park East,147,12,2,130,16,1,18,Japanese zelkova
+3086000,Brooklyn,East Flatbush-Farragut,153,0,1,146,5,2,34,honeylocust
+1002201,Manhattan,Lower East Side,112,7,1,87,14,11,23,honeylocust
+2036800,Bronx,Williamsbridge-Olinville,186,3,4,168,11,7,39,cherry
+4094203,Queens,Hammels-Arverne-Edgemere,259,21,0,107,86,66,31,honeylocust
+4086100,Queens,East Flushing,178,0,11,172,5,1,41,cherry
+1002901,Manhattan,Chinatown,50,1,2,35,13,2,5,honeylocust
+3044600,Brooklyn,Borough Park,145,1,1,119,12,14,31,London planetree
+4122704,Queens,Pomonok-Flushing Heights-Hillcrest,339,8,9,282,51,6,44,pin oak
+1005200,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,96,5,0,71,15,10,15,Sophora
+2029302,Bronx,Spuyten Duyvil-Kingsbridge,135,3,8,113,17,5,27,Sophora
+1025300,Manhattan,Washington Heights South,300,11,9,222,58,20,30,honeylocust
+4009400,Queens,South Ozone Park,119,5,7,89,25,5,23,littleleaf linden
+1003300,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,143,8,8,96,32,15,21,honeylocust
+4147900,Queens,Douglas Manor-Douglaston-Little Neck,986,12,27,747,193,46,85,cherry
+4038302,Queens,Corona,336,5,13,245,71,20,30,London planetree
+2019500,Bronx,West Concourse,397,14,12,312,70,15,35,honeylocust
+4051700,Queens,Maspeth,288,5,8,243,34,11,40,London planetree
+4005100,Queens,Queensbridge-Ravenswood-Long Island City,135,2,2,115,17,3,27,pin oak
+1004700,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,144,8,1,94,29,21,28,honeylocust
+3032700,Brooklyn,Prospect Lefferts Gardens-Wingate,195,1,3,149,41,5,24,London planetree
+3006200,Brooklyn,Bay Ridge,211,5,4,163,35,13,30,London planetree
+3028000,Brooklyn,Bath Beach,112,1,2,86,24,2,20,London planetree
+4051200,Queens,Queens Village,532,3,15,485,38,9,62,cherry
+1031100,Manhattan,Washington Heights North,217,7,7,177,29,11,32,London planetree
+4018502,Queens,Hunters Point-Sunnyside-West Maspeth,155,4,0,120,28,7,23,honeylocust
+3025400,Brooklyn,Bensonhurst West,149,4,0,120,23,6,28,London planetree
+5022802,Staten Island,New Springville-Bloomfield-Travis,143,19,3,86,38,19,21,dawn redwood
+4011300,Queens,Steinway,238,10,7,171,57,10,36,honeylocust
+3016200,Brooklyn,Bay Ridge,144,5,9,117,14,13,19,London planetree
+5015603,Staten Island,Great Kills,1053,11,12,928,96,29,66,Callery pear
+4014201,Queens,Richmond Hill,261,3,2,229,28,4,33,honeylocust
+1003001,Manhattan,Chinatown,217,8,1,169,37,11,32,Callery pear
+3040000,Brooklyn,Bensonhurst East,209,1,5,183,23,3,30,London planetree
+4071702,Queens,Rego Park,199,2,14,178,16,5,16,Japanese zelkova
+4030904,Queens,Jackson Heights,524,7,13,390,94,40,59,honeylocust
+3122000,Brooklyn,East New York,783,33,4,614,130,39,60,cherry
+4048500,Queens,Elmhurst-Maspeth,266,4,14,211,48,7,35,London planetree
+3056600,Brooklyn,Madison,222,0,14,201,18,3,31,London planetree
+3073600,Brooklyn,Flatlands,169,3,12,128,23,18,35,London planetree
+3039300,Brooklyn,Bushwick South,216,2,4,180,29,7,27,honeylocust
+4045800,Queens,Jamaica Estates-Holliswood,329,3,9,296,27,6,49,Callery pear
+2012701,Bronx,Hunts Point,192,3,6,164,21,7,21,honeylocust
+3050100,Brooklyn,East Williamsburg,251,4,3,213,33,5,31,London planetree
+3118202,Brooklyn,Cypress Hills-City Line,173,4,2,163,7,3,36,cherry
+3009202,Brooklyn,Sunset Park East,99,6,3,87,8,4,30,honeylocust
+2040302,Bronx,Bedford Park-Fordham North,89,3,1,79,10,0,12,honeylocust
+3017400,Brooklyn,Bath Beach,154,2,4,138,12,4,26,London planetree
+4049202,Queens,Jamaica Estates-Holliswood,238,3,10,199,32,7,28,London planetree
+3060800,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,360,14,34,194,136,30,37,honeylocust
+4056700,Queens,Glendale,667,11,26,498,132,37,52,honeylocust
+2022200,Bronx,Parkchester,283,4,2,240,38,5,33,pin oak
+3037900,Brooklyn,Stuyvesant Heights,248,2,4,210,33,5,32,honeylocust
+2042600,Bronx,Woodlawn-Wakefield,634,11,14,583,34,17,43,honeylocust
+3065600,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,221,2,9,200,18,3,39,London planetree
+4071304,Queens,Forest Hills,186,5,7,125,43,18,21,maple
+3111600,Brooklyn,East New York,675,36,13,512,109,54,55,London planetree
+3069200,Brooklyn,Flatlands,237,1,0,223,14,0,25,London planetree
+2019400,Bronx,Schuylerville-Throgs Neck-Edgewater Park,109,4,8,98,9,2,28,Norway maple
+4062200,Queens,Cambria Heights,369,10,5,265,81,23,39,Callery pear
+3051500,Brooklyn,North Side-South Side,258,9,1,245,8,5,30,pin oak
+2017500,Bronx,East Concourse-Concourse Village,248,29,15,189,37,22,35,Japanese zelkova
+4076902,Queens,Forest Hills,158,1,7,135,20,3,32,honeylocust
+3015100,Brooklyn,Park Slope-Gowanus,305,4,9,263,26,16,38,honeylocust
+3033100,Brooklyn,Crown Heights South,213,5,0,188,17,8,31,Japanese zelkova
+4062300,Queens,Glendale,264,5,16,235,20,9,34,London planetree
+4097205,Queens,Hammels-Arverne-Edgemere,100,6,2,40,49,11,16,honeylocust
+2017901,Bronx,East Concourse-Concourse Village,138,7,1,98,32,8,23,Callery pear
+3011200,Brooklyn,Sunset Park East,255,1,7,224,29,2,43,London planetree
+3019400,Brooklyn,Dyker Heights,154,4,8,110,35,9,30,London planetree
+1021200,Manhattan,Central Harlem North-Polo Grounds,201,7,4,151,46,4,28,London planetree
+3010401,Brooklyn,Sunset Park East,97,4,3,95,1,1,26,London planetree
+5020803,Staten Island,Rossville-Woodrow,2605,47,94,2122,348,135,73,Callery pear
+3037000,Brooklyn,Brighton Beach,384,2,10,318,55,11,42,London planetree
+1031703,Manhattan,Battery Park City-Lower Manhattan,386,3,2,360,21,5,20,honeylocust
+2018301,Bronx,East Concourse-Concourse Village,131,8,1,102,25,4,28,Sophora
+1014401,Manhattan,Yorkville,157,2,4,123,25,9,21,honeylocust
+3059403,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,246,0,10,207,30,9,28,London planetree
+4036800,Queens,St. Albans,150,2,11,100,35,15,33,London planetree
+4101003,Queens,Far Rockaway-Bayswater,198,9,0,146,40,12,28,honeylocust
+5024800,Staten Island,Charleston-Richmond Valley-Tottenville,1414,16,38,1294,96,24,60,Callery pear
+3061200,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,355,6,21,265,80,10,45,ginkgo
+4075702,Queens,Forest Hills,657,13,18,557,84,16,60,Norway maple
+3032900,Brooklyn,Prospect Lefferts Gardens-Wingate,220,1,2,207,13,0,28,London planetree
+4074100,Queens,Forest Hills,309,2,10,268,35,6,41,honeylocust
+4056100,Queens,Glendale,96,0,2,71,20,5,17,honeylocust
+3022400,Brooklyn,Borough Park,154,4,2,141,9,4,38,pin oak
+1020500,Manhattan,Morningside Heights,405,7,8,302,73,30,27,American elm
+4107201,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,281,11,27,165,82,34,38,Callery pear
+1023200,Manhattan,Central Harlem North-Polo Grounds,283,9,1,233,46,4,29,honeylocust
+2022403,Bronx,Pelham Parkway,116,14,1,88,22,6,22,littleleaf linden
+2033500,Bronx,North Riverdale-Fieldston-Riverdale,184,2,5,158,26,0,28,pin oak
+1007100,Manhattan,West Village,272,7,5,182,66,24,31,Callery pear
+3053300,Brooklyn,Williamsburg,327,1,2,281,42,4,29,London planetree
+3046400,Brooklyn,Borough Park,210,4,4,181,19,10,31,London planetree
+3064600,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,185,1,4,166,15,4,34,London planetree
+3089000,Brooklyn,Rugby-Remsen Village,259,7,7,227,26,6,26,London planetree
+3112600,Brooklyn,East New York (Pennsylvania Ave),334,6,5,301,29,4,46,London planetree
+1007400,Manhattan,Midtown-Midtown South,117,4,3,78,31,8,16,honeylocust
+4054700,Queens,Ridgewood,251,8,9,129,83,39,29,honeylocust
+2014400,Bronx,Schuylerville-Throgs Neck-Edgewater Park,353,3,3,347,5,1,46,Callery pear
+3004500,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,414,6,4,360,51,3,37,London planetree
+3019600,Brooklyn,Dyker Heights,206,2,7,173,22,11,32,London planetree
+4065401,Queens,Rosedale,676,13,21,572,90,14,40,littleleaf linden
+3118600,Brooklyn,Cypress Hills-City Line,198,12,1,144,47,7,35,London planetree
+2002002,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,317,5,3,283,29,5,47,pin oak
+3048900,Brooklyn,Bushwick South,8,0,0,8,0,0,4,English oak
+1011300,Manhattan,Midtown-Midtown South,6,0,0,4,2,0,2,Callery pear
+3023200,Brooklyn,Borough Park,282,2,4,249,31,2,34,London planetree
+4138502,Queens,Oakland Gardens,106,7,4,74,24,8,18,pin oak
+4067900,Queens,Middle Village,319,2,16,283,29,7,38,pin oak
+3089400,Brooklyn,Brownsville,230,3,5,186,39,5,38,London planetree
+1007002,Manhattan,Murray Hill-Kips Bay,159,4,3,103,50,6,25,Sophora
+1010100,Manhattan,Midtown-Midtown South,22,2,1,20,2,0,4,American elm
+3041800,Brooklyn,Homecrest,287,11,10,180,81,26,33,honeylocust
+4037300,Queens,East Elmhurst,211,5,7,167,32,12,33,green ash
+3061003,Brooklyn,Brighton Beach,32,3,0,14,15,3,11,London planetree
+4115900,Queens,Murray Hill,356,5,8,307,33,16,50,cherry
+1000600,Manhattan,Lower East Side,168,13,6,126,31,11,24,honeylocust
+1002100,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,195,7,0,153,31,11,16,honeylocust
+1009400,Manhattan,Midtown-Midtown South,49,2,0,26,18,5,9,honeylocust
+3069000,Brooklyn,Flatlands,134,2,3,118,14,2,23,London planetree
+4008800,Queens,Ozone Park,426,3,19,379,44,3,38,green ash
+3022900,Brooklyn,Clinton Hill,277,6,4,248,24,5,45,honeylocust
+5009601,Staten Island,Old Town-Dongan Hills-South Beach,917,8,2,770,126,21,46,pin oak
+2029600,Bronx,Pelham Parkway,201,0,5,176,25,0,27,littleleaf linden
+3085800,Brooklyn,East Flatbush-Farragut,109,2,4,105,4,0,23,London planetree
+2016300,Bronx,Crotona Park East,284,12,13,218,44,22,35,London planetree
+3026500,Brooklyn,Bedford,255,3,1,193,50,12,33,London planetree
+3067800,Brooklyn,Flatlands,223,1,5,205,16,2,23,London planetree
+3004300,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,310,6,9,189,105,16,34,honeylocust
+5004004,Staten Island,Grymes Hill-Clifton-Fox Hills,443,12,6,378,47,18,50,red maple
+4007300,Queens,Old Astoria,155,3,5,131,17,7,29,honeylocust
+3029300,Brooklyn,Stuyvesant Heights,250,5,2,201,39,10,39,honeylocust
+4092800,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,856,37,119,581,187,88,65,Callery pear
+4066302,Queens,Middle Village,186,0,0,183,3,0,10,pin oak
+4005900,Queens,Astoria,172,2,6,148,18,6,31,littleleaf linden
+4157903,Queens,Glen Oaks-Floral Park-New Hyde Park,1257,23,61,1160,82,15,52,Norway maple
+3033300,Brooklyn,Crown Heights South,156,3,6,127,25,4,30,Callery pear
+2022500,Bronx,East Concourse-Concourse Village,233,16,5,185,39,9,34,honeylocust
+2024502,Bronx,University Heights-Morris Heights,187,5,3,164,14,9,30,Japanese zelkova
+1025100,Manhattan,Washington Heights South,211,14,8,144,44,23,26,Sophora
+3036001,Brooklyn,Brighton Beach,75,5,5,45,26,4,18,London planetree
+3017600,Brooklyn,Bath Beach,176,0,5,159,15,2,25,Callery pear
+3006500,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,499,3,6,419,65,15,53,London planetree
+3030300,Brooklyn,Ocean Hill,365,14,4,345,16,4,38,honeylocust
+2033202,Bronx,Bronxdale,134,11,3,101,17,16,22,pin oak
+4145102,Queens,Bayside-Bayside Hills,442,10,15,366,61,15,49,pin oak
+5011203,Staten Island,New Dorp-Midland Beach,1074,18,25,874,155,45,71,Callery pear
+4040101,Queens,North Corona,110,0,1,100,10,0,15,cherry
+3054200,Brooklyn,Midwood,213,0,6,160,33,20,36,London planetree
+3009002,Brooklyn,Sunset Park East,82,11,1,62,16,4,26,American linden
+2040501,Bronx,Bedford Park-Fordham North,103,2,6,95,5,3,24,honeylocust
+4006501,Queens,Astoria,131,1,1,116,11,4,24,littleleaf linden
+3027700,Brooklyn,Stuyvesant Heights,280,9,7,228,37,15,33,London planetree
+2020900,Bronx,West Concourse,161,9,2,116,41,4,27,pin oak
+4055300,Queens,Ridgewood,252,11,9,181,59,12,31,honeylocust
+3076400,Brooklyn,Flatbush,301,2,9,262,34,5,41,London planetree
+4039901,Queens,Corona,106,3,4,92,14,0,28,cherry
+2028700,Bronx,Spuyten Duyvil-Kingsbridge,229,2,3,180,32,17,55,Norway maple
+2032400,Bronx,Bronxdale,204,3,16,163,33,8,30,pin oak
+4049201,Queens,Jamaica Estates-Holliswood,185,4,7,152,32,1,25,pin oak
+3028200,Brooklyn,Bath Beach,160,1,6,125,27,8,22,London planetree
+3053101,Brooklyn,Bedford,134,3,2,118,15,1,21,honeylocust
+3023400,Brooklyn,Borough Park,221,7,7,184,33,4,42,London planetree
+4055600,Queens,Queens Village,421,12,16,300,100,21,53,Callery pear
+2005100,Bronx,Mott Haven-Port Morris,291,10,5,144,102,45,35,London planetree
+3012801,Brooklyn,Dyker Heights,191,3,9,179,10,2,19,London planetree
+1013700,Manhattan,Midtown-Midtown South,113,10,4,59,44,10,15,honeylocust
+1029700,Manhattan,Marble Hill-Inwood,76,0,1,53,17,6,19,ginkgo
+4032900,Queens,Jackson Heights,536,15,14,439,72,25,46,green ash
+3027600,Brooklyn,Bensonhurst West,134,7,3,125,4,5,27,London planetree
+4013800,Queens,Kew Gardens,237,7,9,156,59,22,38,Norway maple
+3116600,Brooklyn,East New York,214,4,3,190,21,3,41,honeylocust
+3058800,Brooklyn,Homecrest,153,1,7,105,46,2,32,Japanese zelkova
+3028700,Brooklyn,Stuyvesant Heights,155,2,3,115,33,7,31,London planetree
+4049600,Queens,Queens Village,332,7,24,210,90,32,49,honeylocust
+4152901,Queens,Douglas Manor-Douglaston-Little Neck,815,13,21,735,62,18,54,London planetree
+4021400,Queens,Briarwood-Jamaica Hills,224,7,9,191,21,12,37,London planetree
+2033602,Bronx,Bronxdale,51,4,3,44,7,0,13,pin oak
+3019800,Brooklyn,Dyker Heights,121,3,1,108,8,5,30,London planetree
+3013200,Brooklyn,Dyker Heights,163,9,11,131,23,9,27,London planetree
+4000101,Queens,Hunters Point-Sunnyside-West Maspeth,143,1,0,118,17,8,14,Callery pear
+3059100,Brooklyn,Greenpoint,306,7,3,239,55,12,33,pin oak
+1022800,Manhattan,Central Harlem North-Polo Grounds,337,7,5,272,56,9,32,honeylocust
+4091900,Queens,College Point,466,3,38,372,81,13,47,cherry
+3030900,Brooklyn,Crown Heights North,173,4,0,157,13,3,24,honeylocust
+3009800,Brooklyn,Sunset Park East,256,7,6,219,31,6,35,pin oak
+3070202,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,147,0,5,92,49,6,8,London planetree
+5017015,Staten Island,Arden Heights,886,18,14,597,200,89,45,Callery pear
+4070700,Queens,Forest Hills,384,0,15,322,59,3,45,London planetree
+4031700,Queens,Steinway,865,7,40,755,82,28,59,London planetree
+4121500,Queens,Queensboro Hill,555,14,25,427,99,29,47,London planetree
+4009100,Queens,Old Astoria,135,7,0,102,22,11,26,Callery pear
+4004002,Queens,Ozone Park,107,5,3,76,21,10,18,ash
+3119800,Brooklyn,East New York,325,17,12,231,83,11,48,honeylocust
+4021900,Queens,Hunters Point-Sunnyside-West Maspeth,92,2,0,57,30,5,14,honeylocust
+2023704,Bronx,Fordham South,113,5,3,89,19,5,23,honeylocust
+2046208,Bronx,Co-op City,446,6,6,400,35,11,57,cherry
+4086400,Queens,South Ozone Park,282,6,6,225,47,10,32,London planetree
+4020500,Queens,Hunters Point-Sunnyside-West Maspeth,190,6,2,150,36,4,42,London planetree
+3031100,Brooklyn,Crown Heights North,157,4,13,129,23,5,26,honeylocust
+4044400,Queens,Jamaica,380,9,13,309,50,21,37,honeylocust
+3032800,Brooklyn,Seagate-Coney Island,234,23,6,177,50,7,32,honeylocust
+2040100,Bronx,Bedford Park-Fordham North,167,4,5,131,32,4,32,honeylocust
+2020501,Bronx,University Heights-Morris Heights,158,5,3,131,24,3,32,honeylocust
+4152902,Queens,Douglas Manor-Douglaston-Little Neck,1075,15,25,908,130,37,61,pin oak
+4005800,Queens,Ozone Park,1009,17,29,933,55,21,45,London planetree
+4052800,Queens,St. Albans,194,2,9,180,12,2,37,London planetree
+3051001,Brooklyn,Flatbush,39,3,0,29,7,3,13,common hackberry
+5029106,Staten Island,New Springville-Bloomfield-Travis,554,5,7,482,63,9,53,red maple
+2043102,Bronx,Norwood,122,5,10,99,14,9,27,pin oak
+2034300,Bronx,North Riverdale-Fieldston-Riverdale,122,0,0,105,14,3,23,Norway maple
+4063800,Queens,Rosedale,736,12,47,595,111,30,54,Norway maple
+2042901,Bronx,Norwood,102,0,1,91,8,3,21,littleleaf linden
+2023301,Bronx,Mount Hope,168,3,3,164,3,1,23,honeylocust
+3024900,Brooklyn,Bedford,253,2,2,229,22,2,32,honeylocust
+3055400,Brooklyn,Homecrest,171,4,5,86,56,29,26,London planetree
+2023200,Bronx,Van Nest-Morris Park-Westchester Square,158,13,5,136,13,9,35,pin oak
+2022701,Bronx,Mount Hope,184,3,2,148,30,6,26,honeylocust
+2017902,Bronx,East Concourse-Concourse Village,99,3,4,56,23,20,18,London planetree
+3029500,Brooklyn,Stuyvesant Heights,269,3,2,248,16,5,37,London planetree
+1014200,Manhattan,Upper East Side-Carnegie Hill,411,7,2,334,50,27,27,ginkgo
+4053501,Queens,Maspeth,120,1,2,101,19,0,23,honeylocust
+3041900,Brooklyn,Bushwick South,191,1,6,163,26,2,28,honeylocust
+3065400,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,224,2,3,216,7,1,42,London planetree
+2026300,Bronx,Kingsbridge Heights,207,3,7,179,21,7,25,pin oak
+1022102,Manhattan,Central Harlem North-Polo Grounds,208,1,1,193,11,4,23,honeylocust
+3014901,Brooklyn,Park Slope-Gowanus,165,3,2,140,17,8,25,pin oak
+4016400,Queens,South Ozone Park,132,2,5,109,20,3,38,London planetree
+4050500,Queens,Middle Village,147,1,5,111,36,0,31,maple
+2031400,Bronx,Allerton-Pelham Gardens,277,6,11,224,42,11,48,Norway maple
+1014700,Manhattan,Lincoln Square,99,2,4,71,23,5,9,Callery pear
+3059200,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,257,1,8,222,32,3,28,London planetree
+4004200,Queens,Woodhaven,206,5,3,165,35,6,27,London planetree
+4053800,Queens,Queens Village,174,6,4,143,23,8,30,London planetree
+1006400,Manhattan,Gramercy,276,5,5,215,48,13,22,honeylocust
+4019000,Queens,Baisley Park,225,7,22,197,20,8,24,pin oak
+3005000,Brooklyn,Bay Ridge,424,6,0,372,45,7,46,London planetree
+4025800,Queens,South Jamaica,133,6,4,86,42,5,26,London planetree
+1003700,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,489,11,13,313,151,25,40,Japanese zelkova
+4005700,Queens,Astoria,259,3,10,220,36,3,36,London planetree
+1003602,Manhattan,East Village,154,4,2,125,24,5,25,honeylocust
+2029500,Bronx,Spuyten Duyvil-Kingsbridge,294,9,9,238,41,15,41,pin oak
+3018800,Brooklyn,Bensonhurst West,183,2,3,173,9,1,33,London planetree
+3078802,Brooklyn,Flatbush,62,0,5,62,0,0,15,pin oak
+3020600,Brooklyn,Dyker Heights,193,2,5,147,34,12,24,London planetree
+3000200,Brooklyn,Sunset Park West,146,3,1,112,29,5,26,honeylocust
+3005301,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,448,36,3,336,71,41,55,Callery pear
+2007300,Bronx,Melrose South-Mott Haven North,203,15,6,160,34,9,30,Sophora
+2034200,Bronx,Allerton-Pelham Gardens,191,11,5,169,14,8,34,honeylocust
+3085000,Brooklyn,East Flatbush-Farragut,157,2,0,148,8,1,28,London planetree
+3078601,Brooklyn,Flatbush,83,0,0,60,21,2,15,honeylocust
+3076800,Brooklyn,Midwood,317,4,12,222,70,25,42,London planetree
+2018501,Bronx,Morrisania-Melrose,193,23,8,145,30,18,34,cherry
+3057500,Brooklyn,Greenpoint,267,5,4,203,47,17,32,littleleaf linden
+4001400,Queens,Woodhaven,299,4,22,229,62,8,38,London planetree
+4017600,Queens,South Ozone Park,176,12,8,151,19,6,30,London planetree
+3052500,Brooklyn,North Side-South Side,123,6,6,114,6,3,12,honeylocust
+3016500,Brooklyn,Park Slope-Gowanus,420,4,9,290,92,38,38,London planetree
+3086200,Brooklyn,Rugby-Remsen Village,105,0,2,98,6,1,25,Japanese zelkova
+3003700,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,174,1,2,106,60,8,23,honeylocust
+1001401,Manhattan,Lower East Side,81,2,1,67,14,0,19,Callery pear
+3000900,Brooklyn,Brooklyn Heights-Cobble Hill,239,2,3,217,17,5,28,Callery pear
+3082000,Brooklyn,Prospect Lefferts Gardens-Wingate,122,11,1,90,20,12,22,northern red oak
+4028700,Queens,Jackson Heights,300,5,9,246,40,14,36,pin oak
+5017300,Staten Island,New Springville-Bloomfield-Travis,411,8,6,295,88,28,44,London planetree
+2036300,Bronx,East Tremont,401,15,4,345,36,20,40,honeylocust
+4003302,Queens,Queensbridge-Ravenswood-Long Island City,240,9,5,198,39,3,37,London planetree
+5029105,Staten Island,New Springville-Bloomfield-Travis,973,22,17,741,196,36,69,pin oak
+3081600,Brooklyn,East Flatbush-Farragut,111,4,1,103,4,4,19,London planetree
+3049500,Brooklyn,East Williamsburg,167,3,4,138,23,6,34,Japanese zelkova
+4115100,Queens,Murray Hill,432,4,8,373,49,10,54,London planetree
+4043400,Queens,South Jamaica,330,3,4,314,12,4,28,pin oak
+2040400,Bronx,Williamsbridge-Olinville,170,3,16,146,22,2,24,honeylocust
+4063900,Queens,Glendale,286,6,31,213,54,19,49,London planetree
+2037800,Bronx,Williamsbridge-Olinville,89,0,4,67,19,3,17,honeylocust
+2005400,Bronx,West Farms-Bronx River,191,3,5,170,17,4,22,common hackberry
+4020800,Queens,Jamaica,315,12,5,268,31,16,33,honeylocust
+4072300,Queens,Forest Hills,646,3,10,570,68,8,68,littleleaf linden
+4016100,Queens,Astoria,104,0,4,93,6,5,20,Japanese zelkova
+1026900,Manhattan,Washington Heights North,308,17,8,207,88,13,39,honeylocust
+2036700,Bronx,East Tremont,113,9,0,78,25,10,37,Callery pear
+1013603,Manhattan,Yorkville,104,3,3,66,25,13,17,honeylocust
+3045200,Brooklyn,Ocean Parkway South,381,1,9,275,84,22,43,littleleaf linden
+5031901,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville,384,6,3,335,37,12,33,honeylocust
+3150200,Brooklyn,Windsor Terrace,426,1,4,371,41,14,38,London planetree
+4023501,Queens,Hunters Point-Sunnyside-West Maspeth,135,3,7,107,16,12,18,pin oak
+4027101,Queens,Elmhurst,66,3,0,52,14,0,22,honeylocust
+3113000,Brooklyn,East New York (Pennsylvania Ave),329,14,2,249,65,15,38,London planetree
+4109300,Queens,Bayside-Bayside Hills,905,5,23,736,156,13,62,pin oak
+4010200,Queens,South Ozone Park,218,3,15,173,38,7,19,London planetree
+4111300,Queens,Bayside-Bayside Hills,613,6,19,509,87,17,68,Norway maple
+2020100,Bronx,Highbridge,223,7,11,170,31,22,25,pin oak
+3043600,Brooklyn,Bensonhurst East,166,3,1,141,23,2,26,London planetree
+3028501,Brooklyn,Bushwick South,46,1,0,36,8,2,14,sweetgum
+3016700,Brooklyn,Park Slope-Gowanus,368,2,7,311,50,7,39,pin oak
+4113300,Queens,Bayside-Bayside Hills,378,7,11,283,63,32,47,London planetree
+1030700,Manhattan,Marble Hill-Inwood,140,1,2,91,44,5,29,honeylocust
+4122702,Queens,Pomonok-Flushing Heights-Hillcrest,376,7,10,311,58,7,33,pin oak
+4056800,Queens,Queens Village,540,28,21,446,63,31,55,honeylocust
+3060000,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,379,7,34,163,183,33,45,London planetree
+3023800,Brooklyn,Borough Park,279,8,11,197,56,26,45,Norway maple
+3008000,Brooklyn,Sunset Park West,254,6,5,200,43,11,34,London planetree
+3010000,Brooklyn,Sunset Park East,223,5,5,205,15,3,20,pin oak
+2012500,Bronx,Morrisania-Melrose,314,2,2,269,33,12,31,honeylocust
+4063302,Queens,Glendale,272,1,11,233,31,8,36,London planetree
+3049600,Brooklyn,Kensington-Ocean Parkway,270,4,11,225,35,10,45,London planetree
+4017000,Queens,South Ozone Park,177,8,8,154,22,1,30,pin oak
+4122300,Queens,Pomonok-Flushing Heights-Hillcrest,866,4,9,736,113,17,67,pin oak
+5018902,Staten Island,New Springville-Bloomfield-Travis,899,19,8,793,73,33,59,London planetree
+4035300,Queens,East Elmhurst,224,4,14,192,21,11,34,littleleaf linden
+2041400,Bronx,Woodlawn-Wakefield,257,4,13,168,71,18,26,honeylocust
+2006302,Bronx,West Concourse,175,9,2,143,27,5,18,London planetree
+4080302,Queens,Queensboro Hill,584,7,18,523,52,9,60,London planetree
+3037500,Brooklyn,Stuyvesant Heights,143,3,4,132,9,2,32,Japanese zelkova
+4013500,Queens,Steinway,232,1,5,198,23,11,42,London planetree
+3100800,Brooklyn,Canarsie,120,1,8,80,27,13,32,London planetree
+3074800,Brooklyn,Midwood,263,3,6,245,12,6,43,Norway maple
+1027900,Manhattan,Washington Heights North,321,12,5,227,75,19,29,honeylocust
+5022801,Staten Island,New Springville-Bloomfield-Travis,37,1,0,11,19,7,3,Callery pear
+4054000,Queens,Queens Village,375,5,15,331,37,7,46,cherry
+3049100,Brooklyn,East Williamsburg,184,11,9,139,44,1,23,London planetree
+1003601,Manhattan,Chinatown,149,3,2,122,25,2,20,honeylocust
+4015600,Queens,Richmond Hill,175,6,6,121,37,17,40,pin oak
+2024501,Bronx,University Heights-Morris Heights,152,20,3,127,19,6,34,honeylocust
+5003300,Staten Island,Grymes Hill-Clifton-Fox Hills,339,5,10,241,75,23,52,London planetree
+3052800,Brooklyn,Flatbush,384,1,6,283,93,8,51,London planetree
+4112300,Queens,Bayside-Bayside Hills,370,10,9,275,81,14,51,Callery pear
+1016500,Manhattan,Upper West Side,374,1,10,312,51,11,22,London planetree
+1010802,Manhattan,Turtle Bay-East Midtown,116,0,2,91,22,3,13,honeylocust
+3017000,Brooklyn,Bath Beach,167,3,3,153,13,1,26,London planetree
+1024700,Manhattan,Washington Heights South,209,5,5,131,52,26,28,Sophora
+3047800,Brooklyn,Borough Park,175,1,12,141,25,9,29,Callery pear
+3026700,Brooklyn,Bedford,297,4,8,256,37,4,45,London planetree
+1001501,Manhattan,Battery Park City-Lower Manhattan,164,0,6,119,33,12,21,honeylocust
+1009902,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,151,2,2,134,13,4,18,honeylocust
+5002900,Staten Island,Stapleton-Rosebank,516,19,9,446,60,10,47,cherry
+1008602,Manhattan,Turtle Bay-East Midtown,15,0,0,15,0,0,4,London planetree
+1017300,Manhattan,Upper West Side,398,2,2,356,28,14,24,honeylocust
+1014900,Manhattan,Lincoln Square,241,0,1,185,49,7,18,honeylocust
+4161700,Queens,Bellerose,1014,9,42,822,150,42,72,Norway maple
+4013000,Queens,Richmond Hill,303,3,8,262,32,9,62,Norway maple
+3003400,Brooklyn,Bay Ridge,308,4,10,272,24,12,44,London planetree
+4055400,Queens,Queens Village,302,6,15,216,72,14,49,pin oak
+3003101,Brooklyn,Fort Greene,78,5,0,45,27,6,15,London planetree
+4004401,Queens,Ozone Park,355,10,16,301,48,6,27,honeylocust
+3022200,Brooklyn,Borough Park,191,4,3,166,15,10,40,American linden
+1012902,Manhattan,Clinton,142,10,9,108,31,3,17,honeylocust
+3033900,Brooklyn,Crown Heights North,190,1,4,156,31,3,25,London planetree
+4008100,Queens,Old Astoria,90,1,5,65,16,9,19,cherry
+2033700,Bronx,North Riverdale-Fieldston-Riverdale,458,9,13,382,66,10,58,Norway maple
+4084602,Queens,South Ozone Park,230,13,13,166,53,11,39,honeylocust
+3043800,Brooklyn,Ocean Parkway South,268,3,2,226,36,6,39,littleleaf linden
+2021200,Bronx,Parkchester,80,2,0,72,7,1,15,honeylocust
+5000700,Staten Island,West New Brighton-New Brighton-St. George,469,7,22,339,92,38,43,London planetree
+3025902,Brooklyn,Bedford,7,0,0,2,5,0,1,pin oak
+1001502,Manhattan,Battery Park City-Lower Manhattan,55,1,0,41,11,3,9,honeylocust
+3018700,Brooklyn,Fort Greene,141,2,7,119,19,3,20,littleleaf linden
+3049800,Brooklyn,Kensington-Ocean Parkway,251,3,10,220,26,5,42,London planetree
+2025400,Bronx,Van Nest-Morris Park-Westchester Square,326,8,10,304,15,7,41,London planetree
+1014601,Manhattan,Yorkville,127,2,5,81,35,11,17,honeylocust
+1002202,Manhattan,Lower East Side,113,3,0,101,9,3,20,Callery pear
+4028100,Queens,Jackson Heights,289,2,15,222,51,16,36,littleleaf linden
+4073900,Queens,Forest Hills,375,6,7,297,65,13,49,honeylocust
+1002902,Manhattan,Chinatown,25,3,2,20,3,2,6,ginkgo
+4079200,Queens,Baisley Park,463,8,18,403,54,6,38,pin oak
+4014800,Queens,Richmond Hill,173,4,6,147,19,7,29,London planetree
+4012400,Queens,Richmond Hill,213,5,18,180,24,9,40,pin oak
+3052700,Brooklyn,North Side-South Side,296,5,3,258,28,10,30,honeylocust
+4057700,Queens,Glendale,258,6,8,155,83,20,33,Norway maple
+3041200,Brooklyn,Bensonhurst East,157,2,4,133,19,5,24,London planetree
+4017102,Queens,Hunters Point-Sunnyside-West Maspeth,44,0,2,35,7,2,9,Callery pear
+4058200,Queens,Queens Village,489,16,12,385,59,45,51,London planetree
+3034800,Brooklyn,Seagate-Coney Island,251,12,7,174,60,17,31,honeylocust
+3078000,Brooklyn,East Flatbush-Farragut,127,0,5,104,20,3,21,London planetree
+4127700,Queens,Jamaica Estates-Holliswood,1520,33,58,1207,259,54,82,pin oak
+3089600,Brooklyn,Brownsville,183,5,1,164,16,3,27,sycamore maple
+3120000,Brooklyn,East New York,228,3,6,204,22,2,38,London planetree
+4006300,Queens,Astoria,273,3,20,209,55,9,39,littleleaf linden
+1012000,Manhattan,Upper East Side-Carnegie Hill,406,10,7,306,68,32,31,Callery pear
+3043300,Brooklyn,Bushwick North,294,7,9,215,62,17,30,honeylocust
+3042000,Brooklyn,Homecrest,288,11,8,216,59,13,41,London planetree
+1029900,Manhattan,Marble Hill-Inwood,252,5,5,123,107,22,37,littleleaf linden
+3036400,Brooklyn,Brighton Beach,129,6,5,93,24,12,29,honeylocust
+4035200,Queens,St. Albans,511,11,28,439,63,9,49,pin oak
+3111000,Brooklyn,East New York,25,1,0,15,8,2,9,London planetree
+3041500,Brooklyn,Bushwick South,267,6,3,185,69,13,38,honeylocust
+2037400,Bronx,Williamsbridge-Olinville,140,9,1,124,11,5,31,pin oak
+3043200,Brooklyn,Bensonhurst East,140,2,1,110,20,10,28,London planetree
+4010100,Queens,Steinway,255,5,8,209,41,5,28,London planetree
+3029800,Brooklyn,Bensonhurst East,233,7,7,201,31,1,48,cherry
+3051400,Brooklyn,Flatbush,210,5,2,174,21,15,40,London planetree
+3088001,Brooklyn,Prospect Lefferts Gardens-Wingate,48,1,0,48,0,0,8,pin oak
+3036100,Brooklyn,Ocean Hill,159,1,6,142,14,3,25,London planetree
+1024302,Manhattan,Central Harlem North-Polo Grounds,36,0,1,36,0,0,5,London planetree
+4059400,Queens,Cambria Heights,288,7,4,247,25,16,30,London planetree
+4077500,Queens,Kew Gardens,449,1,8,370,72,7,41,pin oak
+4059501,Queens,Ridgewood,298,11,12,194,78,26,30,London planetree
+3107001,Brooklyn,East New York,523,26,2,410,69,44,43,pin oak
+3017800,Brooklyn,Bath Beach,158,3,6,151,5,2,30,willow oak
+1015101,Manhattan,Lincoln Square,114,5,0,62,43,9,24,Sophora
+2019700,Bronx,West Concourse,184,18,12,148,24,12,25,honeylocust
+3096000,Brooklyn,Canarsie,91,1,0,76,13,2,17,littleleaf linden
+1022302,Manhattan,Manhattanville,15,0,0,12,2,1,6,dawn redwood
+4024700,Queens,Woodside,75,0,2,62,12,1,13,honeylocust
+3119000,Brooklyn,Cypress Hills-City Line,142,11,0,127,4,11,31,cherry
+3009201,Brooklyn,Sunset Park East,106,1,2,91,8,7,28,London planetree
+3123700,Brooklyn,Bedford,243,8,4,200,37,6,30,honeylocust
+4083700,Queens,Queensboro Hill,952,13,30,780,119,53,59,London planetree
+5022300,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville,241,9,10,198,22,21,41,cherry
+4053000,Queens,St. Albans,211,1,7,203,8,0,29,London planetree
+4069702,Queens,Rego Park,850,10,27,720,112,18,34,honeylocust
+4032000,Queens,Springfield Gardens South-Brookville,1125,20,16,959,138,28,56,cherry
+3036600,Brooklyn,Brighton Beach,105,9,7,74,22,9,29,London planetree
+3024600,Brooklyn,Borough Park,151,3,2,142,7,2,29,London planetree
+4085700,Queens,Flushing,116,4,4,102,8,6,30,pin oak
+1013502,Manhattan,Clinton,174,4,6,101,45,28,18,honeylocust
+5008100,Staten Island,West New Brighton-New Brighton-St. George,584,14,5,505,52,27,58,London planetree
+4047500,Queens,Elmhurst,389,3,6,254,105,30,38,honeylocust
+2036501,Bronx,East Tremont,126,4,1,87,30,9,27,pin oak
+4010400,Queens,South Ozone Park,136,6,6,122,13,1,28,London planetree
+4094700,Queens,College Point,271,5,8,213,52,6,44,cherry
+3016300,Brooklyn,Prospect Heights,228,0,3,189,32,7,36,London planetree
+1015801,Manhattan,Upper East Side-Carnegie Hill,271,10,8,204,48,19,28,honeylocust
+5013400,Staten Island,New Dorp-Midland Beach,1539,9,8,1366,146,27,76,London planetree
+4061800,Queens,Laurelton,316,2,14,295,15,6,40,London planetree
+4016300,Queens,Astoria,204,2,8,176,22,6,17,London planetree
+2046203,Bronx,Co-op City,447,5,8,374,68,5,31,London planetree
+3039500,Brooklyn,Bushwick South,171,1,1,149,19,3,27,honeylocust
+3064400,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,309,4,7,271,29,9,46,London planetree
+1003002,Manhattan,East Village,98,7,1,62,15,21,21,honeylocust
+4086900,Queens,Flushing,286,10,3,202,70,14,34,Callery pear
+4113900,Queens,Auburndale,650,5,5,558,66,26,57,London planetree
+3079602,Brooklyn,Prospect Lefferts Gardens-Wingate,131,6,3,106,17,8,22,Japanese zelkova
+1027300,Manhattan,Washington Heights North,265,1,7,208,41,16,36,honeylocust
+4063500,Queens,Glendale,304,4,15,266,32,6,37,London planetree
+3023100,Brooklyn,Clinton Hill,281,1,2,261,18,2,28,London planetree
+4026901,Queens,Elmhurst,107,4,4,87,12,8,15,Callery pear
+3105801,Brooklyn,Starrett City,233,2,0,201,24,8,14,London planetree
+3085200,Brooklyn,East Flatbush-Farragut,107,2,3,82,25,0,11,silver maple
+3003900,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,249,4,3,164,73,12,32,honeylocust
+3006000,Brooklyn,Bay Ridge,184,5,5,166,15,3,27,London planetree
+4080302,Queens,Queensboro Hill,584,7,18,523,52,9,60,London planetree
+3048200,Brooklyn,Flatbush,319,3,11,193,93,33,38,Japanese zelkova
+3015000,Brooklyn,Dyker Heights,144,1,3,127,16,1,29,London planetree
+3057902,Brooklyn,Greenpoint,98,2,1,78,12,8,18,honeylocust
+4116302,Queens,Murray Hill,124,2,2,104,13,7,33,London planetree
+4003400,Queens,Woodhaven,241,8,2,196,32,13,29,pin oak
+3077200,Brooklyn,Flatbush,374,6,23,293,64,17,41,pin oak
+2043600,Bronx,Woodlawn-Wakefield,288,5,1,272,14,2,26,honeylocust
+4092900,Queens,College Point,611,8,19,466,128,17,63,cherry
+3029700,Brooklyn,Crown Heights North,377,4,3,347,26,4,42,London planetree
+2015800,Bronx,Schuylerville-Throgs Neck-Edgewater Park,204,1,6,178,20,6,32,London planetree
+3023300,Brooklyn,Bedford,207,3,2,168,31,8,31,London planetree
+1011203,Manhattan,Turtle Bay-East Midtown,73,0,3,58,14,1,13,ginkgo
+4024500,Queens,Woodside,314,3,20,252,49,13,35,Callery pear
+4065600,Queens,Rosedale,794,14,21,637,127,30,60,Norway maple
+1022600,Manhattan,Central Harlem North-Polo Grounds,255,9,5,191,37,27,27,honeylocust
+4080301,Queens,Queensboro Hill,282,11,18,229,43,10,43,London planetree
+3053900,Brooklyn,Williamsburg,109,0,7,103,6,0,16,littleleaf linden
+3028100,Brooklyn,Stuyvesant Heights,239,7,1,180,51,8,35,northern red oak
+1024900,Manhattan,Washington Heights South,112,1,1,87,21,4,20,Japanese zelkova
+3016900,Brooklyn,Windsor Terrace,392,3,5,308,73,11,61,pin oak
+2004400,Bronx,Soundview-Bruckner,129,0,0,113,15,1,25,swamp white oak
+4005000,Queens,Ozone Park,58,1,2,55,2,1,6,honeylocust
+2029301,Bronx,Spuyten Duyvil-Kingsbridge,57,1,2,52,4,1,17,willow oak
+4037900,Queens,North Corona,285,12,5,254,27,4,35,pin oak
+4048302,Queens,Elmhurst-Maspeth,121,2,4,117,3,1,13,London planetree
+4048900,Queens,Elmhurst-Maspeth,227,5,11,197,18,12,32,honeylocust
+4124700,Queens,Pomonok-Flushing Heights-Hillcrest,748,9,12,643,83,22,63,Norway maple
+4062600,Queens,Laurelton,313,7,8,256,41,16,45,silver maple
+3034901,Brooklyn,Crown Heights North,67,3,1,50,16,1,11,American elm
+2034000,Bronx,Bronxdale,199,11,15,169,22,8,33,London planetree
+3048400,Brooklyn,Kensington-Ocean Parkway,356,5,9,245,92,19,30,London planetree
+3035601,Brooklyn,West Brighton,67,0,1,48,14,5,8,London planetree
+4007700,Queens,Astoria,134,6,2,95,31,8,28,pin oak
+4121100,Queens,East Flushing,209,3,19,186,18,5,25,London planetree
+5017012,Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville,1392,25,43,1029,270,93,73,Callery pear
+4011000,Queens,Richmond Hill,145,6,5,125,14,6,31,London planetree
+1003100,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,89,3,0,55,22,12,10,Callery pear
+4050202,Queens,Hollis,264,3,7,244,16,4,46,London planetree
+2040502,Bronx,Bedford Park-Fordham North,130,9,5,112,12,6,26,littleleaf linden
+4040701,Queens,North Corona,91,4,1,81,8,2,26,cherry
+4077903,Queens,Kew Gardens Hills,368,4,10,312,50,6,38,pin oak
+3077400,Brooklyn,Flatbush,119,5,3,86,25,8,24,London planetree
+1022000,Manhattan,Central Harlem South,416,6,7,319,69,28,38,Sophora
+4028000,Queens,St. Albans,238,5,2,210,24,4,42,pin oak
+4051800,Queens,St. Albans,220,7,6,204,14,2,31,cherry
+4045400,Queens,Briarwood-Jamaica Hills,287,3,9,236,48,3,36,cherry
+3090800,Brooklyn,Brownsville,254,12,11,218,31,5,34,London planetree
+5013800,Staten Island,Oakwood-Oakwood Beach,1976,29,28,1589,336,51,86,Callery pear
+3051700,Brooklyn,North Side-South Side,227,11,5,209,18,0,32,London planetree
+4025401,Queens,South Jamaica,327,12,9,287,30,10,33,Callery pear
+4061601,Queens,Laurelton,506,10,17,386,82,38,52,Norway maple
+3040600,Brooklyn,Bensonhurst East,198,1,7,177,17,4,28,London planetree
+1023502,Manhattan,Central Harlem North-Polo Grounds,64,11,4,48,12,4,15,pin oak
+2011702,Bronx,Hunts Point,284,32,0,261,19,4,13,honeylocust
+3079801,Brooklyn,Prospect Lefferts Gardens-Wingate,206,1,3,189,16,1,35,Norway maple
+3025100,Brooklyn,Bedford,164,3,1,113,46,5,30,honeylocust
+2025700,Bronx,University Heights-Morris Heights,43,0,3,40,3,0,19,Japanese zelkova
+4051500,Queens,Maspeth,303,3,12,244,54,5,44,London planetree
+3077600,Brooklyn,Flatlands,158,5,2,119,25,14,42,cherry
+3019700,Brooklyn,Clinton Hill,386,4,12,344,31,11,48,ginkgo
+4054200,Queens,Queens Village,626,13,51,460,123,43,62,cherry
+4030905,Queens,Jackson Heights,287,11,8,207,58,22,34,London planetree
+1006900,Manhattan,West Village,251,12,2,196,38,17,29,Callery pear
+1012602,Manhattan,Lenox Hill-Roosevelt Island,150,2,4,110,21,19,15,honeylocust
+5017702,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,514,18,14,411,79,24,49,London planetree
+3035302,Brooklyn,Crown Heights North,154,2,2,126,26,2,19,London planetree
+3058400,Brooklyn,Homecrest,131,2,6,98,26,7,29,London planetree
+4055500,Queens,Ridgewood,190,4,5,120,49,21,23,honeylocust
+4052100,Queens,Maspeth,199,4,8,157,31,11,33,London planetree
+4048301,Queens,Elmhurst-Maspeth,78,2,3,60,17,1,22,Norway maple
+3044700,Brooklyn,Bushwick North,221,12,2,130,59,32,28,Sophora
+3055700,Brooklyn,North Side-South Side,217,13,2,179,31,7,38,honeylocust
+4054500,Queens,Ridgewood,207,7,11,139,51,17,31,honeylocust
+1002601,Manhattan,Lower East Side,196,7,4,150,36,10,29,honeylocust
+5021300,Staten Island,Port Richmond,668,7,6,578,61,29,59,pin oak
+2003500,Bronx,Mott Haven-Port Morris,161,4,4,142,18,1,27,American elm
+3100400,Brooklyn,Canarsie,128,8,7,66,48,14,18,London planetree
+3031702,Brooklyn,Crown Heights North,267,0,6,206,54,7,29,American elm
+3090200,Brooklyn,Brownsville,147,3,7,139,6,2,29,London planetree
+4063200,Queens,Laurelton,285,7,9,246,22,17,49,London planetree
+3073400,Brooklyn,Flatlands,151,0,8,124,17,10,28,Norway maple
+3113200,Brooklyn,East New York (Pennsylvania Ave),236,7,2,203,28,5,34,Callery pear
+4018000,Queens,South Ozone Park,112,0,6,100,8,4,24,London planetree
+1000900,Manhattan,Battery Park City-Lower Manhattan,82,0,1,62,17,3,9,honeylocust
+3074600,Brooklyn,Flatlands,278,3,11,227,35,16,43,Norway maple
+3027200,Brooklyn,Bensonhurst West,151,2,3,144,6,1,20,London planetree
+4077902,Queens,Kew Gardens Hills,924,7,19,842,61,21,60,pin oak
+5011401,Staten Island,Old Town-Dongan Hills-South Beach,488,2,6,424,54,10,46,London planetree
+2039901,Bronx,Bedford Park-Fordham North,156,12,2,117,37,2,24,honeylocust
+3039000,Brooklyn,Homecrest,304,6,11,219,68,17,40,honeylocust
+4000104,Queens,Hunters Point-Sunnyside-West Maspeth,94,2,0,74,13,7,17,honeylocust
+4037501,Queens,North Corona,57,1,1,53,2,2,12,cherry
+1008800,Manhattan,Turtle Bay-East Midtown,288,9,6,212,59,17,18,ginkgo
+4026200,Queens,South Jamaica,140,2,4,122,16,2,21,pin oak
+4055700,Queens,Ridgewood,356,4,6,241,86,29,26,honeylocust
+4042600,Queens,St. Albans,136,6,4,87,41,8,20,honeylocust
+4003700,Queens,Queensbridge-Ravenswood-Long Island City,94,1,0,69,20,5,12,honeylocust
+1008601,Manhattan,Turtle Bay-East Midtown,87,1,5,61,21,5,2,honeylocust
+1014802,Manhattan,Upper East Side-Carnegie Hill,248,6,2,155,66,27,25,Callery pear
+3050700,Brooklyn,Bedford,175,4,6,138,29,8,17,honeylocust
+3047700,Brooklyn,East Williamsburg,325,17,6,263,39,23,39,honeylocust
+2005200,Bronx,Soundview-Bruckner,181,3,4,167,8,6,32,honeylocust
+4039400,Queens,St. Albans,281,3,18,257,21,3,32,honeylocust
+2026900,Bronx,Kingsbridge Heights,168,7,3,109,49,10,32,honeylocust
+3022700,Brooklyn,Clinton Hill,298,4,5,222,59,17,41,London planetree
+3022000,Brooklyn,Borough Park,222,2,4,189,25,8,36,London planetree
+2027300,Bronx,Van Cortlandt Village,214,6,3,194,17,3,31,honeylocust
+3014000,Brooklyn,Dyker Heights,191,8,10,114,61,16,28,London planetree
+2034800,Bronx,Allerton-Pelham Gardens,380,14,18,282,75,23,42,London planetree
+3099600,Brooklyn,Canarsie,231,5,11,162,60,9,32,London planetree
+1001402,Manhattan,Lower East Side,123,5,0,65,46,12,22,American linden
+3020300,Brooklyn,Prospect Heights,193,1,2,144,39,10,31,honeylocust
+3070601,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,620,6,16,503,94,23,51,London planetree
+2042000,Bronx,Williamsbridge-Olinville,152,2,4,114,32,6,26,honeylocust
+3118400,Brooklyn,Cypress Hills-City Line,274,18,3,206,43,25,32,honeylocust
+4056500,Queens,Glendale,61,5,2,32,22,7,15,green ash
+2037300,Bronx,East Tremont,198,11,2,112,73,13,36,Japanese zelkova
+2006000,Bronx,Crotona Park East,97,10,2,81,14,2,19,ginkgo
+3016100,Brooklyn,Prospect Heights,281,1,9,215,58,8,30,honeylocust
+3027300,Brooklyn,Stuyvesant Heights,213,1,4,168,43,2,25,honeylocust
+3033000,Brooklyn,Seagate-Coney Island,119,5,10,57,46,16,22,honeylocust
+4014700,Queens,Astoria,216,10,11,190,25,1,37,cherry
+4050000,Queens,Hollis,292,5,7,268,20,4,45,Callery pear
+3001803,Brooklyn,Sunset Park West,100,2,1,77,18,5,13,honeylocust
+5002002,Staten Island,Grasmere-Arrochar-Ft. Wadsworth,496,8,7,422,56,18,49,London planetree
+3012901,Brooklyn,Park Slope-Gowanus,230,1,3,174,49,7,30,honeylocust
+4134100,Queens,Fresh Meadows-Utopia,804,4,23,656,115,33,57,London planetree
+3084800,Brooklyn,Rugby-Remsen Village,72,2,1,70,1,1,22,London planetree
+3095600,Brooklyn,Canarsie,290,6,11,256,24,10,25,London planetree
+3042600,Brooklyn,Bensonhurst East,121,0,2,103,16,2,24,London planetree
+3119600,Brooklyn,East New York,483,6,3,430,39,14,54,cherry
+4005400,Queens,Ozone Park,719,11,30,638,70,11,40,honeylocust
+3041600,Brooklyn,Homecrest,266,7,6,156,81,29,38,London planetree
+1002000,Manhattan,Lower East Side,24,2,4,20,3,1,9,honeylocust
+3057901,Brooklyn,Greenpoint,208,2,0,153,47,8,25,honeylocust
+1015200,Manhattan,Yorkville,266,8,12,207,30,29,19,honeylocust
+3087800,Brooklyn,Prospect Lefferts Gardens-Wingate,202,1,2,191,9,2,27,London planetree
+4066401,Queens,Rosedale,417,1,6,358,38,21,34,Norway maple
+3048100,Brooklyn,East Williamsburg,156,4,2,128,22,6,28,honeylocust
+4001000,Queens,Woodhaven,156,0,3,145,10,1,28,London planetree
+2014702,Bronx,Claremont-Bathgate,66,5,0,51,13,2,13,London planetree
+4002800,Queens,Richmond Hill,261,3,6,225,31,5,49,London planetree
+2017300,Bronx,East Concourse-Concourse Village,250,18,9,207,31,12,39,Japanese zelkova
+1027500,Manhattan,Washington Heights North,99,2,6,76,19,4,21,honeylocust
+4089202,Queens,Lindenwood-Howard Beach,17,4,1,8,4,5,7,common hackberry
+4112900,Queens,Bayside-Bayside Hills,613,7,21,525,58,30,72,silver maple
+2017702,Bronx,East Concourse-Concourse Village,196,23,13,175,15,6,33,Callery pear
+4114100,Queens,Murray Hill,816,6,32,738,66,12,58,London planetree
+2043502,Bronx,Norwood,144,3,11,118,22,4,24,Norway maple
+1009903,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,195,10,2,188,5,2,12,honeylocust
+4103201,Queens,Far Rockaway-Bayswater,299,3,15,241,51,7,27,cherry
+2029700,Bronx,Spuyten Duyvil-Kingsbridge,266,9,14,229,34,3,32,pin oak
+3102802,Brooklyn,Canarsie,141,3,9,98,35,8,20,cherry
+3011000,Brooklyn,Sunset Park East,124,8,6,90,22,12,33,pin oak
+2011502,Bronx,Hunts Point,345,27,8,306,32,7,42,honeylocust
+4023502,Queens,Hunters Point-Sunnyside-West Maspeth,142,5,8,110,18,14,17,pin oak
+2009200,Bronx,Westchester-Unionport,382,6,8,340,32,10,46,London planetree
+2043000,Bronx,Woodlawn-Wakefield,398,1,8,387,10,1,28,honeylocust
+3049700,Brooklyn,East Williamsburg,232,5,3,198,29,5,30,pin oak
+3019900,Brooklyn,Clinton Hill,297,6,10,270,22,5,37,London planetree
+3049000,Brooklyn,Kensington-Ocean Parkway,381,3,17,264,90,27,40,honeylocust
+1015501,Manhattan,Lincoln Square,49,0,3,39,7,3,15,honeylocust
+5017600,Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville,3143,49,53,2446,562,135,75,Callery pear
+3042700,Brooklyn,Bushwick North,249,9,3,186,53,10,30,Japanese zelkova
+3011700,Brooklyn,Park Slope-Gowanus,155,5,4,118,30,7,32,Japanese zelkova
+2035800,Bronx,Eastchester-Edenwald-Baychester,540,16,22,471,56,13,49,pin oak
+1015102,Manhattan,Lincoln Square,77,3,1,43,32,2,8,ginkgo
+4021200,Queens,Jamaica,184,13,11,132,42,10,22,London planetree
+4003600,Queens,Woodhaven,190,0,6,156,28,6,34,Norway maple
+3107800,Brooklyn,East New York,618,23,15,464,102,52,54,London planetree
+3028400,Brooklyn,Bensonhurst West,128,1,3,113,12,3,28,littleleaf linden
+3020500,Brooklyn,Prospect Heights,244,0,4,197,36,11,35,honeylocust
+1000201,Manhattan,Lower East Side,66,4,0,46,11,9,15,honeylocust
+3100600,Brooklyn,Canarsie,126,3,7,78,39,9,22,London planetree
+2015100,Bronx,Morrisania-Melrose,386,8,11,329,46,11,37,honeylocust
+3045800,Brooklyn,Midwood,362,1,9,303,52,7,42,Callery pear
+3003000,Brooklyn,Bay Ridge,89,1,2,79,5,5,25,London planetree
+3059800,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,207,1,13,90,110,7,21,London planetree
+3027900,Brooklyn,Stuyvesant Heights,181,2,1,145,29,7,30,pin oak
+3052000,Brooklyn,Flatbush,321,2,3,287,28,6,39,pin oak
+3099400,Brooklyn,Canarsie,100,0,5,70,25,5,19,London planetree
+3013900,Brooklyn,Park Slope-Gowanus,245,5,4,220,19,6,50,Japanese zelkova
+2002300,Bronx,Mott Haven-Port Morris,50,3,1,46,4,0,11,London planetree
+4071100,Queens,Forest Hills,398,2,13,322,63,13,56,London planetree
+1008603,Manhattan,Turtle Bay-East Midtown,196,4,2,174,20,2,20,ginkgo
+4027102,Queens,Elmhurst,51,0,5,41,7,3,14,littleleaf linden
+2039000,Bronx,Williamsbridge-Olinville,83,2,3,70,11,2,24,cherry
+2019300,Bronx,Highbridge,171,10,9,135,23,13,31,honeylocust
+4004300,Queens,Queensbridge-Ravenswood-Long Island City,82,1,0,76,3,3,11,London planetree
+4071600,Queens,Springfield Gardens South-Brookville,40,0,0,40,0,0,6,honeylocust
+3047600,Brooklyn,Borough Park,273,3,10,252,20,1,41,London planetree
+3093600,Brooklyn,Rugby-Remsen Village,183,5,7,167,14,2,25,pin oak
+3112000,Brooklyn,East New York,284,1,1,229,50,5,41,London planetree
+4049301,Queens,Maspeth,152,3,12,127,20,5,43,Norway maple
+3059404,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,216,2,8,163,48,5,28,London planetree
+2020200,Bronx,Westchester-Unionport,203,4,3,184,13,6,44,Japanese zelkova
+3049302,Brooklyn,Bushwick South,223,18,4,188,25,10,21,honeylocust
+4120702,Queens,East Flushing,38,0,5,26,8,4,8,purple-leaf plum
+4061602,Queens,Rosedale,193,0,7,167,20,6,36,Norway maple
+2040900,Bronx,Van Cortlandt Village,538,8,9,451,68,19,35,pin oak
+2031900,Bronx,North Riverdale-Fieldston-Riverdale,3,1,0,3,0,0,2,pignut hickory
+3119400,Brooklyn,East New York,344,7,2,332,6,6,44,cherry
+2016200,Bronx,Schuylerville-Throgs Neck-Edgewater Park,183,2,7,149,24,10,33,Norway maple
+4061301,Queens,Ridgewood,596,17,8,514,68,14,64,honeylocust
+1001300,Manhattan,Battery Park City-Lower Manhattan,89,6,0,80,9,0,7,honeylocust
+4059300,Queens,Ridgewood,352,8,18,264,74,14,38,London planetree
+1016002,Manhattan,East Harlem South,125,2,0,101,22,2,15,honeylocust
+1013203,Manhattan,Lenox Hill-Roosevelt Island,88,0,2,63,22,3,13,honeylocust
+3042900,Brooklyn,Bushwick North,299,18,4,186,90,23,26,honeylocust
+4056200,Queens,Queens Village,224,2,12,175,40,9,30,honeylocust
+3000100,Brooklyn,Brooklyn Heights-Cobble Hill,400,6,8,285,99,16,36,honeylocust
+4000702,Queens,Hunters Point-Sunnyside-West Maspeth,338,20,8,250,70,18,37,honeylocust
+4060000,Queens,Cambria Heights,202,4,6,160,35,7,29,London planetree
+3021300,Brooklyn,Crown Heights South,220,3,3,166,53,1,32,American elm
+2018101,Bronx,East Concourse-Concourse Village,137,3,3,103,28,6,25,London planetree
+4040901,Queens,North Corona,60,0,2,53,6,1,20,pin oak
+3028502,Brooklyn,Stuyvesant Heights,4,0,0,3,1,0,2,London planetree
+4019400,Queens,South Jamaica,426,4,12,393,29,4,28,Japanese zelkova
+2007900,Bronx,Melrose South-Mott Haven North,269,16,12,246,15,8,31,honeylocust
+1008300,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,158,8,1,150,4,4,14,honeylocust
+3076600,Brooklyn,Flatbush,132,2,9,104,23,5,28,Callery pear
+3006800,Brooklyn,Bay Ridge,201,4,4,190,9,2,27,London planetree
+3022800,Brooklyn,Borough Park,206,5,2,177,23,6,32,London planetree
+3027800,Brooklyn,Bensonhurst West,132,2,2,108,20,4,26,ginkgo
+3114202,Brooklyn,Cypress Hills-City Line,129,2,4,117,11,1,25,London planetree
+4019901,Queens,Hunters Point-Sunnyside-West Maspeth,124,2,3,78,32,14,22,Sophora
+3095400,Brooklyn,Canarsie,333,6,6,294,27,12,26,London planetree
+2037504,Bronx,East Tremont,409,19,7,278,105,26,45,northern red oak
+1009300,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,221,11,5,207,12,2,18,Callery pear
+5017016,Staten Island,Arden Heights,1137,22,19,935,154,48,57,maple
+1002800,Manhattan,Lower East Side,271,4,7,206,50,15,31,honeylocust
+4115500,Queens,Murray Hill,271,5,9,249,18,4,43,London planetree
+3008500,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,152,2,14,115,25,12,30,pin oak
+4014900,Queens,Astoria,210,1,4,171,30,9,35,silver linden
+4044602,Queens,Jamaica,178,1,2,154,19,5,26,Sophora
+3058200,Brooklyn,Homecrest,200,12,2,167,18,15,35,pin oak
+4117100,Queens,Murray Hill,436,11,9,407,24,5,55,pin oak
+4018402,Queens,Baisley Park,180,4,4,159,15,6,28,pin oak
+2018102,Bronx,East Concourse-Concourse Village,190,4,4,142,40,8,25,honeylocust
+5020805,Staten Island,Rossville-Woodrow,2117,15,71,1819,252,45,51,Callery pear
+4060600,Queens,Cambria Heights,237,1,5,210,20,7,31,London planetree
+4038400,Queens,St. Albans,242,6,21,216,15,11,35,London planetree
+3072000,Brooklyn,Flatlands,175,0,7,149,22,4,22,London planetree
+4058300,Queens,Ridgewood,364,8,9,254,82,28,33,honeylocust
+5020701,Staten Island,Port Richmond,166,5,7,145,13,8,26,London planetree
+5017014,Staten Island,Arden Heights,1303,18,59,1136,138,29,44,Callery pear
+3001802,Brooklyn,Sunset Park West,50,2,0,35,13,2,11,Chinese elm
+4071701,Queens,Rego Park,225,4,4,165,45,15,21,London planetree
+3008200,Brooklyn,Sunset Park West,224,4,8,192,30,2,34,pin oak
+3013400,Brooklyn,Bay Ridge,375,2,10,332,37,6,34,London planetree
+3112400,Brooklyn,East New York,385,6,5,237,112,36,50,London planetree
+1011000,Manhattan,Lenox Hill-Roosevelt Island,300,3,3,191,91,18,22,honeylocust
+2028100,Bronx,Van Cortlandt Village,224,7,3,179,29,16,31,American linden
+2025300,Bronx,Kingsbridge Heights,171,8,4,140,21,10,27,American linden
+4015000,Queens,Richmond Hill,162,3,15,116,31,15,36,littleleaf linden
+1019702,Manhattan,Central Harlem South,76,2,1,48,23,5,19,American linden
+4044000,Queens,South Jamaica,188,4,15,144,35,9,34,honeylocust
+2002701,Bronx,Mott Haven-Port Morris,65,2,3,42,19,4,14,littleleaf linden
+3114201,Brooklyn,Cypress Hills-City Line,188,3,0,169,14,5,38,London planetree
+5017013,Staten Island,Arden Heights,863,6,20,623,195,45,43,green ash
+3043700,Brooklyn,Bushwick North,282,2,5,247,32,3,41,London planetree
+4066301,Queens,Middle Village,464,2,15,432,28,4,50,London planetree
+2005002,Bronx,Soundview-Bruckner,189,3,7,172,14,3,23,pin oak
+3109800,Brooklyn,East New York,369,14,6,136,190,43,36,London planetree
+2025600,Bronx,Van Nest-Morris Park-Westchester Square,234,3,3,206,18,10,37,London planetree
+2007200,Bronx,Soundview-Bruckner,269,3,10,247,18,4,34,London planetree
+4003800,Queens,Woodhaven,169,6,3,136,26,7,25,pin oak
+2037100,Bronx,East Tremont,293,12,5,187,91,15,46,honeylocust
+3011400,Brooklyn,Borough Park,240,4,6,200,31,9,38,London planetree
+4084601,Queens,South Ozone Park,700,8,15,591,92,17,43,green ash
+4046400,Queens,Jamaica Estates-Holliswood,327,15,8,299,23,5,52,pin oak
+3010100,Brooklyn,Sunset Park West,354,11,9,304,40,10,42,London planetree
+1009600,Manhattan,Midtown-Midtown South,69,0,0,32,28,9,7,honeylocust
+2039200,Bronx,Williamsbridge-Olinville,69,1,2,51,15,3,16,honeylocust
+3016800,Brooklyn,Bath Beach,169,4,5,142,19,8,34,London planetree
+4066000,Queens,Rosedale,706,9,11,634,60,12,44,honeylocust
+2012102,Bronx,Hunts Point,70,2,1,68,2,0,12,honeylocust
+4052600,Queens,St. Albans,225,6,3,218,7,0,34,cherry
+1023501,Manhattan,Hamilton Heights,255,5,5,225,24,6,31,pin oak
+1008100,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,228,3,1,201,18,9,13,Callery pear
+4028400,Queens,Baisley Park,397,4,12,360,30,7,45,pin oak
+3024800,Brooklyn,Bensonhurst West,86,7,0,81,5,0,22,London planetree
+2024100,Bronx,Mount Hope,217,5,7,197,16,4,30,Callery pear
+2039800,Bronx,Williamsbridge-Olinville,194,4,3,172,11,11,35,honeylocust
+1004800,Manhattan,Gramercy,253,5,13,211,36,6,23,ginkgo
+1012500,Manhattan,Midtown-Midtown South,36,5,1,15,14,7,8,Callery pear
+1005501,Manhattan,West Village,97,4,0,63,29,5,16,Callery pear
+4040302,Queens,North Corona,133,2,1,106,23,4,24,London planetree
+4016900,Queens,Hunters Point-Sunnyside-West Maspeth,509,6,7,368,120,21,28,London planetree
+3067400,Brooklyn,Flatlands,168,3,7,135,28,5,38,London planetree
+5017701,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,680,7,5,565,85,30,50,London planetree
+3094402,Brooklyn,Flatlands,35,0,0,19,15,1,5,London planetree
+5004002,Staten Island,Grymes Hill-Clifton-Fox Hills,156,3,0,147,7,2,20,Callery pear
+5032300,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville,110,2,2,68,28,14,30,cherry
+5027302,Staten Island,New Springville-Bloomfield-Travis,750,3,11,715,32,3,50,Callery pear
+3057600,Brooklyn,Madison,202,3,8,185,10,7,28,London planetree
+4009700,Queens,Steinway,275,5,5,197,64,14,34,London planetree
+4071306,Queens,Forest Hills,190,4,20,132,48,10,23,London planetree
+4052000,Queens,St. Albans,249,6,1,239,9,1,35,cherry
+3121400,Brooklyn,East New York,18,0,0,13,5,0,7,honeylocust
+1016300,Manhattan,Upper West Side,350,6,2,304,37,9,33,honeylocust
+4148300,Queens,Douglas Manor-Douglaston-Little Neck,1728,21,57,1243,370,115,71,pin oak
+3007800,Brooklyn,Sunset Park West,260,3,2,211,40,9,33,London planetree
+4033700,Queens,Jackson Heights,196,2,3,164,28,4,29,London planetree
+5025100,Staten Island,Port Richmond,1486,41,10,1362,83,41,84,London planetree
+3115600,Brooklyn,East New York (Pennsylvania Ave),253,6,0,218,29,6,35,honeylocust
+4097202,Queens,Hammels-Arverne-Edgemere,64,1,0,22,42,0,9,American linden
+2016100,Bronx,Crotona Park East,261,5,3,224,34,3,31,honeylocust
+2007000,Bronx,Soundview-Bruckner,336,2,2,292,37,7,29,littleleaf linden
+3031701,Brooklyn,Crown Heights North,175,1,0,155,17,3,28,London planetree
+4116301,Queens,Murray Hill,113,0,9,95,16,2,31,Callery pear
+2028500,Bronx,Spuyten Duyvil-Kingsbridge,275,0,3,216,50,9,39,pin oak
+2018400,Bronx,Schuylerville-Throgs Neck-Edgewater Park,498,8,10,438,45,15,51,London planetree
+1004400,Manhattan,Stuyvesant Town-Cooper Village,281,1,3,262,17,2,14,honeylocust
+4033405,Queens,Springfield Gardens North,395,9,7,368,24,3,20,littleleaf linden
+4058900,Queens,Ridgewood,330,7,22,211,94,25,37,honeylocust
+3012902,Brooklyn,Park Slope-Gowanus,188,2,2,138,40,10,31,pin oak
+3005302,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,250,10,24,158,64,28,33,honeylocust
+2036901,Bronx,East Tremont,116,11,0,87,20,9,28,honeylocust
+3021900,Brooklyn,Crown Heights North,253,4,9,194,43,16,27,American elm
+3051800,Brooklyn,Flatbush,337,1,9,297,29,11,45,littleleaf linden
+3010602,Brooklyn,Sunset Park East,72,3,4,63,8,1,20,London planetree
+3101600,Brooklyn,Canarsie,133,4,21,74,42,17,26,London planetree
+3053000,Brooklyn,Midwood,160,3,2,103,45,12,32,Japanese zelkova
+4126500,Queens,Pomonok-Flushing Heights-Hillcrest,282,7,13,222,48,12,45,Norway maple
+3064000,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,238,2,5,204,28,6,36,London planetree
+2028400,Bronx,Van Nest-Morris Park-Westchester Square,119,0,1,97,17,5,15,London planetree
+1023400,Manhattan,Central Harlem North-Polo Grounds,213,5,3,167,38,8,22,honeylocust
+3091600,Brooklyn,Brownsville,272,9,3,240,29,3,34,London planetree
+3078801,Brooklyn,Flatbush,78,0,2,70,4,4,18,Sophora
+3029400,Brooklyn,Bensonhurst West,52,2,0,50,1,1,14,London planetree
+3062600,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,227,4,16,164,48,15,27,London planetree
+1005800,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,69,3,1,65,3,1,8,Callery pear
+4141700,Queens,Auburndale,1512,17,51,1329,133,50,69,London planetree
+2026400,Bronx,Schuylerville-Throgs Neck-Edgewater Park,473,7,12,432,30,11,51,London planetree
+4036600,Queens,St. Albans,258,3,12,220,32,6,33,pin oak
+3066200,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,238,1,17,192,32,14,33,Japanese zelkova
+4140901,Queens,Bayside-Bayside Hills,327,5,10,286,25,16,40,pin oak
+3035101,Brooklyn,Crown Heights North,84,0,1,54,27,3,17,American elm
+4018102,Queens,Hunters Point-Sunnyside-West Maspeth,167,4,2,125,38,4,26,honeylocust
+4069500,Queens,Rego Park,206,2,8,172,31,3,24,honeylocust
+3022600,Brooklyn,Borough Park,70,0,1,60,8,2,21,cherry
+2038304,Bronx,Fordham South,92,10,1,79,10,3,19,Japanese zelkova
+4026600,Queens,South Jamaica,232,6,10,204,24,4,33,Japanese zelkova
+4040501,Queens,North Corona,75,7,3,56,17,2,18,pin oak
+3033701,Brooklyn,Crown Heights North,265,2,5,197,60,8,22,American elm
+4062900,Queens,Glendale,273,3,12,213,55,5,27,honeylocust
+2030100,Bronx,Spuyten Duyvil-Kingsbridge,75,0,2,53,20,2,18,honeylocust
+4053902,Queens,Ridgewood,66,1,3,51,15,0,16,littleleaf linden
+3056800,Brooklyn,Madison,175,0,12,138,34,3,27,London planetree
+1007700,Manhattan,West Village,390,9,7,315,51,24,40,honeylocust
+1023100,Manhattan,Hamilton Heights,306,4,3,264,32,10,33,pin oak
+3048500,Brooklyn,Bushwick South,328,7,4,255,58,15,43,honeylocust
+1020300,Manhattan,Morningside Heights,149,10,0,107,34,8,22,Callery pear
+4145900,Queens,Auburndale,523,9,15,486,32,5,59,pin oak
+1023600,Manhattan,Central Harlem North-Polo Grounds,193,2,0,170,22,1,22,honeylocust
+1019300,Manhattan,Morningside Heights,331,6,9,269,52,10,35,honeylocust
+2023302,Bronx,Mount Hope,100,3,4,73,20,7,15,Japanese zelkova
+3051900,Brooklyn,North Side-South Side,426,18,5,355,51,20,38,Callery pear
+3041100,Brooklyn,Bushwick South,167,3,5,145,18,4,24,honeylocust
+3088800,Brooklyn,Rugby-Remsen Village,261,3,15,206,37,18,33,London planetree
+4090700,Queens,College Point,769,19,22,438,288,43,39,American linden
+4040102,Queens,North Corona,167,6,4,114,47,6,32,Callery pear
+2027401,Bronx,Pelham Bay-Country Club-City Island,669,7,10,559,93,17,59,Norway maple
+5022601,Staten Island,Charleston-Richmond Valley-Tottenville,1346,23,41,1149,147,50,51,Callery pear
+2038301,Bronx,Fordham South,168,7,2,132,25,11,34,Japanese zelkova
+4028802,Queens,Baisley Park,258,2,11,242,10,6,17,Norway maple
+1021400,Manhattan,Central Harlem North-Polo Grounds,118,6,4,97,15,6,13,honeylocust
+4067100,Queens,Middle Village,400,2,16,363,33,4,37,Callery pear
+3035400,Brooklyn,West Brighton,193,5,4,142,45,6,22,London planetree
+4035700,Queens,East Elmhurst,685,18,24,588,79,18,55,pin oak
+2024300,Bronx,University Heights-Morris Heights,186,10,6,120,57,9,27,honeylocust
+2021502,Bronx,University Heights-Morris Heights,240,15,6,140,91,9,24,honeylocust
+4014500,Queens,Astoria,146,1,3,118,21,7,27,Norway maple
+4030906,Queens,Jackson Heights,285,5,8,235,43,7,29,pin oak
+1006200,Manhattan,Murray Hill-Kips Bay,47,7,7,22,14,11,14,honeylocust
+4120500,Queens,East Flushing,148,2,1,111,28,9,43,pin oak
+3107003,Brooklyn,East New York,63,3,6,35,19,9,10,willow oak
+4136700,Queens,Oakland Gardens,1150,10,37,1038,88,24,53,London planetree
+3021200,Brooklyn,Dyker Heights,194,6,7,164,26,4,24,London planetree
+4035800,Queens,Laurelton,674,20,15,498,133,43,72,Norway maple
+3085400,Brooklyn,East Flatbush-Farragut,134,1,2,126,4,4,24,London planetree
+2032800,Bronx,Bronxdale,234,4,15,202,23,9,39,London planetree
+4053401,Queens,Cambria Heights,244,13,13,185,44,15,33,northern red oak
+4088902,Queens,Flushing,378,4,5,281,77,20,36,pin oak
+2042800,Bronx,Woodlawn-Wakefield,220,1,3,206,14,0,25,honeylocust
+3050401,Brooklyn,Windsor Terrace,214,4,4,156,44,14,36,London planetree
+4099701,Queens,Ft. Totten-Bay Terrace-Clearview,789,12,23,611,142,36,61,London planetree
+2008500,Bronx,Longwood,270,1,4,234,26,10,27,honeylocust
+3051002,Brooklyn,Flatbush,68,1,0,60,8,0,17,honeylocust
+4029100,Queens,Jackson Heights,370,11,10,284,67,19,30,London planetree
+1006100,Manhattan,West Village,154,2,3,87,63,4,24,honeylocust
+4001800,Queens,Woodhaven,169,4,8,157,11,1,23,London planetree
+1005000,Manhattan,Gramercy,345,4,7,283,45,17,31,honeylocust
+2030701,Bronx,North Riverdale-Fieldston-Riverdale,223,3,5,186,30,7,24,Callery pear
+1017800,Manhattan,East Harlem North,283,5,8,223,28,32,32,honeylocust
+2002500,Bronx,Mott Haven-Port Morris,167,3,1,131,34,2,23,American linden
+3090600,Brooklyn,Brownsville,133,5,1,102,30,1,25,honeylocust
+4037600,Queens,St. Albans,708,10,39,635,56,17,61,honeylocust
+4146700,Queens,Bayside-Bayside Hills,547,3,26,421,90,36,54,London planetree
+2038200,Bronx,Williamsbridge-Olinville,181,4,5,174,6,1,31,red maple
+4072900,Queens,Forest Hills,389,1,14,335,46,8,55,London planetree
+4125700,Queens,Kew Gardens Hills,741,4,7,640,84,17,39,London planetree
+4032700,Queens,Jackson Heights,258,5,7,210,36,12,32,Norway maple
+1007001,Manhattan,Murray Hill-Kips Bay,113,6,3,61,35,17,15,London planetree
+5014700,Staten Island,Westerleigh,698,4,12,583,107,8,47,pin oak
+1014300,Manhattan,Upper East Side-Carnegie Hill,932,2,1,885,39,8,12,American elm
+4023000,Queens,Briarwood-Jamaica Hills,262,3,3,230,23,9,49,London planetree
+4059100,Queens,Ridgewood,372,6,20,296,67,9,43,honeylocust
+5003600,Staten Island,Stapleton-Rosebank,410,10,2,367,39,4,44,cherry
+3012600,Brooklyn,Bay Ridge,337,4,8,242,77,18,28,London planetree
+4019600,Queens,South Jamaica,335,6,8,312,16,7,32,honeylocust
+1017200,Manhattan,East Harlem South,200,3,2,153,42,5,33,honeylocust
+4026700,Queens,Elmhurst,125,2,5,102,16,7,17,pin oak
+1013300,Manhattan,Clinton,252,4,6,192,52,8,23,honeylocust
+3025000,Brooklyn,Bensonhurst West,88,3,3,78,7,3,24,pin oak
+4036300,Queens,East Elmhurst,204,5,2,176,24,4,24,littleleaf linden
+3015900,Brooklyn,Park Slope-Gowanus,423,5,14,313,99,11,46,London planetree
+4102900,Queens,Whitestone,584,10,16,528,45,11,55,London planetree
+2021302,Bronx,Highbridge,218,15,9,158,51,9,30,Callery pear
+4096400,Queens,Hammels-Arverne-Edgemere,609,25,33,396,145,68,46,Callery pear
+3017900,Brooklyn,Fort Greene,253,1,10,214,33,6,26,London planetree
+3061002,Brooklyn,Brighton Beach,63,3,7,44,15,4,19,London planetree
+2015900,Bronx,Hunts Point,142,3,9,85,48,9,23,ginkgo
+2004600,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,101,2,8,73,25,3,14,London planetree
+2004200,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,327,6,3,264,49,14,27,London planetree
+4068700,Queens,Rego Park,247,5,16,199,38,10,36,maple
+2026701,Bronx,Van Cortlandt Village,100,4,0,78,21,1,21,honeylocust
+2025100,Bronx,University Heights-Morris Heights,334,19,8,260,53,21,40,Callery pear
+5027705,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,843,38,5,397,361,85,62,Callery pear
+3001804,Brooklyn,Sunset Park West,41,0,0,34,7,0,2,honeylocust
+2008300,Bronx,Longwood,236,11,7,214,17,5,31,honeylocust
+2036100,Bronx,East Tremont,216,3,3,162,42,12,29,honeylocust
+2044400,Bronx,Woodlawn-Wakefield,367,2,7,343,22,2,43,London planetree
+1019800,Manhattan,East Harlem North,339,5,2,288,38,13,32,honeylocust
+4003100,Queens,Queensbridge-Ravenswood-Long Island City,131,1,2,103,17,11,33,pin oak
+1022301,Manhattan,Manhattanville,244,16,3,161,63,20,32,honeylocust
+5012500,Staten Island,West New Brighton-New Brighton-St. George,337,4,5,316,17,4,38,London planetree
+2004300,Bronx,Mott Haven-Port Morris,281,12,7,223,47,11,34,littleleaf linden
+4028200,Queens,St. Albans,121,1,6,93,23,5,21,pin oak
+3102000,Brooklyn,Canarsie,185,5,7,129,39,17,31,London planetree
+4074700,Queens,Forest Hills,349,3,12,294,50,5,49,London planetree
+1030300,Manhattan,Marble Hill-Inwood,217,6,5,144,54,19,30,Japanese zelkova
+3018100,Brooklyn,Fort Greene,367,3,6,308,49,10,39,London planetree
+5014605,Staten Island,Great Kills,1313,31,25,997,268,48,68,Callery pear
+1004100,Manhattan,SoHo-TriBeCa-Civic Center-Little Italy,84,1,1,71,10,3,12,ginkgo
+3014102,Brooklyn,Park Slope-Gowanus,127,1,3,106,14,7,32,Callery pear
+2007100,Bronx,Melrose South-Mott Haven North,238,5,4,194,40,4,27,Japanese zelkova
+3037700,Brooklyn,Stuyvesant Heights,311,2,2,273,36,2,40,London planetree
+3005202,Brooklyn,Bay Ridge,135,1,0,119,16,0,20,London planetree
+4030903,Queens,Jackson Heights,544,16,12,423,93,28,50,London planetree
+3097400,Brooklyn,Canarsie,132,1,1,121,10,1,32,London planetree
+1016600,Manhattan,East Harlem South,245,20,31,160,68,17,22,honeylocust
+3103401,Brooklyn,Canarsie,152,4,4,105,42,5,18,London planetree
+4009900,Queens,Steinway,159,3,5,126,26,7,17,London planetree
+4045600,Queens,Briarwood-Jamaica Hills,243,2,7,228,14,1,40,London planetree
+4099703,Queens,Ft. Totten-Bay Terrace-Clearview,237,1,6,157,67,13,28,London planetree
+2021800,Bronx,West Farms-Bronx River,323,22,5,271,44,8,36,pin oak
+4048400,Queens,Hollis,413,9,6,347,47,19,54,London planetree
+1016100,Manhattan,Upper West Side,285,8,3,230,45,10,30,London planetree
+3078602,Brooklyn,Flatbush,91,0,3,86,5,0,21,Callery pear
+3016600,Brooklyn,Dyker Heights,413,2,8,361,40,12,35,Callery pear
+1005400,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,98,5,2,89,7,2,14,Callery pear
+5013201,Staten Island,Oakwood-Oakwood Beach,544,8,8,447,82,15,65,London planetree
+4008300,Queens,Old Astoria,236,7,2,207,20,9,33,Japanese zelkova
+3079002,Brooklyn,Erasmus,201,8,5,191,9,1,29,littleleaf linden
+5007002,Staten Island,Old Town-Dongan Hills-South Beach,867,8,17,746,93,28,63,Callery pear
+3023000,Brooklyn,Borough Park,202,2,2,175,20,7,32,London planetree
+3038200,Brooklyn,Gravesend,13,1,2,11,2,0,5,London planetree
+5022602,Staten Island,Charleston-Richmond Valley-Tottenville,965,47,29,620,234,111,52,Callery pear
+4066701,Queens,Middle Village,340,6,18,261,78,1,42,pin oak
+3080600,Brooklyn,Prospect Lefferts Gardens-Wingate,167,2,2,155,11,1,24,pin oak
+3003300,Brooklyn,Fort Greene,222,2,5,173,40,9,26,honeylocust
+3030200,Brooklyn,Bensonhurst East,186,1,3,167,17,2,37,London planetree
+5001800,Staten Island,Stapleton-Rosebank,2,0,0,2,0,0,2,cherry
+3067000,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,293,2,6,268,22,3,29,London planetree
+3105804,Brooklyn,Starrett City,445,2,4,418,18,9,18,London planetree
+3020000,Brooklyn,Dyker Heights,159,4,3,154,5,0,33,London planetree
+3152200,Brooklyn,Flatbush,454,7,14,390,48,16,70,pin oak
+2008400,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,159,2,1,139,16,4,35,London planetree
+1019400,Manhattan,East Harlem North,226,3,5,174,37,15,21,honeylocust
+3057300,Brooklyn,Greenpoint,233,5,5,166,55,12,42,littleleaf linden
+1012101,Manhattan,Clinton,119,1,4,90,16,13,16,ginkgo
+2015200,Bronx,Schuylerville-Throgs Neck-Edgewater Park,251,12,10,227,19,5,38,Norway maple
+4010300,Queens,Steinway,312,6,6,271,38,3,41,London planetree
+1009100,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,187,4,1,168,14,5,17,Callery pear
+4122703,Queens,Pomonok-Flushing Heights-Hillcrest,470,2,5,348,108,14,53,pin oak
+3031300,Brooklyn,Crown Heights North,186,3,5,125,45,16,29,London planetree
+3062800,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,141,6,8,90,44,7,29,cherry
+4137700,Queens,Oakland Gardens,851,16,39,765,68,18,59,Norway maple
+2042500,Bronx,Norwood,369,9,9,299,60,10,38,Callery pear
+3045000,Brooklyn,Ocean Parkway South,203,1,4,166,35,2,28,littleleaf linden
+3072400,Brooklyn,Flatlands,235,3,5,197,25,13,22,London planetree
+4062400,Queens,Cambria Heights,34,2,2,28,5,1,7,Sophora
+4142900,Queens,Auburndale,819,7,20,665,120,34,61,London planetree
+4017200,Queens,South Ozone Park,117,2,5,91,20,6,21,London planetree
+3067600,Brooklyn,Flatlands,183,6,16,159,18,6,27,London planetree
+1016200,Manhattan,East Harlem South,182,3,8,106,64,12,18,London planetree
+4043701,Queens,Corona,102,3,2,71,25,6,19,pin oak
+3083400,Brooklyn,East Flatbush-Farragut,88,0,2,82,3,3,22,London planetree
+4047801,Queens,Jamaica Estates-Holliswood,292,16,8,242,42,8,43,pin oak
+4077908,Queens,Kew Gardens Hills,223,4,1,203,15,5,30,London planetree
+2048401,Bronx,Eastchester-Edenwald-Baychester,343,3,16,279,46,18,42,maple
+2025200,Bronx,Van Nest-Morris Park-Westchester Square,334,4,6,305,26,3,49,honeylocust
+4027302,Queens,Jackson Heights,208,5,6,165,37,6,24,honeylocust
+3038300,Brooklyn,Stuyvesant Heights,275,4,2,257,15,3,40,London planetree
+1029100,Manhattan,Marble Hill-Inwood,280,8,8,196,58,26,23,Japanese zelkova
+4018600,Queens,Baisley Park,194,2,13,180,13,1,31,London planetree
+3049400,Brooklyn,Kensington-Ocean Parkway,368,1,11,290,63,15,45,London planetree
+4029400,Queens,Springfield Gardens North,939,31,50,803,94,42,59,honeylocust
+1013602,Manhattan,Yorkville,115,2,3,83,18,14,17,honeylocust
+4006900,Queens,Old Astoria,223,12,2,181,29,13,37,pin oak
+2041100,Bronx,Bedford Park-Fordham North,162,1,1,140,20,2,20,honeylocust
+5005902,Staten Island,New Brighton-Silver Lake,16,0,0,7,9,0,4,pin oak
+3117201,Brooklyn,Cypress Hills-City Line,192,5,1,180,8,4,45,London planetree
+4134702,Queens,Fresh Meadows-Utopia,389,0,9,344,41,4,27,London planetree
+3056100,Brooklyn,Greenpoint,350,2,0,313,28,9,39,honeylocust
+3120803,Brooklyn,East New York,171,1,0,110,45,16,35,Japanese zelkova
+3078400,Brooklyn,East Flatbush-Farragut,166,4,5,146,18,2,38,Norway maple
+3051200,Brooklyn,Flatbush,120,3,8,105,13,2,29,honeylocust
+2022703,Bronx,Mount Hope,56,0,1,44,12,0,17,honeylocust
+2015300,Bronx,Crotona Park East,425,7,7,359,54,12,42,honeylocust
+4044301,Queens,Corona,129,5,2,105,20,4,23,honeylocust
+3038600,Brooklyn,Gravesend,172,5,17,153,16,3,26,London planetree
+4040200,Queens,St. Albans,254,0,8,240,12,2,35,London planetree
+1004200,Manhattan,East Village,78,2,1,48,19,11,13,honeylocust
+3043900,Brooklyn,Bushwick North,250,0,5,203,34,13,41,London planetree
+4009600,Queens,South Ozone Park,247,6,8,188,51,8,32,honeylocust
+4079000,Queens,Baisley Park,367,4,18,326,36,5,28,Callery pear
+4065402,Queens,Rosedale,30,0,0,15,15,0,5,crimson king maple
+3079400,Brooklyn,Erasmus,152,8,8,106,36,10,25,Japanese zelkova
+4045200,Queens,Briarwood-Jamaica Hills,118,2,3,97,16,5,23,pin oak
+5006400,Staten Island,Grasmere-Arrochar-Ft. Wadsworth,686,5,10,555,114,17,54,Callery pear
+3015200,Brooklyn,Dyker Heights,186,3,10,162,22,2,32,London planetree
+1023700,Manhattan,Hamilton Heights,377,16,7,304,62,11,36,pin oak
+4018401,Queens,Baisley Park,231,0,16,172,53,6,27,Norway maple
+3051602,Brooklyn,Flatbush,95,2,2,67,22,6,17,pin oak
+1024200,Manhattan,East Harlem North,261,19,7,199,38,24,29,Japanese zelkova
+3053400,Brooklyn,Midwood,227,3,5,147,43,37,38,London planetree
+3038900,Brooklyn,Bushwick South,205,14,9,138,50,17,32,honeylocust
+5011201,Staten Island,Old Town-Dongan Hills-South Beach,1142,34,35,894,180,68,75,pin oak
+4062100,Queens,Middle Village,195,4,9,153,33,9,35,Japanese zelkova
+3057200,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,39,2,0,30,8,1,2,London planetree
+3047200,Brooklyn,Borough Park,323,1,5,311,11,1,32,London planetree
+1017700,Manhattan,Upper West Side,391,1,4,319,48,24,26,honeylocust
+4056000,Queens,Queens Village,342,4,11,271,58,13,44,pin oak
+4002600,Queens,Richmond Hill,165,3,2,149,13,3,42,cherry
+2022800,Bronx,Pelham Parkway,279,17,3,194,55,30,46,Norway maple
+4065702,Queens,Middle Village,166,0,7,131,31,4,32,London planetree
+3039200,Brooklyn,Homecrest,219,2,1,189,21,9,33,honeylocust
+4027400,Queens,Baisley Park,229,2,4,217,8,4,30,London planetree
+3091200,Brooklyn,Brownsville,84,4,2,74,9,1,12,London planetree
+3001502,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,196,4,2,113,70,13,15,swamp white oak
+4118700,Queens,East Flushing,242,0,12,227,14,1,47,pin oak
+3051601,Brooklyn,Flatbush,157,4,3,129,26,2,29,London planetree
+4002200,Queens,Woodhaven,266,11,5,244,19,3,47,cherry
+2027900,Bronx,Van Cortlandt Village,372,9,5,348,19,5,46,pin oak
+3050600,Brooklyn,Flatbush,237,0,0,222,11,4,24,honeylocust
+1011201,Manhattan,Midtown-Midtown South,39,3,1,17,14,8,5,Callery pear
+3028800,Brooklyn,Bensonhurst West,171,1,4,141,26,4,33,Japanese zelkova
+2035100,Bronx,North Riverdale-Fieldston-Riverdale,238,2,13,201,31,6,36,Norway maple
+5000600,Staten Island,Stapleton-Rosebank,239,11,5,172,52,15,41,cherry
+4058500,Queens,Ridgewood,373,5,3,257,77,39,40,honeylocust
+3086800,Brooklyn,Rugby-Remsen Village,186,1,2,174,5,7,31,Japanese zelkova
+4018101,Queens,Hunters Point-Sunnyside-West Maspeth,137,1,6,112,21,4,27,honeylocust
+5018703,Staten Island,New Springville-Bloomfield-Travis,640,9,8,576,55,9,52,cherry
+4058000,Queens,Queens Village,262,11,16,196,39,27,39,Norway maple
+3118201,Brooklyn,Cypress Hills-City Line,160,3,2,139,18,3,29,pin oak
+4100801,Queens,Far Rockaway-Bayswater,542,13,41,451,65,26,41,honeylocust
+3050500,Brooklyn,East Williamsburg,247,10,3,202,39,6,23,littleleaf linden
+3028300,Brooklyn,Stuyvesant Heights,139,6,3,115,20,4,28,honeylocust
+3021000,Brooklyn,Dyker Heights,118,2,5,107,7,4,23,London planetree
+5014100,Staten Island,West New Brighton-New Brighton-St. George,272,20,5,243,24,5,38,crimson king maple
+3004600,Brooklyn,Bay Ridge,486,7,30,400,64,22,50,London planetree
+3085600,Brooklyn,East Flatbush-Farragut,139,2,1,120,14,5,23,London planetree
+5019800,Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville,2549,45,30,2002,364,183,67,Callery pear
+1004001,Manhattan,East Village,153,5,0,122,22,9,26,honeylocust
+4051000,Queens,Hollis,225,2,4,216,7,2,38,Norway maple
+4047900,Queens,Elmhurst-Maspeth,406,3,11,293,92,21,42,honeylocust
+1030900,Bronx,Marble Hill-Inwood,290,5,4,233,36,21,32,Callery pear
+1026700,Manhattan,Washington Heights North,77,1,1,64,9,4,23,pin oak
+4144100,Queens,Bayside-Bayside Hills,621,6,15,471,130,20,49,London planetree
+3030700,Brooklyn,Crown Heights North,148,1,3,122,21,5,28,London planetree
+3015400,Brooklyn,Bay Ridge,190,1,8,115,63,12,24,London planetree
+3056500,Brooklyn,Greenpoint,315,4,4,282,22,11,32,London planetree
+3049301,Brooklyn,Bushwick South,66,3,1,53,7,6,10,Japanese zelkova
+2033801,Bronx,Bronxdale,69,3,7,62,6,1,24,London planetree
+3001300,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,213,6,5,152,42,19,19,ginkgo
+4053601,Queens,Queens Village,140,5,4,128,10,2,23,London planetree
+4024300,Queens,Elmhurst-Maspeth,649,6,23,566,74,9,51,honeylocust
+5012200,Staten Island,New Dorp-Midland Beach,1439,4,13,1290,118,31,58,London planetree
+3038700,Brooklyn,Stuyvesant Heights,184,3,2,167,16,1,35,London planetree
+3078200,Brooklyn,East Flatbush-Farragut,183,1,7,163,14,6,27,pin oak
+3053800,Brooklyn,Midwood,241,2,11,171,44,26,38,London planetree
+2004100,Bronx,Mott Haven-Port Morris,213,8,5,142,58,13,30,cherry
+3012200,Brooklyn,Sunset Park West,164,5,6,147,15,2,28,London planetree
+4084901,Queens,Flushing,85,0,1,59,24,2,19,honeylocust
+3074000,Brooklyn,Flatlands,157,4,7,131,22,4,28,London planetree
+1013201,Manhattan,Lenox Hill-Roosevelt Island,121,4,3,79,25,17,14,honeylocust
+4027301,Queens,Jackson Heights,159,1,3,117,35,7,28,honeylocust
+3038100,Brooklyn,Crown Heights North,374,4,6,286,77,11,43,honeylocust
+4119500,Queens,East Flushing,255,2,3,227,22,6,48,silver maple
+4026400,Queens,South Jamaica,266,4,18,216,41,9,33,honeylocust
+2038700,Bronx,Belmont,309,8,5,284,21,4,33,Sophora
+4041300,Queens,Corona,193,3,7,144,33,16,30,Callery pear
+3040100,Brooklyn,Bushwick South,187,5,2,164,20,3,25,honeylocust
+2007400,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,236,2,7,198,27,11,33,London planetree
+4001600,Queens,Woodhaven,168,4,10,155,11,2,32,London planetree
+3005800,Brooklyn,Bay Ridge,211,5,4,200,8,3,34,London planetree
+3056302,Brooklyn,Greenpoint,40,1,0,38,0,2,7,honeylocust
+4107202,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,250,3,83,90,87,73,11,London planetree
+2000400,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,448,6,10,369,58,21,60,cherry
+2009600,Bronx,Westchester-Unionport,549,7,8,469,60,20,59,honeylocust
+1019000,Manhattan,Central Harlem South,185,13,1,122,47,16,27,London planetree
+1021500,Manhattan,Central Harlem North-Polo Grounds,87,10,5,83,4,0,20,honeylocust
+3072600,Brooklyn,Flatlands,217,5,12,164,33,20,45,London planetree
+2027700,Bronx,Van Cortlandt Village,178,9,2,138,31,9,34,pin oak
+1000202,Manhattan,Lower East Side,210,6,1,162,39,9,25,London planetree
+1011402,Manhattan,Upper East Side-Carnegie Hill,144,3,5,77,46,21,21,Callery pear
+1008700,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,206,8,7,194,9,3,14,Callery pear
+4004500,Queens,Astoria,228,3,6,196,24,8,20,pin oak
+4101004,Queens,Far Rockaway-Bayswater,611,8,11,405,176,30,40,honeylocust
+1019701,Manhattan,Morningside Heights,224,3,1,192,22,10,26,pin oak
+4005500,Queens,Queensbridge-Ravenswood-Long Island City,180,4,1,150,25,5,33,honeylocust
+3063800,Brooklyn,Madison,189,2,11,149,32,8,38,Norway maple
+4068300,Queens,Elmhurst,231,2,16,158,65,8,20,honeylocust
+5017005,Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville,2327,41,29,1600,516,211,70,Callery pear
+2008900,Bronx,Hunts Point,129,6,2,90,35,4,16,honeylocust
+4015100,Queens,Astoria,182,1,7,155,21,6,37,Japanese zelkova
+3050402,Brooklyn,Windsor Terrace,124,3,5,114,10,0,19,London planetree
+4036100,Queens,East Elmhurst,254,6,3,225,24,5,45,pin oak
+4097204,Queens,Hammels-Arverne-Edgemere,285,20,11,211,53,21,25,cherry
+4120300,Queens,East Flushing,367,5,13,305,47,15,49,pin oak
+1019500,Manhattan,Morningside Heights,463,6,12,387,60,16,33,honeylocust
+4010701,Queens,Steinway,158,5,4,132,19,7,20,London planetree
+3039900,Brooklyn,Bushwick South,238,0,4,199,31,8,31,honeylocust
+4060800,Queens,Cambria Heights,219,6,8,178,29,12,34,London planetree
+4025302,Queens,Hunters Point-Sunnyside-West Maspeth,134,4,4,105,23,6,17,honeylocust
+2018502,Bronx,Morrisania-Melrose,365,20,15,278,65,22,40,honeylocust
+5020100,Staten Island,Westerleigh,616,13,5,548,56,12,65,Callery pear
+3082600,Brooklyn,Erasmus,260,2,1,226,30,4,40,London planetree
+2040701,Bronx,Van Cortlandt Village,79,5,2,68,8,3,18,honeylocust
+3120200,Brooklyn,Cypress Hills-City Line,192,5,6,143,42,7,37,Norway maple
+5027900,Staten Island,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,416,2,9,335,67,14,47,Callery pear
+5002001,Staten Island,Stapleton-Rosebank,335,2,5,273,50,12,30,Callery pear
+2021601,Bronx,West Farms-Bronx River,263,6,13,204,49,10,29,littleleaf linden
+1015401,Manhattan,Yorkville,127,1,7,107,14,6,13,honeylocust
+4086500,Queens,Flushing,196,4,3,128,57,11,28,pin oak
+1031704,Manhattan,Battery Park City-Lower Manhattan,438,12,2,366,54,18,14,Callery pear
+5006700,Staten Island,New Brighton-Silver Lake,886,1,9,842,35,9,56,London planetree
+3035500,Brooklyn,Crown Heights South,165,5,3,144,18,3,29,honeylocust
+3014800,Brooklyn,Dyker Heights,161,5,3,144,13,4,24,London planetree
+3008400,Brooklyn,Sunset Park West,242,4,3,210,26,6,36,London planetree
+5011204,Staten Island,New Dorp-Midland Beach,58,2,0,40,11,7,9,swamp white oak
+1013400,Manhattan,Lenox Hill-Roosevelt Island,342,8,10,246,64,32,27,honeylocust
+3033600,Brooklyn,Seagate-Coney Island,46,4,0,32,10,4,11,honeylocust
+3027500,Brooklyn,Stuyvesant Heights,254,1,3,198,50,6,34,London planetree
+4098100,Queens,Whitestone,590,17,19,525,54,11,63,Callery pear
+5030301,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville,553,3,16,523,14,16,44,honeylocust
+5000800,Staten Island,Stapleton-Rosebank,906,29,12,778,101,27,67,cherry
+3024200,Brooklyn,Borough Park,190,3,6,164,25,1,33,London planetree
+3032300,Brooklyn,Crown Heights South,271,1,4,207,47,17,30,London planetree
+3031500,Brooklyn,Crown Heights North,236,3,6,211,21,4,32,ginkgo
+2045101,Bronx,Woodlawn-Wakefield,170,1,6,156,11,3,38,pin oak
+4018200,Queens,Baisley Park,179,1,6,168,9,2,21,London planetree
+3120801,Brooklyn,East New York,353,9,4,256,72,25,48,cherry
+1001002,Manhattan,Lower East Side,49,6,0,31,11,7,16,honeylocust
+2000200,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,368,0,0,333,28,7,48,Callery pear
+2026100,Bronx,Kingsbridge Heights,58,1,20,34,20,4,15,pin oak
+3053200,Brooklyn,Midwood,215,2,8,169,39,7,37,London planetree
+3114600,Brooklyn,Cypress Hills-City Line,274,4,0,217,46,11,40,London planetree
+4027701,Queens,Jackson Heights,111,1,4,85,21,5,21,littleleaf linden
+4077907,Queens,Kew Gardens Hills,355,14,8,313,30,12,40,London planetree
+4126700,Queens,Pomonok-Flushing Heights-Hillcrest,642,16,20,466,145,31,54,London planetree
+2022000,Bronx,East Tremont,114,2,0,108,4,2,15,honeylocust
+3099200,Brooklyn,Canarsie,76,0,2,64,9,3,24,London planetree
+2040600,Bronx,Williamsbridge-Olinville,218,7,8,184,24,10,35,pin oak
+3013000,Brooklyn,Bay Ridge,201,1,2,165,31,5,38,London planetree
+1018600,Manhattan,Central Harlem South,140,2,2,101,34,5,14,London planetree
+4092200,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,1058,39,86,594,318,146,60,honeylocust
+5005901,Staten Island,New Brighton-Silver Lake,542,10,8,436,91,15,55,Callery pear
+1014602,Manhattan,Yorkville,190,2,6,134,43,13,17,honeylocust
+2014300,Bronx,East Concourse-Concourse Village,148,0,2,125,20,3,27,Japanese zelkova
+1025700,Manhattan,Central Harlem South,282,3,1,239,39,4,28,honeylocust
+1018900,Manhattan,Upper West Side,391,12,6,294,65,32,33,honeylocust
+4091604,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,24,6,0,0,8,16,5,honeylocust
+3102600,Brooklyn,Canarsie,159,8,8,114,28,17,23,London planetree
+3101000,Brooklyn,Canarsie,209,4,6,180,19,10,40,honeylocust
+4092500,Queens,College Point,402,2,17,276,105,21,52,London planetree
+3005900,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,361,15,2,276,56,29,55,honeylocust
+4040000,Queens,St. Albans,188,3,7,160,24,4,29,London planetree
+2034400,Bronx,Allerton-Pelham Gardens,171,9,12,137,27,7,37,Norway maple
+3082400,Brooklyn,Erasmus,167,0,1,134,31,2,30,littleleaf linden
+2038900,Bronx,Belmont,316,9,5,253,47,16,40,honeylocust
+4068000,Queens,Springfield Gardens South-Brookville,646,8,23,540,69,37,45,cherry
+3011902,Brooklyn,Park Slope-Gowanus,38,0,2,26,10,2,10,Japanese zelkova
+1017100,Manhattan,Upper West Side,413,7,7,334,69,10,27,honeylocust
+4069000,Queens,Springfield Gardens South-Brookville,496,10,9,442,46,8,37,cherry
+3102801,Brooklyn,Canarsie,143,2,16,75,35,33,25,London planetree
+4055800,Queens,Queens Village,325,3,26,229,71,25,45,Callery pear
+2017701,Bronx,East Concourse-Concourse Village,181,5,6,142,36,3,28,honeylocust
+4013700,Queens,Steinway,151,2,8,128,17,6,40,pin oak
+3025800,Brooklyn,Bensonhurst West,232,6,3,194,25,13,23,London planetree
+3003800,Brooklyn,Bay Ridge,200,0,4,193,4,3,39,London planetree
+3002300,Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,63,1,0,40,21,2,14,London planetree
+3011600,Brooklyn,Borough Park,161,2,4,148,11,2,22,London planetree
+3051100,Brooklyn,East Williamsburg,201,5,0,172,25,4,23,pin oak
+4063000,Queens,Laurelton,115,3,3,102,8,5,27,Norway maple
+4057900,Queens,Glendale,145,1,1,105,37,3,27,London planetree
+3037300,Brooklyn,Ocean Hill,231,6,4,205,19,7,37,ginkgo
+4157901,Queens,Glen Oaks-Floral Park-New Hyde Park,1959,15,46,1734,190,35,65,ginkgo
+4043900,Queens,Corona,146,16,1,113,21,12,22,Callery pear
+3058901,Brooklyn,Greenpoint,191,2,2,151,33,7,32,honeylocust
+3084600,Brooklyn,Rugby-Remsen Village,152,1,6,131,14,7,31,London planetree
+4040702,Queens,North Corona,157,5,7,138,13,6,28,cherry
+3033500,Brooklyn,Crown Heights South,217,3,3,205,12,0,35,London planetree
+2006700,Bronx,Melrose South-Mott Haven North,181,13,3,115,52,14,29,Japanese zelkova
+3027400,Brooklyn,Bensonhurst West,124,3,2,115,8,1,23,London planetree
+3032600,Brooklyn,Seagate-Coney Island,232,15,11,151,66,15,39,honeylocust
+3095800,Brooklyn,Canarsie,219,2,9,198,18,3,27,London planetree
+3000700,Brooklyn,Brooklyn Heights-Cobble Hill,373,7,5,266,90,17,38,London planetree
+3025600,Brooklyn,Bensonhurst West,191,5,2,153,25,13,29,London planetree
+1020101,Manhattan,Morningside Heights,86,1,0,63,19,4,10,ginkgo
+3092000,Brooklyn,Brownsville,239,7,4,164,56,19,23,Japanese zelkova
+3026200,Brooklyn,Bensonhurst West,199,1,3,172,27,0,31,honeylocust
+3073000,Brooklyn,Flatlands,227,5,7,207,14,6,27,London planetree
+3055200,Brooklyn,Madison,165,5,6,88,43,34,34,pin oak
+4045900,Queens,Elmhurst,191,0,6,166,18,7,33,pin oak
+4099200,Queens,Hammels-Arverne-Edgemere,297,22,29,161,90,46,34,London planetree
+4134701,Queens,Fresh Meadows-Utopia,209,8,15,155,44,10,25,London planetree
+4052500,Queens,Maspeth,167,4,7,138,24,5,32,London planetree
+1022900,Manhattan,Hamilton Heights,315,17,5,259,43,13,35,honeylocust
+1021703,Manhattan,Manhattanville,306,6,4,249,42,15,32,honeylocust
+3043500,Brooklyn,Bushwick North,215,2,7,169,42,4,29,honeylocust
+1017402,Manhattan,East Harlem South,97,7,2,77,17,3,15,honeylocust
+4071305,Queens,Forest Hills,154,2,4,122,26,6,24,pin oak
+1015601,Manhattan,Yorkville,82,4,2,26,45,11,15,northern red oak
+4006502,Queens,Astoria,246,4,7,210,29,7,33,pin oak
+5012804,Staten Island,New Dorp-Midland Beach,709,11,11,546,136,27,68,Callery pear
+2042400,Bronx,Williamsbridge-Olinville,115,5,3,88,16,11,22,Callery pear
+3056900,Brooklyn,Greenpoint,135,2,2,127,7,1,27,London planetree
+4016600,Queens,South Ozone Park,189,6,9,154,33,2,27,London planetree
+4084902,Queens,Flushing,97,5,4,81,15,1,18,pin oak
+5024700,Staten Island,Port Richmond,341,8,6,296,35,10,46,Callery pear
+3055300,Brooklyn,North Side-South Side,269,8,3,235,26,8,34,honeylocust
+3056200,Brooklyn,Madison,225,1,14,205,13,7,35,London planetree
+3042300,Brooklyn,Bushwick South,273,11,5,224,31,18,37,pin oak
+4015300,Queens,Astoria,127,1,4,101,20,6,32,Norway maple
+3055000,Brooklyn,Madison,223,1,7,158,47,18,43,London planetree
+3034500,Brooklyn,Crown Heights North,182,0,7,158,18,6,22,pin oak
+2022102,Bronx,West Concourse,113,4,1,80,28,5,21,honeylocust
+2020400,Bronx,Westchester-Unionport,258,4,1,220,27,11,42,cherry
+2020601,Bronx,Westchester-Unionport,171,4,10,146,22,3,37,Callery pear
+2046209,Bronx,Co-op City,154,6,1,98,43,13,26,honeylocust
+3038800,Brooklyn,Homecrest,132,1,6,122,8,2,25,London planetree
+3062000,Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,426,11,27,309,93,24,46,pin oak
+4047100,Queens,Elmhurst,130,1,1,98,26,6,20,pin oak
+3035301,Brooklyn,Crown Heights North,102,1,3,85,15,2,18,pin oak
+2013800,Bronx,Schuylerville-Throgs Neck-Edgewater Park,93,0,1,84,7,2,22,London planetree
+2016500,Bronx,Claremont-Bathgate,201,5,2,167,27,7,24,honeylocust
+3055100,Brooklyn,North Side-South Side,286,7,0,273,7,6,33,honeylocust
+2044200,Bronx,Woodlawn-Wakefield,165,3,4,140,21,4,31,Norway maple
+3082800,Brooklyn,Erasmus,190,4,6,162,20,8,31,littleleaf linden
+3005100,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,229,4,1,218,7,4,32,Callery pear
+5000300,Staten Island,West New Brighton-New Brighton-St. George,231,18,15,161,47,23,32,London planetree
+4059000,Queens,Cambria Heights,213,10,4,179,27,7,37,cherry
+2038000,Bronx,Williamsbridge-Olinville,150,3,2,120,23,7,23,London planetree
+3050002,Brooklyn,Windsor Terrace,87,0,4,78,8,1,25,London planetree
+4008500,Queens,Queensbridge-Ravenswood-Long Island City,95,3,1,74,16,5,22,Callery pear
+1018300,Manhattan,Upper West Side,308,5,6,248,43,17,23,honeylocust
+4087100,Queens,Flushing,168,10,8,102,49,17,24,Callery pear
+5002100,Staten Island,Stapleton-Rosebank,726,34,20,495,170,61,54,Japanese zelkova
+2003300,Bronx,Mott Haven-Port Morris,185,4,3,150,27,8,32,London planetree
+3095000,Brooklyn,Canarsie,274,2,3,232,37,5,27,London planetree
+4052200,Queens,St. Albans,255,4,4,247,7,1,30,London planetree
+3015700,Brooklyn,Park Slope-Gowanus,350,3,10,290,46,14,37,London planetree
+3023500,Brooklyn,Clinton Hill,165,3,5,142,16,7,24,pin oak
+3008800,Brooklyn,Sunset Park East,153,5,9,117,24,12,29,honeylocust
+3042100,Brooklyn,Bushwick South,210,3,6,149,50,11,25,honeylocust
+3088002,Brooklyn,Prospect Lefferts Gardens-Wingate,98,0,2,96,1,1,19,London planetree
+4074500,Queens,Forest Hills,152,2,5,101,45,6,27,London planetree
+4055100,Queens,Ridgewood,395,13,29,246,106,43,29,Norway maple
+4097300,Queens,Whitestone,717,15,11,677,32,8,72,pin oak
+4000600,Queens,Woodhaven,230,6,1,195,28,7,33,London planetree
+3099800,Brooklyn,Canarsie,286,8,8,161,103,22,41,London planetree
+4103202,Queens,Far Rockaway-Bayswater,814,13,9,620,165,29,56,honeylocust
+3088600,Brooklyn,Rugby-Remsen Village,213,7,0,174,29,10,39,London planetree
+2006500,Bronx,Melrose South-Mott Haven North,294,15,7,185,84,25,35,Sophora
+3025300,Brooklyn,Bedford,192,1,2,152,38,2,28,honeylocust
+2026602,Bronx,Pelham Bay-Country Club-City Island,396,10,7,362,27,7,49,London planetree
+3116200,Brooklyn,East New York,266,4,1,185,73,8,44,honeylocust
+2036902,Bronx,East Tremont,66,2,2,35,20,11,21,littleleaf linden
+3112200,Brooklyn,East New York (Pennsylvania Ave),297,3,3,275,21,1,41,cherry
+1002602,Manhattan,Lower East Side,259,2,0,191,61,7,35,honeylocust
+2039600,Bronx,Williamsbridge-Olinville,235,10,2,188,38,9,37,cherry
+4011500,Queens,Steinway,200,3,7,135,62,3,34,pin oak
+3031402,Brooklyn,Gravesend,30,4,1,10,16,4,8,Sophora
+3030600,Brooklyn,Gravesend,130,10,2,102,24,4,25,pin oak
+2005001,Bronx,Soundview-Bruckner,168,2,5,143,24,1,26,littleleaf linden
+3043000,Brooklyn,Bensonhurst East,214,0,3,165,31,18,24,London planetree
+5014608,Staten Island,Great Kills,797,12,21,473,260,64,52,Callery pear
+5004001,Staten Island,Grymes Hill-Clifton-Fox Hills,469,2,2,409,50,10,50,London planetree
+3096800,Brooklyn,Canarsie,127,1,6,115,9,3,21,London planetree
+4001903,Queens,Hunters Point-Sunnyside-West Maspeth,312,3,4,247,54,11,38,honeylocust
+3097000,Brooklyn,Canarsie,148,5,9,134,12,2,25,London planetree
+3041000,Brooklyn,Bensonhurst East,169,2,6,136,28,5,27,London planetree
+2013000,Bronx,Schuylerville-Throgs Neck-Edgewater Park,166,1,1,161,5,0,28,London planetree
+5030302,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville,730,24,15,637,63,30,61,Callery pear
+2021002,Bronx,Parkchester,129,1,5,114,15,0,18,red maple
+3017200,Brooklyn,Bath Beach,153,2,7,128,20,5,33,London planetree
+3111600,Brooklyn,East New York,675,36,13,512,109,54,55,London planetree
+4055900,Queens,Ridgewood,85,7,4,58,20,7,16,honeylocust
+2037200,Bronx,Williamsbridge-Olinville,184,1,3,178,5,1,35,London planetree
+1022700,Manhattan,Hamilton Heights,301,6,1,228,71,2,38,honeylocust
+3117202,Brooklyn,Cypress Hills-City Line,243,0,2,211,24,8,41,littleleaf linden
+1013604,Manhattan,Yorkville,162,4,4,124,29,9,14,Callery pear
+4124100,Queens,Pomonok-Flushing Heights-Hillcrest,1051,6,16,949,86,16,68,London planetree
+3000501,Brooklyn,Brooklyn Heights-Cobble Hill,161,1,3,138,19,4,24,ginkgo
+2003800,Bronx,Soundview-Castle Hill-Clason Point-Harding Park,110,1,0,101,7,2,24,honeylocust
+4059502,Queens,Ridgewood,156,3,5,126,25,5,33,honeylocust
+3061004,Brooklyn,Brighton Beach,181,11,18,122,41,18,24,London planetree
+4012200,Queens,Richmond Hill,316,3,9,283,22,11,54,cherry
+4046500,Queens,Elmhurst,209,3,3,182,23,4,25,pin oak
+2028800,Bronx,Pelham Parkway,559,2,26,506,41,12,52,London planetree
+2043503,Bronx,Spuyten Duyvil-Kingsbridge,307,8,22,279,25,3,31,pin oak
+1018000,Manhattan,East Harlem North,190,7,14,153,28,9,24,honeylocust
+4020400,Queens,Jamaica,290,4,4,240,38,12,32,cherry
+1003200,Manhattan,East Village,260,4,10,194,54,12,44,honeylocust
+3004700,Brooklyn,Carroll Gardens-Columbia Street-Red Hook,184,4,1,124,53,7,29,honeylocust
+3010200,Brooklyn,Sunset Park East,231,9,3,204,21,6,33,London planetree
+4095400,Queens,Hammels-Arverne-Edgemere,796,25,37,453,239,104,53,Callery pear
+1015900,Manhattan,Lincoln Square,275,5,5,223,46,6,26,honeylocust
+1014000,Manhattan,Upper East Side-Carnegie Hill,397,7,4,286,89,22,24,ginkgo
+4000400,Queens,Woodhaven,203,3,6,129,55,19,36,London planetree
+4059900,Queens,Maspeth,159,3,6,139,16,4,34,London planetree
+1029500,Manhattan,Marble Hill-Inwood,257,9,5,197,48,12,22,ginkgo
+1007200,Manhattan,Murray Hill-Kips Bay,278,3,7,173,85,20,29,honeylocust
+2022401,Bronx,Pelham Parkway,85,2,0,63,17,5,18,honeylocust
+3025200,Brooklyn,Bensonhurst West,201,2,4,189,9,3,21,London planetree
+3002200,Brooklyn,Sunset Park West,291,11,4,222,49,20,29,pin oak
+2016900,Bronx,Claremont-Bathgate,134,8,3,110,14,10,36,Callery pear
+4040301,Queens,North Corona,75,2,0,58,13,4,16,pin oak
+1013601,Manhattan,Yorkville,64,1,0,52,6,6,10,honeylocust
+4094500,Queens,Whitestone,1413,37,38,1272,110,31,82,London planetree
+4006100,Queens,Astoria,210,4,6,171,33,6,26,honeylocust
+2038800,Bronx,Williamsbridge-Olinville,153,4,2,145,6,2,21,cherry
+3015500,Brooklyn,Park Slope-Gowanus,294,3,6,243,45,6,37,London planetree
+3007200,Brooklyn,Sunset Park West,31,1,1,19,12,0,8,honeylocust
+2045102,Bronx,Woodlawn-Wakefield,278,0,3,252,20,6,56,cherry
+2011800,Bronx,Schuylerville-Throgs Neck-Edgewater Park,391,3,12,332,48,11,45,honeylocust
+4129104,Queens,Oakland Gardens,799,5,23,728,56,15,47,London planetree
+4109900,Queens,Bayside-Bayside Hills,490,6,17,374,76,40,57,London planetree
+3024300,Brooklyn,Bedford,195,0,1,173,21,1,35,honeylocust
+3046201,Brooklyn,Flatbush,188,1,3,142,36,10,37,London planetree
+3018300,Brooklyn,Fort Greene,302,3,4,284,16,2,33,London planetree
+4037700,Queens,North Corona,225,10,3,194,22,9,34,London planetree
+4097207,Queens,Hammels-Arverne-Edgemere,21,7,2,13,8,0,5,honeylocust
+3117400,Brooklyn,Cypress Hills-City Line,362,8,6,315,30,17,43,littleleaf linden
+3098600,Brooklyn,Canarsie,179,0,3,144,34,1,22,London planetree
+4101700,Queens,Ft. Totten-Bay Terrace-Clearview,1220,8,35,1054,129,37,70,London planetree
+4071900,Queens,Forest Hills,193,6,17,123,58,12,32,London planetree
+5002700,Staten Island,Stapleton-Rosebank,256,9,13,198,44,14,34,littleleaf linden
+4068200,Queens,Laurelton,199,1,9,166,27,6,38,Norway maple
+3083800,Brooklyn,East Flatbush-Farragut,127,0,9,121,4,2,25,London planetree
+2036502,Bronx,East Tremont,74,7,1,70,3,1,21,Sophora
+4046700,Queens,Elmhurst,221,6,4,169,37,15,20,honeylocust
+3114400,Brooklyn,East New York (Pennsylvania Ave),569,10,3,385,140,44,47,honeylocust
+4036500,Queens,East Elmhurst,173,6,10,121,43,9,19,Norway maple
+1019100,Manhattan,Upper West Side,425,6,8,351,56,18,32,Callery pear
+4118500,Queens,East Flushing,173,6,8,157,13,3,35,cherry
+2041300,Bronx,Bedford Park-Fordham North,279,6,5,242,23,14,39,pin oak
+2032600,Bronx,Allerton-Pelham Gardens,391,8,24,314,61,16,51,London planetree
+5023100,Staten Island,Mariner's Harbor-Arlington-Port Ivory-Graniteville,604,27,12,446,136,22,60,cherry
+4051100,Queens,Maspeth,340,6,16,241,88,11,51,honeylocust
+3024000,Brooklyn,Borough Park,195,6,9,169,24,2,31,London planetree
+2039500,Bronx,Claremont-Bathgate,400,18,9,199,154,47,48,London planetree
+3046800,Brooklyn,Borough Park,189,5,9,144,41,4,28,pin oak
+3117601,Brooklyn,Cypress Hills-City Line,246,5,4,217,18,11,36,Callery pear
+3019200,Brooklyn,Borough Park,103,3,2,82,19,2,26,Japanese zelkova
+3026000,Brooklyn,Bensonhurst West,171,4,3,155,10,6,28,London planetree
+2023502,Bronx,Mount Hope,148,8,1,118,25,5,26,honeylocust
+1011600,Manhattan,Lenox Hill-Roosevelt Island,175,4,1,111,47,17,17,honeylocust
+4005200,Queens,Woodhaven,139,0,4,126,11,2,22,green ash
+4157101,Queens,Bellerose,2003,19,70,1680,259,64,74,Norway maple
+3075000,Brooklyn,Midwood,212,1,4,197,11,4,36,Norway maple
+4093800,Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,348,18,5,161,120,67,31,honeylocust
+3086600,Brooklyn,Rugby-Remsen Village,226,3,6,206,16,4,38,London planetree
+3070602,Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basin,64,2,5,52,9,3,11,red maple
+4081400,Queens,South Ozone Park,469,3,18,371,86,12,38,London planetree
+4027900,Queens,Jackson Heights,271,0,10,238,29,4,33,London planetree
+4039902,Queens,Corona,36,0,0,31,4,1,9,cherry
+5010500,Staten Island,New Brighton-Silver Lake,791,25,6,722,57,12,61,cherry
+2006400,Bronx,West Farms-Bronx River,188,6,7,162,18,8,21,Norway maple
+2033000,Bronx,Bronxdale,180,7,11,132,37,11,34,pin oak
+3035000,Brooklyn,West Brighton,24,0,2,21,3,0,6,Japanese zelkova
+4052400,Queens,St. Albans,347,3,11,324,22,1,43,cherry
+3112800,Brooklyn,East New York (Pennsylvania Ave),311,10,6,277,30,4,33,London planetree
+3026100,Brooklyn,Bedford,267,6,6,205,57,5,44,Japanese zelkova
+1004002,Manhattan,East Village,147,2,7,113,27,7,20,Callery pear
+4065703,Queens,Middle Village,368,1,11,317,45,6,50,London planetree
+4077906,Queens,Kew Gardens Hills,449,4,3,420,24,5,41,London planetree
+3119200,Brooklyn,East New York,263,13,5,193,53,17,39,honeylocust
+2031800,Bronx,Allerton-Pelham Gardens,239,12,9,199,29,11,43,London planetree
+4010800,Queens,Richmond Hill,155,4,8,113,30,12,27,Norway maple
+4025100,Queens,Woodside,305,3,2,239,58,8,32,honeylocust
+3027000,Brooklyn,Bensonhurst West,149,1,5,126,16,7,22,London planetree
+4004700,Queens,Astoria,111,0,1,102,6,3,19,London planetree
+1009901,Manhattan,Hudson Yards-Chelsea-Flatiron-Union Square,327,12,3,290,25,12,22,Chinese elm
+3057400,Brooklyn,Madison,201,1,9,189,9,3,28,London planetree
+1015602,Manhattan,East Harlem South,62,3,1,42,20,0,12,honeylocust
+3099000,Brooklyn,Canarsie,104,0,1,91,13,0,27,London planetree
+2023600,Bronx,Van Nest-Morris Park-Westchester Square,131,3,4,116,12,3,28,littleleaf linden
+2005600,Bronx,West Farms-Bronx River,180,4,5,169,7,4,25,honeylocust
+3024500,Brooklyn,Bedford,254,1,4,212,38,4,37,honeylocust
+3103402,Brooklyn,Canarsie,31,2,0,19,4,8,3,cherry
+4060300,Queens,Middle Village,125,0,3,121,2,2,26,London planetree
+4066501,Queens,Middle Village,415,5,16,327,79,9,49,maple
+2014100,Bronx,Morrisania-Melrose,181,4,7,135,32,14,28,London planetree
+3004400,Brooklyn,Bay Ridge,760,4,15,660,86,14,61,London planetree
+1012601,Manhattan,Lenox Hill-Roosevelt Island,143,15,3,102,28,13,17,honeylocust
+1006800,Manhattan,Gramercy,203,2,5,162,38,3,20,Callery pear
+4049500,Queens,Maspeth,143,1,11,109,32,2,26,maple
+5015601,Staten Island,Great Kills,1868,21,52,1539,268,61,78,Callery pear
+4025301,Queens,Hunters Point-Sunnyside-West Maspeth,245,2,3,185,49,11,26,London planetree
+3084000,Brooklyn,East Flatbush-Farragut,169,1,10,157,7,5,26,honeylocust
+1018500,Manhattan,Upper West Side,100,2,2,81,14,5,13,London planetree
+5018701,Staten Island,Westerleigh,172,2,4,140,25,7,33,London planetree
+3008600,Brooklyn,Sunset Park East,87,0,8,82,5,0,3,London planetree
+3042800,Brooklyn,Bensonhurst East,191,1,12,160,25,6,31,London planetree
+1027100,Manhattan,Washington Heights North,330,15,7,149,144,37,33,honeylocust
+4026000,Queens,South Jamaica,255,3,3,231,16,8,31,London planetree
+1020600,Manhattan,Central Harlem North-Polo Grounds,312,11,1,214,70,28,35,Callery pear
+1010801,Manhattan,Turtle Bay-East Midtown,125,0,0,97,24,4,14,honeylocust
+3010801,Brooklyn,Sunset Park East,102,3,2,81,13,8,20,London planetree
+1024301,Manhattan,Washington Heights South,141,7,2,98,35,8,24,honeylocust
+5027301,Staten Island,New Springville-Bloomfield-Travis,891,27,4,745,112,34,52,Callery pear
+4040400,Queens,St. Albans,416,9,23,371,34,11,43,cherry
+2045600,Bronx,Eastchester-Edenwald-Baychester,279,4,16,235,31,13,48,cherry
+3022100,Brooklyn,Crown Heights North,201,1,5,163,28,10,26,pin oak
